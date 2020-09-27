@@ -1,362 +1,252 @@
-import java.util.NoSuchElementException;
-import java.util.LinkedList;
-
-/**
- * This class implements the hash table data structure and implements the MapADT interface along
- * with its associated methods
- *
- * implements MapADT
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
-public class InventorySystem implements prodADT {
+package inventorysystem;
 
-  // total number of data items stored in the hash table
-  private int size = 0;
-  // an array of linked lists that stores the data items as individual elements of a linked list
-  // which are referenced through the key's hashcode as an index
-  private LinkedList<Item>[] productMap;
+import java.util.LinkedList;
+import java.util.NoSuchElementException;
 
-  /**
-   * this is a class that stores both the value and the key of the specified types. This is the
-   * class used to define objects that are individual nodes in each linked list
-   */
-  public static class Item {
-    // the key
-    long barcodeNum;
-    String prodName;
-    double price;
-    String manufacturer;
-    String prodType;
-
-    /**
-     * The constructor method that intializes the StoredObject object which is a node in the
-     * specific linked list
-     * 
-     * @param key   the specific key which is used to reference the associated value
-     * @param value the value that is stored within the StoredObject which can be accessed through
-     *              the key
-     */
-    public Item(long barcodeNum, String prodName, double price, String manufacturer,
-        String prodType) {
-      // initializing the fields with the given arguments
-      this.barcodeNum = barcodeNum;
-      this.prodName = prodName;
-      this.price = price;
-      this.manufacturer = manufacturer;
-      this.prodType = prodType;
+ class Product{ //Product class
+    String prodName;//attributes of product class
+    long BarcodeNum;
+    float price;
+    String Manufacturer;
+    String ProdType;
+    
+    Product(Long BarcodeNum, Product P){ // constructer which takes barcode and product as parameters
+        this.BarcodeNum = BarcodeNum; // intializes Product object.
+        this.Manufacturer = P.Manufacturer;
+        this.ProdType = P.ProdType;
+        this.price = P.price;
+        this.prodName = P.prodName;
     }
-
-    /**
-     * method that checks if two StoredObjects are equal by checking if their individual keys and
-     * values
-     * 
-     * @param toCompare the object that is to be compared with the one calling the method
-     * @return true if the keys and values match and false otherwise
-     */
-    public boolean equals(Item toCompare) {
-      // checks if key and values of the object calling the function are equal to those of the one
-      // passed as an argument
-      // TODO: TWO PRODUCTS ARE THE SAME IF THEY HAVE THE SAME NAME, MANUFACTURER AND BARCODENUM
-      if (this.barcodeNum == toCompare.getBarcodeNum() && this.prodName == toCompare.getName()
-          && this.manufacturer == toCompare.getManufacturer()) {
-        return true;
+    
+    String getName(){ //Method to get Product name 
+        return prodName;
+    }
+    
+    float getPrice(){//Method to get Product price
+        return price;
+    }
+    
+    String getManufacturer(){ //Method to get Product manufacturer
+        return Manufacturer;
+    }
+    
+    String getProdType(){ //Method to get Product type
+        return ProdType;
+    }
+    
+    long getBarcode(){ //Method to get Product barcode
+        return BarcodeNum;
+    }
+    void setName(String prodName){ //Method to set Product name 
+        this.prodName = prodName;
+    }
+    
+    void setBarcodeNum(long BarcodeNum){ //Method to set Product barcode
+        this.BarcodeNum = BarcodeNum;
+    }
+    
+    void setPrice(float price){ //Method to set Product price
+        this.price = price;
+    }
+    
+    void setManufacturer( String Manufacturer){ //Method to set Product manufacturer
+        this.Manufacturer = Manufacturer;
+    }
+    void setType(String ProdType){ //Method to set Product type
+        this.ProdType = ProdType;
+    }
+   
+    
+}
+/**
+ *
+ * @author shreyans
+ */
+public class InventorySystem{ 
+      
+      
+  public int size, capacity, growth = 0; // initializes the size, capacity and threshold (growth) of a new hashtable to 0
+  private double max_load_factor; 
+  private LinkedList<Product> arr [] ; // intializes a new Linked list of type Product with variable name array
+  
+ private double load_factor = 0.80; //sets default load factor to 0.80
+ private int def_capacity = 10; // sets default capacity to 10
+  
+  
+  public InventorySystem(int capacity){ // constructor for InventorySystem (user defined capacity)
+      this.capacity = capacity;
+      this.max_load_factor = load_factor;
+      arr = new LinkedList[this.capacity]; //intializez the array
+      for(int i =0; i< arr.length; i++) // intializes a linked list for each array index 
+      {
+          arr[i] = new LinkedList<Product>();
       }
-      // the objects don't have the same key and/or values
-      return false;
-    }
-
-    /**
-     * Getter method that returns the key field of the StoredObject object (node)
-     *
-     * @return the key field of that specific object
-     */
-    public long getBarcodeNum() {
-      return this.barcodeNum;
-    }
-
-    /**
-     * Getter method that returns the value field of the StoredObject object (node)
-     *
-     * @return the value field of that specific object
-     */
-
-    public String getName() {
-      return this.prodName;
-    }
-
-    public double getPrice() {
-      return this.price;
-    }
-
-    public String getManufacturer() {
-      return this.manufacturer;
-    }
-
-    public String getProdType() {
-      return this.prodType;
-    }
-
-    @Override
-    public String toString() {
-      // TODO @front-end: how to display this info
-      return this.barcodeNum + " " + this.prodName + " " + this.manufacturer;
-    }
+      growth = (int) (this.capacity * max_load_factor);
   }
-
-  /**
-   * constructor that initializes the array of linked lists with the specified number as its
-   * capacity
-   * 
-   * @param capacity the specified number which is the capacity of the array of linked lists
-   */
-  @SuppressWarnings("unchecked")
-  public InventorySystem(int capacity) {
-    productMap = new LinkedList[capacity];
-  }
-
-  /**
-   * constructor that initializes the array of linked lists with capacity equal to 10
-   * 
-   */
-  @SuppressWarnings("unchecked")
-  public InventorySystem() {
-    productMap = new LinkedList[10];
-  }
-
-  /**
-   * Adds a new key, value pair to the dataMap hash table
-   * 
-   * @param key   the key field of that specific object to be inserted
-   * @param value the value field of that specific object to be inserted
-   * @return true if the insertion is successful and false if the key already exists in the hash
-   *         table or if insertion couldn't be completed
-   */
-  // @Override
-  public boolean put(long barcodeNum, Item toAdd) {
-    // the hashCode of the key
-    Long toLong = (Long) barcodeNum;
-    int addIndex = toLong.hashCode();
-    // checking if it is negative
-    if (addIndex < 0) {
-      // converting it to a positive number
-      addIndex = -1 * addIndex;
-    }
-    // finding the remainder when addIndex is divided by the capacity of the array of linked lists
-    // so the required index is between 0 and the capacity of the array
-    addIndex = addIndex % productMap.length;
-
-    // checking if a linked list has been defined at that index
-    if (productMap[addIndex] == null) {
-      // if not, a new linked list is initialized at that spot
-      productMap[addIndex] = new LinkedList<Item>();
-    } else {
-      // if there is a linked list exists at that position, this loops iterates through all the
-      // nodes and checks if there is a key that already exists
-      for (int i = 0; i < productMap[addIndex].size(); i++) {
-        if (toLong.equals(productMap[addIndex].get(i).getBarcodeNum())) {
-          // if such a key exists, false is returned
-          return false;
-        }
+  public InventorySystem(){ // constructor for hashtable with predefined capacity 
+      max_load_factor = load_factor; 
+      capacity = def_capacity;
+      arr = new LinkedList[this.capacity]; //intializez the array
+      for(int i =0; i< arr.length; i++) // intializes a linked list for each array index  
+      {
+          arr[i] = new LinkedList<Product>();
       }
+  }
+    
+  
+  public int size(){ // returns the number of key-value pair stored in the hash table
+      return size;
+          
+  } 
+  
+  public void clear() { // clears the whole hash table map.
+    for (int i =0; i< capacity; i++)
+    {
+       arr[i].clear();
+       size = 0;
     }
-    // the object to be inserted in the linked list at the addIndex position
-    productMap[addIndex].add(toAdd);
-    // increment size
-    size++;
-    // calls the doubling and rehashing helper method
-    helpDoubleRehash();
-    // insertion successful
-    return true;
   }
-
-  /**
-   * returns the value of StoredObject obj (node) from the hash table given the key to that object
-   * 
-   * @param key the key field of that specific object to be looked up
-   * @return the value associated with that key
-   * @throws a NoSuchElementException with a descriptive error message if there is no key found in
-   *           this hash table having the provided key
-   */
-  // @Override
-  public Item get(long barcodeNum) throws NoSuchElementException {
-
-    for (int findIndex = 0; findIndex < productMap.length; findIndex++) {
-      if (productMap[findIndex] == null) {
-        continue;
-      }
-      for (int i = 0; i < productMap[findIndex].size(); i++) {
-
-        if (productMap[findIndex].get(i).getBarcodeNum() == barcodeNum) {
-          return productMap[findIndex].get(i);
-        }
-      }
-    }
-
-    throw new NoSuchElementException("No match found for the given key");
+  
+  private int absolute(int hash_key){ //method to calculate the hash code and keep it positive and within capacity.
+  return   (Math.abs(hash_key) )% capacity;
   }
-
-  /**
-   * returns the number of elements in the hash table
-   * 
-   * @return size field of the array that holds the number of key value pairs inserted
-   */
-  // @Override
-  public int size() {
-    return size;
-  }
-
-  /**
-   * returns the number of index positions that could be filled in the given array
-   * 
-   * @return the capacity which is the number of index positions that could be filled in the given
-   *         array
-   */
-  public int capacity() {
-    return productMap.length;
-  }
-
-  /**
-   * returns the if the given key is present in the hash table
-   * 
-   * @param key the key field of that specific object to be checked
-   * @return true if the key is present in the hash table and false otherwise
-   */
-  // @Override
-  public boolean containsKey(long barcodeNum) {
-    // loop that goes over the array of linked lists and checks if it can find a key matching the
-    // given key
-    for (int findIndex = 0; findIndex < productMap.length; findIndex++) {
-      // skips those indexes that are null
-      if (productMap[findIndex] == null) {
-        continue;
-      }
-      // iterating over the linkedlist to find a match for the key
-      for (int i = 0; i < productMap[findIndex].size(); i++) {
-        if (productMap[findIndex].get(i).getBarcodeNum() == (barcodeNum)) {
-          // match found
-          return true;
-        }
-      }
-    }
-    // key not found
-    return false;
-  }
-
-  /**
-   * remove a StoredObject object (node) which has given key
-   * 
-   * @param key the given key that is used to find the object to be removed
-   * @return the value which was removed and null if the key doesn't exist
-   */
-  // @Override
-  public Item remove(long barcodeNum) {
-    try {
-      // if they key doesn't exist, get throws a NoSuchElementException
-      Item toRemove = get(barcodeNum);
-      // iterating the array of linked lists
-      for (int findIndex = 0; findIndex < productMap.length; findIndex++) {
-        // skips if the data at findIndex is null
-        if (productMap[findIndex] == null) {
-          continue;
-        }
-        // iterates through the linked list
-        for (int i = 0; i < productMap[findIndex].size(); i++) {
-          // checks if the object to be removed is the same as the one being checked in the loop
-          if (productMap[findIndex].get(i).equals(toRemove)) {
-            // if true, size is decreased and removed from the linked list
-            size--;
-            return productMap[findIndex].remove(i);
+  
+  public Product get(Long key) throws NoSuchElementException{ // method takes the barcode as a parameter and returns product if found. 
+      // else throws NoSuchElementException
+      int dex = absolute(key.hashCode());//calls absolute method to calculate index
+      Product  test; 
+      if (arr[dex] == null){
+         throw new NoSuchElementException();  // throw exception if the key refers to a null value
+          }
+      else{
+          for (int i =0; i < arr[dex].size(); i++){ // loop for traversing though the linked list at certain index
+            test = this.arr[dex].get(i); // stores the product for comparision 
+            if(test.BarcodeNum == key){ // compares the barcode
+              return test; // returns the Product if barcode matches
           }
         }
       }
-    } catch (NoSuchElementException nsee) {
-      // key doesn't exist
-      return null;
+      throw new NoSuchElementException(); // throws an exception if the key doesn't match
+  }
+  
+  
+  
+    
+  
+public boolean containsKey(Long barcodeNum){ // method to check wether a barcode-product pair exists in the hashtable or not.
+   Long test;//returns null if the key-value pair doesn't exist.
+   for(int x =0; x< capacity; x++){ //traversing through the array
+       for (int y = 0; y< arr[x].size(); y++){ // traversing through the linked list
+           test = (Long)(arr[x].get(y)).BarcodeNum; //stores the barcode for comparision.
+           if(test == barcodeNum){ //compares the barcodes and returns true if the provided barcode is stored in the table.
+               return true;
+           }
+       }
+   }
+return false;
+
+}
+
+public boolean put(Long BarcodeNum, Product P){ //method to insert product in the table, returns false if the key already exists.
+    Product test;
+    for (int i =0; i< capacity; i++ ){ // loop for going through the array.
+      for (int j =0; j< arr[i].size();j++){ // loop for traversing the linked list.    
+      test = this.arr[i].get(j); //storing the product in test for comparision.
+        if(test.BarcodeNum == BarcodeNum){ // comparing the barcode.
+          return false; // returns false if key already exists
+           }
+        }
     }
-    return null;
-  }
+    int dex = absolute(BarcodeNum.hashCode()); //generates hash code for the product.
+    arr[dex].add(new Product(BarcodeNum,P));// stores the product at the calculated index.
+    size++; // increases the size
+    grow(); // calls grow function to check wether insersion causes the table to cross the threshold value.
+    return true; // returns true on successfull insertion.
+}
 
-  /**
-   * removes all the items from the hash table by setting it to null
-   */
-  // @Override
-  @SuppressWarnings("unchecked")
-  public void clear() {
-    // sets size to zero
-    size = 0;
-    // re-assigns the array to a new array of linked list with the original capacity
-    int initCapacity = productMap.length;
-    productMap = new LinkedList[initCapacity];
-  }
+ 
 
-  /**
-   * Private helper method that doubles and rehashes the hash table when the load capacity exceeds
-   * 80%
-   */
-  @SuppressWarnings("unchecked")
-  private void helpDoubleRehash() {
-    // makes a shallow copy of the existing array into temp
-    LinkedList<Item>[] temp = productMap.clone();
+    
 
-    // checks if the load capacity exceeds 80%
-    if (((double) size() / productMap.length) >= 0.8) {
-      // a new array of linked list is created with the capacity twice of the original
-      productMap = new LinkedList[temp.length * 2];
-      // a loop that rehashes dataMap with the values from temp
-      for (int i = 0; i < temp.length; i++) {
-        // checks which positions are initialized with linked lists
-        if (temp[i] != null) {
-          LinkedList<Item> each = (LinkedList<InventorySystem.Item>) temp[i].clone();
-          productMap[i] = each;
+ 
+
+ private void grow() { // method to resize the hash table on crossing the threshhold value.
+     
+     if(((float)size/(float)(capacity))>=0.8)  // checks wether table has crossed the threshold value.
+     {     
+       Product test[] = new Product[capacity]; //declared a temporary array
+       int counter = 0; // Counter for temporary array test
+     
+
+ 
+
+    for (int i = 0; i < arr.length; i++) {
+         for(int j = 0; j< arr[i].size(); j++) //traverses through the hash table 
+         {
+             if(arr[i].get(j)!= null)
+             {
+                 test[counter++] = (new Product(arr[i].get(j).BarcodeNum,arr[i].get(j))); //  Stores values in test array.
+             }
+             
+         }
+        }
+
+        clear(); // Clears old Hash Table (arr) 
+        capacity = capacity*2; 
+        arr = new LinkedList[capacity]; // Re- initialize Hash Table (arr)
+        for(int i = 0; i<arr.length;i++)
+        {
+            arr[i] = new LinkedList<Product>();
+        }
+        
+        for(int i = 0; i<counter;i++ )
+        {
+            put((Long) test[i].BarcodeNum,(Product)test[i]); // Add all the values in the temporary array in the Hash Table which has been re-initialized.
+            
+        }       
+      }
+    }
+
+ 
+
+public Product remove(Long key) throws NoSuchElementException{ // method for removing a product, returns the product removed.
+ int dex = absolute(key.hashCode()); // calculates the hash code.
+      Product test;  
+      if (arr[dex] == null){
+         throw new NoSuchElementException(); //throws exception there is no element on the given index. 
+      }
+      else{
+          for (int i =0; i < arr[dex].size(); i++){ // goes through the linked list.
+          test = this.arr[dex].get(i); 
+          if(test.BarcodeNum == key){ //compres the barcode.
+              Product v = test; 
+              arr[dex].remove(i); // removes the product if they match
+              size --; // reduces the size
+              return v; //returns the value
+          }
         }
       }
-    }
-  }
+    throw new NoSuchElementException();
+}
 
-  /*
-   * User inputs first 3 digits and last digit
-   */
-  public LinkedList<Item> findPartialMatches(int first3, int lastDigit) {
-    // oversized array
-    LinkedList<Item> toReturn = new LinkedList<Item>();
-    for (int findIndex = 0; findIndex < productMap.length; findIndex++) {
-      // skips if the data at findIndex is null
-      if (productMap[findIndex] == null) {
-        continue;
-      }
-      // iterates through the linked list
-      for (int i = 0; i < productMap[findIndex].size(); i++) {
-        // checks if the object to be removed is the same as the one being checked in the loop
-        long checkBarcode = productMap[findIndex].get(i).getBarcodeNum();
-        int calcFirstThree = 0;
-        String strThree = checkBarcode + "";
-        calcFirstThree = Integer.parseInt(strThree.substring(0, 3));
-        if (calcFirstThree == first3 && checkBarcode % 10 == lastDigit) {
-          // if true, size is decreased and removed from the linked list
-          toReturn.add(get(checkBarcode));
+public String[] PartialMatch(Long Barcode){ // takes partial/ full barcode and returns an array of barcode that match the sequence
+    String test = (Long.toString(Barcode));// converts the barcode from Long to String
+    String a[] = new String[size]; // String array for storing the matches
+     for(int x =0; x< capacity; x++){ //traversing through the array
+       for (int y = 0; y< arr[x].size(); y++){ //traversing through the linked list
+        String comp = (Long.toString(arr[x].get(y).BarcodeNum)); // gets the barcode from the HashTable and converts it to string
+        if(comp.contains(test)){ // checks wether the given barcode sequence matches any from the hash table
+            int i =0;
+            a[i] = comp;// stores the matches
+            i++;
         }
-      }
-    }
-    return toReturn;
-  }
-
-  public static void main(String args[]) {
-    InventorySystem productMap = new InventorySystem(5);
-    // 9 digit barcode!
-    // String prodName, float price, String manufacturer, String prodType
-    Item toAdd = new Item(252385730, "pixel buds", 699.99, "m111", "personal gadgets");
-    productMap.put(252385730, toAdd);
-    Item toAdd1 = new Item(376236242, "mini fridge", 199.99, "manu2", "home appliances");
-    productMap.put(376236242, toAdd1);
-    Item toAdd2 = new Item(252543880, "pixel phone", 899.99, "m111", "personal gadgets");
-    productMap.put(252543880, toAdd2);
-
-    System.out.println(productMap.get(252385730).toString());
-    System.out.println(productMap.get(376236242).toString());
-    System.out.println(productMap.get(252543880).toString());
-    LinkedList<Item> returned = productMap.findPartialMatches(252, 0);
-    System.out.println("partial matches: ");
-    for(int i = 0; i<returned.size(); i++) {
-      System.out.println(returned.get(i).toString());
-    }
-  }
+       }
+     }
+     return a; // returns the array.
+}
 }
