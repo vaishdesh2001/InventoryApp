@@ -24,7 +24,7 @@ public class InventorySystem {
    * @param lastDigit
    * @return
    */
-  public LinkedList<Product> findPartialMatches(int first3, int lastDigit,
+  public static LinkedList<Product> findPartialMatches(int first3, int lastDigits,
       HashTableMap<Long, Product> productMap) {
     // oversized array
     LinkedList<HashTableMap<Long, Product>.StoredObject>[] productArray = productMap.dataMap;
@@ -41,19 +41,28 @@ public class InventorySystem {
         int calcFirstThree = 0;
         String strThree = checkBarcode + "";
         calcFirstThree = Integer.parseInt(strThree.substring(0, 3));
-        if (calcFirstThree == first3 && checkBarcode % 10 == lastDigit) {
-          // if true, size is decreased and removed from the linked list
+        if (calcFirstThree == first3 && checkBarcode % 1000 == lastDigits) {
           toReturn.add((Product) productMap.get(checkBarcode));
         }
       }
     }
     return toReturn;
   }
+  
+  public static void displayGet(Product returnedProduct) {
+    System.out.println("Barcode:      " + returnedProduct.getBarcode());
+    System.out.println("Name:         " + returnedProduct.getName());
+    System.out.println("Manufacturer: " + returnedProduct.getManufacturer());
+    System.out.println("Type:         " + returnedProduct.getType());
+    System.out.println("Price:        " + returnedProduct.getPrice());
+  }
 
   public static void main(String args[]) {
     // front end
     // USe YOUR hash table map implementation!!
     Generation.generateFile();
+    HashTableMap<Long, Product> productMap = new HashTableMap<>();
+    UserInterface.runProgram(productMap);
   }
 
 }

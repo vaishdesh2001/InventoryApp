@@ -298,15 +298,4 @@ public class HashTableMap<KeyType, ValueType> implements MapADT<KeyType, ValueTy
     }
   }
 }
-// 
-//
-// /**
-// * getter method that returns the reference to the array of linkedlist that stores the key value
-// * pairs
-// *
-// * @return reference to the array of linkedlist called dataMap
-// */
-// public LinkedList<StoredObject>[] retRef() {
-// return dataMap;
-// }
 
