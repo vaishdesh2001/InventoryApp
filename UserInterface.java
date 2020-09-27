@@ -8,7 +8,7 @@ public class UserInterface {
    * enter barcode number with proper format to add product
    * 
    */
-  public static void userPromptAdd() {
+  public static void userPromptAdd(HashTableMap<Long, Product> productMap) {
     // initializes the scanner object to take user input
     Scanner scnr = new Scanner(System.in);
     // initializes a char variable
@@ -27,7 +27,7 @@ public class UserInterface {
 
     } while (userInput != 'p' && userInput != 'P');
     // after the loop breaks it will call this function to create product object
-    createProduct();
+    
 
     // initializes a long variable
     Long barcode = 0L;
@@ -51,26 +51,28 @@ public class UserInterface {
         scnr.nextLine();
       }
     }
-
-    // TODO call put function from back-end
+    Product toAdd = createProduct(barcode);
+    if(!productMap.put(barcode, toAdd)) {
+      System.out.println("Product was not added");
+    }
   }
 
   /**
    * 
    */
-  public static void createProduct() {
+  public static Product createProduct(Long barcode) {
+    Product toReturn;
     // initializes the scanner object to take user input
     Scanner scnr = new Scanner(System.in);
     // initializes a string variable
-    String data = "";
     // prompt to get the name of the product
     System.out.println("Enter name of the product: ");
     // stores the input entered by the user
-    data = scnr.next();
+    String name = scnr.next();
 
 
     // initializes a float variable
-    Float price = 0F;
+    double price = 0;
     // loop goes until the condition evaluates to false, i.e. when user enter correct numerical
     // prompt to get the price of the product from the user
     boolean happened = false;
@@ -78,7 +80,7 @@ public class UserInterface {
       System.out.println("Enter a price of the product: ");
       // handles the input mismatch exception thrown in case user enters some other data type
       try {
-        price = scnr.nextFloat();
+        price = scnr.nextDouble();
         happened = true;
       }
       // catches exception thrown and displays a message which prompts the user to enter data
@@ -91,13 +93,14 @@ public class UserInterface {
     }
     // prompt to get the manufacturer name from the user
     System.out.println("Enter manufacturer name: ");
-    data = scnr.next();
+    String manufacturer = scnr.next();
 
 
     // prompt to get the product type from user
     System.out.println("Enter product type: ");
-    data = scnr.next();
-
+    String type = scnr.next();
+    toReturn = new Product(name, type, manufacturer, barcode, price);
+    return toReturn;
   }
 
   /**
@@ -105,7 +108,7 @@ public class UserInterface {
    * number with proper format to find product
    * 
    */
-  public static void findProduct() {
+  public static void findProduct(HashTableMap<Long, Product> productMap) {
     Scanner scnr = new Scanner(System.in);
     // initializes a long variable
     Long barcode = 0L;
@@ -129,15 +132,14 @@ public class UserInterface {
         scnr.nextLine();
       }
     }
-
-    // TODO call the find function of back-end to find
+    
   }
 
   /**
    * a method which executes when user presses 'r' or 'R', which further asks to enter barcode
    * number with proper format to remove product
    */
-  public static void removeProduct() {
+  public static void removeProduct(HashTableMap<Long, Product> productMap) {
     Scanner scnr = new Scanner(System.in);
     // initializes a long variable
     Long barcode = 0L;
@@ -161,7 +163,7 @@ public class UserInterface {
         scnr.nextLine();
       }
     }
-    // TODO call the remove function of back-end to remove
+    productMap.remove(barcode);
   }
 
   public static void userPromptLoadFile(HashTableMap<Long, Product> productMap) {
@@ -223,11 +225,11 @@ public class UserInterface {
       if (input == 'L' || input == 'l') {
         userPromptLoadFile(productMap);
       } else if (input == 'A' || input == 'a') {
-        userPromptAdd();
+        userPromptAdd(productMap);
       } else if (input == 'R' || input == 'r') {
-        removeProduct();
+        removeProduct(productMap);
       } else if (input == 'F' || input == 'f') {
-        findProduct();
+        findProduct(productMap);
       } else {
         System.out.println("Please enter valid letter!");
       }
