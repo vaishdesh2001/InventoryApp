@@ -1,11 +1,6 @@
-// --== CS400 File Header Information ==--
-// Name: Ayushi Mishra
-// Email: mishra37@wisc.edu
-// Team: LB
-// TA: Divyanshu Saxena
-// Lecturer: Florian
-// Notes to Grader: <optional extra notes>
 import java.util.Scanner;
+import java.io.File;
+import java.io.IOException;
 
 public class UserInterface {
   /**
@@ -13,7 +8,7 @@ public class UserInterface {
    * enter barcode number with proper format to add product
    * 
    */
-  public static void userPromptadd() {
+  public static void userPromptAdd() {
     // initializes the scanner object to take user input
     Scanner scnr = new Scanner(System.in);
     // initializes a char variable
@@ -169,12 +164,41 @@ public class UserInterface {
     // TODO call the remove function of back-end to remove
   }
 
+  public static void userPromptLoadFile(HashTableMap<Long, Product> productMap) {
+    File file = new File("src/listProducts.txt");
+
+    try (Scanner sc = new Scanner(file)) {
+      
+      if (sc.nextLine().equals("name, type, manufacturer, barcode, price")) {
+        while (sc.hasNextLine()) {
+          String[] allData = sc.nextLine().split(",");
+          String name = allData[0];
+          String type = allData[1];
+          String manufacturer = allData[2];
+          Long barcode = Long.parseLong(allData[3]);
+          Double price = Double.parseDouble(allData[4]);
+          System.out.println(barcode);
+          if(productMap.put(barcode, new Product(name, type, manufacturer, barcode, price))) {
+            continue;
+          }else {
+            System.out.println("some products were not added");
+          } 
+        }
+      }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+
+
   /**
    * method which displays instruction
    */
   public static void instruction() {
     System.out.println("Enter the following inputs to proceed with the functionality: ");
-    System.out.println("Input a letter A to add product");
+    System.out.println("Input a letter A to add a product");
+    System.out.println("Input a letter L to load a file containing a list of products");
     System.out.println("Input a letter R to remove a product");
     System.out.println("Input a letter F to find a product");
   }
@@ -183,7 +207,7 @@ public class UserInterface {
    * 
    * @param args
    */
-  public static void main(String[] args) {
+  public static void runProgram(HashTableMap<Long, Product> productMap) {
     // Initializes scanner object to take user input
     Scanner scnr = new Scanner(System.in);
     // calls instruction method to get user input
@@ -196,8 +220,10 @@ public class UserInterface {
       // stores the first character of the input enetered by the user
       char input = scnr.next().charAt(0);
       // checks the userinput and calls the appropriate method based on the instruction
-      if (input == 'A' || input == 'a') {
-        userPromptadd();
+      if (input == 'L' || input == 'l') {
+        userPromptLoadFile(productMap);
+      } else if (input == 'A' || input == 'a') {
+        userPromptAdd();
       } else if (input == 'R' || input == 'r') {
         removeProduct();
       } else if (input == 'F' || input == 'f') {
@@ -214,4 +240,3 @@ public class UserInterface {
 
   }
 }
-
