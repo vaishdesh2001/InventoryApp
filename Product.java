@@ -6,12 +6,18 @@
 // TA: Divyanshu Saxena
 // Lecturer: Gary Dahl
 // Notes to Grader: <optional extra notes>
+/**
+ * This is the Product class. Objects of this class will be stored in the hashtable.
+ * @author Uday Malhotra
+ */
 public class Product{
     private String type;
     private String name;
     private String manufacturer;
     private Long barcode;
     private Double price;
+
+    // array of random product names to store initially
     public static String[] names = { "Iphone X", "Ipad Pro", "Macbook Pro", "XPS 13", "Noise Cancelling Series 2",
             "Inspiron", "Macbook Air", "Chips", "Milk", "Yoghurt", "Cheese", "Chicken Breast", "Frozen Pizza", "Bagels",
             "Bread", "Cookies", "Sparkling Water", "Energy Drink", "Soda", "Root Beer", "Juice", "Toilet Paper",
@@ -20,8 +26,12 @@ public class Product{
             "Microwave", "Oven", "Electric Kettle", "Coffee Maker", "Heater", "Humidifier", "Gaming Console", "Pen",
             "Pencil", "Notepad", "Sticky Notes", "Calendar", "Planner", "Highlighter", "Sharpener", "Notebook",
             "Journal", "Diary", "Printer", "Trashcan", "Chair", "Tape", "Eraser" };
+
+    // array of random product types to add initially
     public static String[] types = { "Personal Gadget", "Food", "Home Supplies", "Home Appliances",
             "Office Supplies" };
+
+    // array of random product manufacturers to add initially
     public static String[] manufacturers = { "Apple", "Dell", "HP", "Lays", "Ruffles", "Doritos", "Chobani", "Lactaid",
             "Shamrock Farms", "Kraft", "DiGiorno", "Pepperidge Farm", "Klarbrunn", "La Croix", "Perrier", "Red Bull",
             "Monster", "Pepsi", "Coca Cola", "A & W", "Tropicana", "Kimberley Clark", "P & G", "Colgate", "Crest",
@@ -29,6 +39,7 @@ public class Product{
             "Bose", "Kenmore", "Panasonic", "Keurig", "Black & Decker", "Playstation", "Microsoft", "Staedtler",
             "Faber Castell", "KOKUYO", "Canson", "Bic", "Durian", "Wipro" };
 
+    // constructor that initializes attributes of the Product
     public Product(String name, String type, String manufacturer, Long barcode, Double price) {
         this.name = name;
         this.type = type;
@@ -36,7 +47,7 @@ public class Product{
         this.barcode = barcode;
         this.price = price;
     }
-
+    //getters and setters for all attributes
     public String getType() {
         return this.type;
     }
