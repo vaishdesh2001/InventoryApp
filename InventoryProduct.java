@@ -3,6 +3,7 @@
 // Name: Sneha Tripathi
 // Email: stripathi3@wisc.edu
 // Team: LB
+// Role: data Wrangler
 // TA: Divyanshu Saxena
 // Lecturer: Florian Heimerl
 // Notes to Grader: I was helped by Uday Malhotra (umalhotra@wisc.edu)
