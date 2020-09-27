@@ -7,7 +7,6 @@
 // Lecturer: Gary Dahl
 // Notes to Grader: <optional extra notes>
 
-import java.util.NoSuchElementException;
 import java.util.LinkedList;
 
 /**
@@ -53,7 +52,8 @@ public class InventorySystem {
 
   public static void main(String args[]) {
     // front end
-    //USe YOUR hash table map implementation!!
+    // USe YOUR hash table map implementation!!
+    Generation.generateFile();
   }
 
 }

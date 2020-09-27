@@ -1,0 +1,3051 @@
+name, type, manufacturer, barcode, price
+Iphone X,Home Supplies,Apple,0,422.87296056747437
+Ipad Pro,Personal Gadget,Apple,0,785.9692573547363
+Macbook Pro,Home Appliances,Apple,0,947.4357962608337
+XPS 13,Personal Gadget,Apple,0,495.1164126396179
+Noise Cancelling Series 2,Personal Gadget,Apple,0,934.3896508216858
+Inspiron,Food,Apple,0,372.330904006958
+Macbook Air,Office Supplies,Apple,0,171.5136170387268
+Chips,Home Supplies,Apple,0,59.608519077301025
+Milk,Food,Apple,0,193.24523210525513
+Yoghurt,Food,Apple,0,689.9257898330688
+Cheese,Food,Apple,0,951.4022469520569
+Chicken Breast,Home Supplies,Apple,0,466.5021300315857
+Frozen Pizza,Office Supplies,Apple,0,827.2139430046082
+Bagels,Food,Apple,0,53.81345748901367
+Bread,Home Appliances,Apple,0,930.3266406059265
+Cookies,Office Supplies,Apple,0,471.55070304870605
+Sparkling Water,Office Supplies,Apple,0,216.31014347076416
+Energy Drink,Food,Apple,0,512.9989385604858
+Soda,Personal Gadget,Apple,0,151.2032151222229
+Root Beer,Personal Gadget,Apple,0,741.0666942596436
+Juice,Food,Apple,0,284.9859595298767
+Toilet Paper,Food,Apple,0,993.9407706260681
+Tooth Brush,Office Supplies,Apple,0,943.8791871070862
+Mouthwash,Food,Apple,0,281.6988229751587
+Toothpaste,Home Supplies,Apple,0,295.48531770706177
+Soap,Office Supplies,Apple,0,526.949942111969
+Shampoo,Home Appliances,Apple,0,715.5823111534119
+Shower Gel,Food,Apple,0,926.5645742416382
+Dish Soap,Home Supplies,Apple,0,828.5426497459412
+Towels,Food,Apple,0,745.8174824714661
+Cutlery,Personal Gadget,Apple,0,895.7103490829468
+Sanitizer,Home Appliances,Apple,0,136.92396879196167
+Laundry Detergent,Personal Gadget,Apple,0,681.5592646598816
+Fabric Softener,Home Appliances,Apple,0,465.2664065361023
+Dishwasher,Home Supplies,Apple,0,283.1600308418274
+Refrigerator,Home Appliances,Apple,0,570.9631443023682
+TV,Personal Gadget,Apple,0,114.58569765090942
+Sound System,Personal Gadget,Apple,0,161.332368850708
+Microwave,Personal Gadget,Apple,0,697.714626789093
+Oven,Food,Apple,0,969.8895215988159
+Electric Kettle,Home Appliances,Apple,0,730.8837175369263
+Coffee Maker,Personal Gadget,Apple,0,606.5337061882019
+Heater,Home Appliances,Apple,0,146.58129215240479
+Humidifier,Personal Gadget,Apple,0,916.4221882820129
+Gaming Console,Home Appliances,Apple,0,291.536808013916
+Pen,Home Supplies,Apple,0,744.7015047073364
+Pencil,Personal Gadget,Apple,0,682.9872131347656
+Notepad,Home Supplies,Apple,0,931.8947196006775
+Sticky Notes,Food,Apple,0,932.5239658355713
+Calendar,Home Appliances,Apple,0,129.59545850753784
+Planner,Food,Apple,0,755.816400051117
+Highlighter,Office Supplies,Apple,0,195.57106494903564
+Sharpener,Home Supplies,Apple,0,577.865719795227
+Notebook,Home Supplies,Apple,0,896.9417810440063
+Journal,Home Supplies,Apple,0,127.58779525756836
+Diary,Home Supplies,Apple,0,893.405556678772
+Printer,Office Supplies,Apple,0,823.8978385925293
+Trashcan,Personal Gadget,Apple,0,291.2852168083191
+Chair,Home Supplies,Apple,0,372.6455569267273
+Tape,Office Supplies,Apple,0,833.3643674850464
+Eraser,Home Appliances,Apple,0,207.42273330688477
+Iphone X,Home Appliances,Dell,0,227.05596685409546
+Ipad Pro,Home Appliances,Dell,0,558.254063129425
+Macbook Pro,Food,Dell,0,500.55521726608276
+XPS 13,Home Supplies,Dell,0,564.434289932251
+Noise Cancelling Series 2,Office Supplies,Dell,0,227.51015424728394
+Inspiron,Office Supplies,Dell,0,958.358883857727
+Macbook Air,Food,Dell,0,167.79732704162598
+Chips,Food,Dell,0,136.30682229995728
+Milk,Office Supplies,Dell,0,355.70991039276123
+Yoghurt,Food,Dell,0,553.0961751937866
+Cheese,Home Supplies,Dell,0,25.895118713378906
+Chicken Breast,Home Supplies,Dell,0,186.78414821624756
+Frozen Pizza,Personal Gadget,Dell,0,428.46745252609253
+Bagels,Home Supplies,Dell,0,626.7033815383911
+Bread,Office Supplies,Dell,0,552.762508392334
+Cookies,Home Appliances,Dell,0,155.8009386062622
+Sparkling Water,Home Supplies,Dell,0,887.1843218803406
+Energy Drink,Food,Dell,0,992.3035502433777
+Soda,Personal Gadget,Dell,0,501.6775131225586
+Root Beer,Office Supplies,Dell,0,795.1123714447021
+Juice,Food,Dell,0,188.77631425857544
+Toilet Paper,Home Supplies,Dell,0,244.10724639892578
+Tooth Brush,Food,Dell,0,956.3289880752563
+Mouthwash,Home Supplies,Dell,0,305.90492486953735
+Toothpaste,Home Supplies,Dell,0,475.3812551498413
+Soap,Home Appliances,Dell,0,965.8947587013245
+Shampoo,Home Supplies,Dell,0,873.951256275177
+Shower Gel,Food,Dell,0,230.0049066543579
+Dish Soap,Home Supplies,Dell,0,583.304762840271
+Towels,Food,Dell,0,9.213387966156006
+Cutlery,Personal Gadget,Dell,0,417.7245497703552
+Sanitizer,Personal Gadget,Dell,0,733.9983582496643
+Laundry Detergent,Food,Dell,0,159.66737270355225
+Fabric Softener,Personal Gadget,Dell,0,795.5426573753357
+Dishwasher,Home Supplies,Dell,0,165.75145721435547
+Refrigerator,Office Supplies,Dell,0,969.5197939872742
+TV,Home Appliances,Dell,0,769.4740891456604
+Sound System,Home Appliances,Dell,0,93.75345706939697
+Microwave,Home Appliances,Dell,0,976.3036370277405
+Oven,Office Supplies,Dell,0,393.1635618209839
+Electric Kettle,Home Supplies,Dell,0,396.33452892303467
+Coffee Maker,Home Supplies,Dell,0,877.504825592041
+Heater,Food,Dell,0,887.6650333404541
+Humidifier,Home Appliances,Dell,0,285.9155535697937
+Gaming Console,Home Appliances,Dell,0,666.821300983429
+Pen,Food,Dell,0,676.7933368682861
+Pencil,Personal Gadget,Dell,0,935.7806444168091
+Notepad,Home Supplies,Dell,0,224.70098733901978
+Sticky Notes,Personal Gadget,Dell,0,461.45957708358765
+Calendar,Personal Gadget,Dell,0,303.6918640136719
+Planner,Home Appliances,Dell,0,184.05282497406006
+Highlighter,Personal Gadget,Dell,0,927.585780620575
+Sharpener,Personal Gadget,Dell,0,314.6014213562012
+Notebook,Home Appliances,Dell,0,954.3813467025757
+Journal,Personal Gadget,Dell,0,577.0108103752136
+Diary,Office Supplies,Dell,0,719.3673849105835
+Printer,Home Appliances,Dell,0,150.9440541267395
+Trashcan,Home Supplies,Dell,0,467.9037928581238
+Chair,Personal Gadget,Dell,0,453.2095789909363
+Tape,Home Appliances,Dell,0,845.7339406013489
+Eraser,Home Appliances,Dell,0,458.2102298736572
+Iphone X,Home Supplies,HP,0,956.6307663917542
+Ipad Pro,Home Supplies,HP,0,682.6001405715942
+Macbook Pro,Home Appliances,HP,0,1.86842679977417
+XPS 13,Food,HP,0,953.515887260437
+Noise Cancelling Series 2,Office Supplies,HP,0,114.266037940979
+Inspiron,Food,HP,0,429.7434091567993
+Macbook Air,Home Appliances,HP,0,735.3168725967407
+Chips,Home Appliances,HP,0,165.2093529701233
+Milk,Personal Gadget,HP,0,254.26751375198364
+Yoghurt,Personal Gadget,HP,0,486.62447929382324
+Cheese,Home Supplies,HP,0,833.1372737884521
+Chicken Breast,Home Supplies,HP,0,122.47270345687866
+Frozen Pizza,Home Supplies,HP,0,534.8968505859375
+Bagels,Food,HP,0,967.4556255340576
+Bread,Food,HP,0,409.790575504303
+Cookies,Home Supplies,HP,0,521.7344760894775
+Sparkling Water,Food,HP,0,886.6744041442871
+Energy Drink,Personal Gadget,HP,0,912.7402305603027
+Soda,Home Appliances,HP,0,174.92949962615967
+Root Beer,Personal Gadget,HP,0,321.95043563842773
+Juice,Personal Gadget,HP,0,873.83633852005
+Toilet Paper,Home Supplies,HP,0,11.002063751220703
+Tooth Brush,Home Supplies,HP,0,279.18779850006104
+Mouthwash,Personal Gadget,HP,0,710.0681662559509
+Toothpaste,Home Appliances,HP,0,93.4634804725647
+Soap,Home Appliances,HP,0,213.96714448928833
+Shampoo,Personal Gadget,HP,0,211.26657724380493
+Shower Gel,Personal Gadget,HP,0,773.4959125518799
+Dish Soap,Home Appliances,HP,0,744.2694306373596
+Towels,Home Appliances,HP,0,494.61811780929565
+Cutlery,Home Supplies,HP,0,451.0599970817566
+Sanitizer,Home Supplies,HP,0,18.15849542617798
+Laundry Detergent,Home Supplies,HP,0,681.607186794281
+Fabric Softener,Office Supplies,HP,0,377.42501497268677
+Dishwasher,Home Supplies,HP,0,971.2587594985962
+Refrigerator,Office Supplies,HP,0,78.72635126113892
+TV,Food,HP,0,616.0733699798584
+Sound System,Office Supplies,HP,0,156.1870574951172
+Microwave,Food,HP,0,223.81365299224854
+Oven,Office Supplies,HP,0,581.8647742271423
+Electric Kettle,Home Appliances,HP,0,110.15969514846802
+Coffee Maker,Home Supplies,HP,0,907.3049426078796
+Heater,Home Supplies,HP,0,947.8382468223572
+Humidifier,Food,HP,0,143.85682344436646
+Gaming Console,Food,HP,0,680.7210445404053
+Pen,Office Supplies,HP,0,504.93454933166504
+Pencil,Personal Gadget,HP,0,991.9735789299011
+Notepad,Office Supplies,HP,0,910.7114672660828
+Sticky Notes,Home Supplies,HP,0,624.6004700660706
+Calendar,Home Supplies,HP,0,849.3567705154419
+Planner,Office Supplies,HP,0,356.93472623825073
+Highlighter,Home Appliances,HP,0,881.8762302398682
+Sharpener,Home Supplies,HP,0,150.5717635154724
+Notebook,Food,HP,0,431.02967739105225
+Journal,Home Appliances,HP,0,832.9030871391296
+Diary,Office Supplies,HP,0,497.93171882629395
+Printer,Office Supplies,HP,0,22.829830646514893
+Trashcan,Office Supplies,HP,0,170.17406225204468
+Chair,Personal Gadget,HP,0,931.6237568855286
+Tape,Food,HP,0,618.1533336639404
+Eraser,Home Appliances,HP,0,199.58031177520752
+Iphone X,Home Appliances,Lays,0,195.37383317947388
+Ipad Pro,Office Supplies,Lays,0,294.5135235786438
+Macbook Pro,Home Supplies,Lays,0,65.58173894882202
+XPS 13,Home Appliances,Lays,0,884.8493695259094
+Noise Cancelling Series 2,Food,Lays,0,854.5575141906738
+Inspiron,Food,Lays,0,395.7793712615967
+Macbook Air,Home Supplies,Lays,0,375.2548098564148
+Chips,Personal Gadget,Lays,0,2.455770969390869
+Milk,Personal Gadget,Lays,0,787.8590822219849
+Yoghurt,Personal Gadget,Lays,0,153.49316596984863
+Cheese,Home Appliances,Lays,0,245.50706148147583
+Chicken Breast,Office Supplies,Lays,0,348.15704822540283
+Frozen Pizza,Home Appliances,Lays,0,334.2384099960327
+Bagels,Home Appliances,Lays,0,11.76297664642334
+Bread,Personal Gadget,Lays,0,462.75538206100464
+Cookies,Food,Lays,0,579.3014168739319
+Sparkling Water,Food,Lays,0,892.3767805099487
+Energy Drink,Food,Lays,0,163.58810663223267
+Soda,Personal Gadget,Lays,0,746.942400932312
+Root Beer,Home Appliances,Lays,0,760.8893513679504
+Juice,Home Appliances,Lays,0,111.24277114868164
+Toilet Paper,Food,Lays,0,846.6783165931702
+Tooth Brush,Office Supplies,Lays,0,47.82217741012573
+Mouthwash,Office Supplies,Lays,0,402.7664065361023
+Toothpaste,Office Supplies,Lays,0,946.8583464622498
+Soap,Personal Gadget,Lays,0,63.464999198913574
+Shampoo,Food,Lays,0,311.5256428718567
+Shower Gel,Office Supplies,Lays,0,794.7410941123962
+Dish Soap,Home Appliances,Lays,0,689.178466796875
+Towels,Personal Gadget,Lays,0,651.7253518104553
+Cutlery,Home Supplies,Lays,0,632.3543190956116
+Sanitizer,Personal Gadget,Lays,0,974.7415781021118
+Laundry Detergent,Home Supplies,Lays,0,36.62818670272827
+Fabric Softener,Personal Gadget,Lays,0,363.6881709098816
+Dishwasher,Personal Gadget,Lays,0,6.508052349090576
+Refrigerator,Home Appliances,Lays,0,849.6942520141602
+TV,Food,Lays,0,175.72563886642456
+Sound System,Home Appliances,Lays,0,499.18293952941895
+Microwave,Home Supplies,Lays,0,612.4586462974548
+Oven,Office Supplies,Lays,0,829.6293616294861
+Electric Kettle,Food,Lays,0,609.3519330024719
+Coffee Maker,Food,Lays,0,682.3411583900452
+Heater,Home Appliances,Lays,0,656.9414138793945
+Humidifier,Office Supplies,Lays,0,832.5871825218201
+Gaming Console,Office Supplies,Lays,0,169.6116328239441
+Pen,Home Supplies,Lays,0,571.5524554252625
+Pencil,Office Supplies,Lays,0,346.04328870773315
+Notepad,Personal Gadget,Lays,0,671.220064163208
+Sticky Notes,Food,Lays,0,249.85939264297485
+Calendar,Home Appliances,Lays,0,648.82493019104
+Planner,Food,Lays,0,467.62317419052124
+Highlighter,Home Supplies,Lays,0,641.5553689002991
+Sharpener,Home Supplies,Lays,0,795.3529357910156
+Notebook,Home Supplies,Lays,0,747.3932504653931
+Journal,Food,Lays,0,404.31034564971924
+Diary,Personal Gadget,Lays,0,600.2048254013062
+Printer,Home Appliances,Lays,0,3.1242966651916504
+Trashcan,Personal Gadget,Lays,0,645.3636288642883
+Chair,Home Supplies,Lays,0,135.5816125869751
+Tape,Home Supplies,Lays,0,938.3752942085266
+Eraser,Office Supplies,Lays,0,999.0434646606445
+Iphone X,Home Supplies,Ruffles,0,878.3813118934631
+Ipad Pro,Food,Ruffles,0,932.9285025596619
+Macbook Pro,Home Appliances,Ruffles,0,639.3579840660095
+XPS 13,Office Supplies,Ruffles,0,983.6826920509338
+Noise Cancelling Series 2,Office Supplies,Ruffles,0,905.7488441467285
+Inspiron,Personal Gadget,Ruffles,0,3.881394863128662
+Macbook Air,Office Supplies,Ruffles,0,40.74186086654663
+Chips,Home Appliances,Ruffles,0,468.4721827507019
+Milk,Home Supplies,Ruffles,0,902.1221995353699
+Yoghurt,Food,Ruffles,0,298.66695404052734
+Cheese,Office Supplies,Ruffles,0,13.417959213256836
+Chicken Breast,Home Supplies,Ruffles,0,259.76961851119995
+Frozen Pizza,Personal Gadget,Ruffles,0,740.8539056777954
+Bagels,Home Appliances,Ruffles,0,57.53147602081299
+Bread,Food,Ruffles,0,16.511619091033936
+Cookies,Office Supplies,Ruffles,0,790.8503413200378
+Sparkling Water,Home Supplies,Ruffles,0,185.24974584579468
+Energy Drink,Food,Ruffles,0,447.2723603248596
+Soda,Office Supplies,Ruffles,0,890.6999826431274
+Root Beer,Personal Gadget,Ruffles,0,250.45692920684814
+Juice,Personal Gadget,Ruffles,0,910.4499220848083
+Toilet Paper,Home Supplies,Ruffles,0,812.2760653495789
+Tooth Brush,Food,Ruffles,0,311.94227933883667
+Mouthwash,Personal Gadget,Ruffles,0,711.4297151565552
+Toothpaste,Home Supplies,Ruffles,0,741.3414716720581
+Soap,Home Appliances,Ruffles,0,648.3696103096008
+Shampoo,Personal Gadget,Ruffles,0,543.4707999229431
+Shower Gel,Personal Gadget,Ruffles,0,124.0728497505188
+Dish Soap,Home Appliances,Ruffles,0,410.8535051345825
+Towels,Home Supplies,Ruffles,0,397.0504403114319
+Cutlery,Home Appliances,Ruffles,0,495.9604740142822
+Sanitizer,Personal Gadget,Ruffles,0,606.2934994697571
+Laundry Detergent,Home Appliances,Ruffles,0,218.18232536315918
+Fabric Softener,Home Supplies,Ruffles,0,553.1674027442932
+Dishwasher,Office Supplies,Ruffles,0,134.116530418396
+Refrigerator,Office Supplies,Ruffles,0,936.1840486526489
+TV,Food,Ruffles,0,197.9391574859619
+Sound System,Home Supplies,Ruffles,0,380.882203578949
+Microwave,Office Supplies,Ruffles,0,952.4878263473511
+Oven,Personal Gadget,Ruffles,0,532.600462436676
+Electric Kettle,Home Appliances,Ruffles,0,798.9078760147095
+Coffee Maker,Food,Ruffles,0,740.7509088516235
+Heater,Home Appliances,Ruffles,0,584.1357111930847
+Humidifier,Personal Gadget,Ruffles,0,495.4224228858948
+Gaming Console,Office Supplies,Ruffles,0,615.0461435317993
+Pen,Food,Ruffles,0,145.01988887786865
+Pencil,Office Supplies,Ruffles,0,602.8581857681274
+Notepad,Home Supplies,Ruffles,0,469.56419944763184
+Sticky Notes,Food,Ruffles,0,411.5579128265381
+Calendar,Office Supplies,Ruffles,0,178.74151468276978
+Planner,Office Supplies,Ruffles,0,232.98794031143188
+Highlighter,Personal Gadget,Ruffles,0,195.43713331222534
+Sharpener,Office Supplies,Ruffles,0,545.3115105628967
+Notebook,Office Supplies,Ruffles,0,851.0696887969971
+Journal,Personal Gadget,Ruffles,0,990.3559684753418
+Diary,Home Supplies,Ruffles,0,613.4485006332397
+Printer,Home Supplies,Ruffles,0,891.5719389915466
+Trashcan,Personal Gadget,Ruffles,0,274.10584688186646
+Chair,Food,Ruffles,0,243.82978677749634
+Tape,Home Appliances,Ruffles,0,301.25343799591064
+Eraser,Food,Ruffles,0,557.9612851142883
+Iphone X,Home Supplies,Doritos,0,305.9217929840088
+Ipad Pro,Personal Gadget,Doritos,0,308.90756845474243
+Macbook Pro,Home Supplies,Doritos,0,839.8599028587341
+XPS 13,Personal Gadget,Doritos,0,991.7581677436829
+Noise Cancelling Series 2,Food,Doritos,0,439.89479541778564
+Inspiron,Office Supplies,Doritos,0,963.1693363189697
+Macbook Air,Personal Gadget,Doritos,0,428.3195734024048
+Chips,Food,Doritos,0,568.0895447731018
+Milk,Personal Gadget,Doritos,0,274.24752712249756
+Yoghurt,Home Supplies,Doritos,0,207.9564332962036
+Cheese,Home Supplies,Doritos,0,696.6192126274109
+Chicken Breast,Home Supplies,Doritos,0,384.26655530929565
+Frozen Pizza,Home Appliances,Doritos,0,353.69396209716797
+Bagels,Office Supplies,Doritos,0,691.4703845977783
+Bread,Personal Gadget,Doritos,0,202.52269506454468
+Cookies,Office Supplies,Doritos,0,779.4585227966309
+Sparkling Water,Office Supplies,Doritos,0,39.348602294921875
+Energy Drink,Personal Gadget,Doritos,0,455.55412769317627
+Soda,Home Appliances,Doritos,0,540.4923558235168
+Root Beer,Home Supplies,Doritos,0,49.097657203674316
+Juice,Office Supplies,Doritos,0,333.5670232772827
+Toilet Paper,Office Supplies,Doritos,0,571.7371702194214
+Tooth Brush,Home Supplies,Doritos,0,339.45566415786743
+Mouthwash,Food,Doritos,0,929.8489689826965
+Toothpaste,Home Supplies,Doritos,0,263.13960552215576
+Soap,Food,Doritos,0,791.6973233222961
+Shampoo,Personal Gadget,Doritos,0,681.0627579689026
+Shower Gel,Food,Doritos,0,693.6782002449036
+Dish Soap,Home Appliances,Doritos,0,507.2726607322693
+Towels,Home Appliances,Doritos,0,553.1122088432312
+Cutlery,Personal Gadget,Doritos,0,631.21497631073
+Sanitizer,Food,Doritos,0,108.49374532699585
+Laundry Detergent,Office Supplies,Doritos,0,446.04480266571045
+Fabric Softener,Food,Doritos,0,553.9432168006897
+Dishwasher,Personal Gadget,Doritos,0,645.0260877609253
+Refrigerator,Office Supplies,Doritos,0,98.03503751754761
+TV,Home Appliances,Doritos,0,700.5370259284973
+Sound System,Personal Gadget,Doritos,0,636.5165114402771
+Microwave,Office Supplies,Doritos,0,579.0123343467712
+Oven,Home Appliances,Doritos,0,665.1249527931213
+Electric Kettle,Office Supplies,Doritos,0,537.5913977622986
+Coffee Maker,Food,Doritos,0,907.3334336280823
+Heater,Office Supplies,Doritos,0,924.1882562637329
+Humidifier,Home Supplies,Doritos,0,530.0983190536499
+Gaming Console,Food,Doritos,0,220.16221284866333
+Pen,Personal Gadget,Doritos,0,859.3655824661255
+Pencil,Home Appliances,Doritos,0,659.8799824714661
+Notepad,Office Supplies,Doritos,0,980.1658987998962
+Sticky Notes,Home Supplies,Doritos,0,498.47912788391113
+Calendar,Office Supplies,Doritos,0,760.6587409973145
+Planner,Personal Gadget,Doritos,0,820.4488158226013
+Highlighter,Personal Gadget,Doritos,0,625.6653666496277
+Sharpener,Home Supplies,Doritos,0,957.7528238296509
+Notebook,Home Supplies,Doritos,0,726.3902425765991
+Journal,Home Supplies,Doritos,0,465.7519459724426
+Diary,Personal Gadget,Doritos,0,115.5998706817627
+Printer,Office Supplies,Doritos,0,864.9083971977234
+Trashcan,Office Supplies,Doritos,0,701.0951042175293
+Chair,Food,Doritos,0,251.04981660842896
+Tape,Food,Doritos,0,377.5565028190613
+Eraser,Office Supplies,Doritos,0,489.8413419723511
+Iphone X,Home Supplies,Chobani,0,43.595850467681885
+Ipad Pro,Home Appliances,Chobani,0,203.20135354995728
+Macbook Pro,Office Supplies,Chobani,0,616.0456538200378
+XPS 13,Personal Gadget,Chobani,0,615.9483790397644
+Noise Cancelling Series 2,Food,Chobani,0,529.2426347732544
+Inspiron,Food,Chobani,0,627.3727416992188
+Macbook Air,Office Supplies,Chobani,0,128.49390506744385
+Chips,Office Supplies,Chobani,0,100.1933217048645
+Milk,Home Supplies,Chobani,0,362.38884925842285
+Yoghurt,Personal Gadget,Chobani,0,292.1167016029358
+Cheese,Personal Gadget,Chobani,0,979.5724749565125
+Chicken Breast,Food,Chobani,0,894.7252035140991
+Frozen Pizza,Office Supplies,Chobani,0,226.59873962402344
+Bagels,Office Supplies,Chobani,0,170.5634593963623
+Bread,Home Supplies,Chobani,0,712.2348546981812
+Cookies,Office Supplies,Chobani,0,900.0747203826904
+Sparkling Water,Home Supplies,Chobani,0,490.9040331840515
+Energy Drink,Office Supplies,Chobani,0,51.59628391265869
+Soda,Food,Chobani,0,567.7847862243652
+Root Beer,Office Supplies,Chobani,0,384.2126727104187
+Juice,Personal Gadget,Chobani,0,437.49624490737915
+Toilet Paper,Office Supplies,Chobani,0,277.2673964500427
+Tooth Brush,Food,Chobani,0,137.49080896377563
+Mouthwash,Office Supplies,Chobani,0,472.26107120513916
+Toothpaste,Home Appliances,Chobani,0,779.5619368553162
+Soap,Personal Gadget,Chobani,0,711.3440632820129
+Shampoo,Home Appliances,Chobani,0,974.7079610824585
+Shower Gel,Personal Gadget,Chobani,0,388.40627670288086
+Dish Soap,Home Appliances,Chobani,0,797.5385189056396
+Towels,Home Appliances,Chobani,0,798.7555861473083
+Cutlery,Home Supplies,Chobani,0,459.1633081436157
+Sanitizer,Food,Chobani,0,714.5712375640869
+Laundry Detergent,Personal Gadget,Chobani,0,137.88890838623047
+Fabric Softener,Home Supplies,Chobani,0,236.84662580490112
+Dishwasher,Food,Chobani,0,124.0072250366211
+Refrigerator,Home Appliances,Chobani,0,919.6614027023315
+TV,Home Supplies,Chobani,0,690.5623078346252
+Sound System,Home Supplies,Chobani,0,346.72337770462036
+Microwave,Office Supplies,Chobani,0,731.4277291297913
+Oven,Food,Chobani,0,808.7062239646912
+Electric Kettle,Food,Chobani,0,989.6306991577148
+Coffee Maker,Office Supplies,Chobani,0,706.6134810447693
+Heater,Office Supplies,Chobani,0,614.0695810317993
+Humidifier,Home Appliances,Chobani,0,342.9778218269348
+Gaming Console,Home Appliances,Chobani,0,266.1592960357666
+Pen,Personal Gadget,Chobani,0,989.042341709137
+Pencil,Personal Gadget,Chobani,0,187.19685077667236
+Notepad,Office Supplies,Chobani,0,490.173876285553
+Sticky Notes,Home Supplies,Chobani,0,623.19016456604
+Calendar,Food,Chobani,0,229.76136207580566
+Planner,Home Appliances,Chobani,0,80.48123121261597
+Highlighter,Home Supplies,Chobani,0,378.0108690261841
+Sharpener,Office Supplies,Chobani,0,799.7886538505554
+Notebook,Personal Gadget,Chobani,0,948.7475156784058
+Journal,Office Supplies,Chobani,0,38.49482536315918
+Diary,Home Supplies,Chobani,0,45.08209228515625
+Printer,Personal Gadget,Chobani,0,644.4218754768372
+Trashcan,Food,Chobani,0,642.224371433258
+Chair,Home Supplies,Chobani,0,595.4312086105347
+Tape,Food,Chobani,0,509.5909833908081
+Eraser,Home Appliances,Chobani,0,727.5105118751526
+Iphone X,Office Supplies,Lactaid,0,169.5404052734375
+Ipad Pro,Home Appliances,Lactaid,0,542.2731637954712
+Macbook Pro,Food,Lactaid,0,709.5803022384644
+XPS 13,Home Supplies,Lactaid,0,488.8128638267517
+Noise Cancelling Series 2,Home Appliances,Lactaid,0,469.8702096939087
+Inspiron,Personal Gadget,Lactaid,0,373.5724091529846
+Macbook Air,Office Supplies,Lactaid,0,107.53309726715088
+Chips,Food,Lactaid,0,937.3728632926941
+Milk,Home Appliances,Lactaid,0,861.0894083976746
+Yoghurt,Home Appliances,Lactaid,0,226.19974613189697
+Cheese,Personal Gadget,Lactaid,0,397.7315425872803
+Chicken Breast,Office Supplies,Lactaid,0,200.08277893066406
+Frozen Pizza,Home Appliances,Lactaid,0,896.8052864074707
+Bagels,Office Supplies,Lactaid,0,303.8715124130249
+Bread,Food,Lactaid,0,806.516170501709
+Cookies,Home Supplies,Lactaid,0,149.4818925857544
+Sparkling Water,Food,Lactaid,0,387.40915060043335
+Energy Drink,Home Appliances,Lactaid,0,418.9522862434387
+Soda,Office Supplies,Lactaid,0,933.5955381393433
+Root Beer,Home Supplies,Lactaid,0,932.2330951690674
+Juice,Home Supplies,Lactaid,0,727.1482944488525
+Toilet Paper,Home Supplies,Lactaid,0,76.97880268096924
+Tooth Brush,Home Supplies,Lactaid,0,946.8156695365906
+Mouthwash,Food,Lactaid,0,466.7884111404419
+Toothpaste,Home Supplies,Lactaid,0,111.59908771514893
+Soap,Food,Lactaid,0,479.547381401062
+Shampoo,Home Supplies,Lactaid,0,213.30493688583374
+Shower Gel,Office Supplies,Lactaid,0,882.0775747299194
+Dish Soap,Home Supplies,Lactaid,0,578.5545706748962
+Towels,Home Appliances,Lactaid,0,927.6492595672607
+Cutlery,Home Appliances,Lactaid,0,126.66863203048706
+Sanitizer,Office Supplies,Lactaid,0,428.62004041671753
+Laundry Detergent,Home Appliances,Lactaid,0,60.22387742996216
+Fabric Softener,Personal Gadget,Lactaid,0,370.23675441741943
+Dishwasher,Home Appliances,Lactaid,0,972.9150533676147
+Refrigerator,Office Supplies,Lactaid,0,609.2849969863892
+TV,Home Appliances,Lactaid,0,795.7724332809448
+Sound System,Home Supplies,Lactaid,0,261.746346950531
+Microwave,Personal Gadget,Lactaid,0,167.05334186553955
+Oven,Office Supplies,Lactaid,0,148.9918828010559
+Electric Kettle,Food,Lactaid,0,520.6157565116882
+Coffee Maker,Home Appliances,Lactaid,0,467.50110387802124
+Heater,Office Supplies,Lactaid,0,87.80914545059204
+Humidifier,Home Supplies,Lactaid,0,950.9649872779846
+Gaming Console,Home Appliances,Lactaid,0,822.5119113922119
+Pen,Food,Lactaid,0,687.3594522476196
+Pencil,Personal Gadget,Lactaid,0,39.6653413772583
+Notepad,Personal Gadget,Lactaid,0,371.7260956764221
+Sticky Notes,Personal Gadget,Lactaid,0,934.3804121017456
+Calendar,Home Supplies,Lactaid,0,755.6738257408142
+Planner,Personal Gadget,Lactaid,0,579.439640045166
+Highlighter,Home Appliances,Lactaid,0,987.8290891647339
+Sharpener,Home Supplies,Lactaid,0,19.908428192138672
+Notebook,Office Supplies,Lactaid,0,219.5662260055542
+Journal,Office Supplies,Lactaid,0,558.8700175285339
+Diary,Personal Gadget,Lactaid,0,524.4114995002747
+Printer,Home Supplies,Lactaid,0,700.3881335258484
+Trashcan,Food,Lactaid,0,797.7252006530762
+Chair,Food,Lactaid,0,755.1877498626709
+Tape,Office Supplies,Lactaid,0,768.9570784568787
+Eraser,Office Supplies,Lactaid,0,169.8613166809082
+Iphone X,Home Supplies,Shamrock Farms,0,678.3714890480042
+Ipad Pro,Home Appliances,Shamrock Farms,0,888.4134292602539
+Macbook Pro,Home Supplies,Shamrock Farms,0,103.23518514633179
+XPS 13,Food,Shamrock Farms,0,750.5307197570801
+Noise Cancelling Series 2,Home Supplies,Shamrock Farms,0,127.73829698562622
+Inspiron,Food,Shamrock Farms,0,157.1211814880371
+Macbook Air,Food,Shamrock Farms,0,752.2014379501343
+Chips,Home Appliances,Shamrock Farms,0,151.52966976165771
+Milk,Office Supplies,Shamrock Farms,0,549.353301525116
+Yoghurt,Home Appliances,Shamrock Farms,0,163.6730432510376
+Cheese,Personal Gadget,Shamrock Farms,0,970.7167744636536
+Chicken Breast,Home Appliances,Shamrock Farms,0,11.52580976486206
+Frozen Pizza,Food,Shamrock Farms,0,959.6085548400879
+Bagels,Office Supplies,Shamrock Farms,0,245.43285369873047
+Bread,Personal Gadget,Shamrock Farms,0,167.2593355178833
+Cookies,Home Supplies,Shamrock Farms,0,529.2655229568481
+Sparkling Water,Home Supplies,Shamrock Farms,0,826.5479803085327
+Energy Drink,Home Supplies,Shamrock Farms,0,780.2290320396423
+Soda,Home Supplies,Shamrock Farms,0,398.3767032623291
+Root Beer,Office Supplies,Shamrock Farms,0,116.050124168396
+Juice,Home Supplies,Shamrock Farms,0,356.4969301223755
+Toilet Paper,Personal Gadget,Shamrock Farms,0,992.3401474952698
+Tooth Brush,Home Appliances,Shamrock Farms,0,758.4447860717773
+Mouthwash,Home Supplies,Shamrock Farms,0,40.266990661621094
+Toothpaste,Office Supplies,Shamrock Farms,0,607.1053743362427
+Soap,Personal Gadget,Shamrock Farms,0,149.5378017425537
+Shampoo,Home Appliances,Shamrock Farms,0,936.3698363304138
+Shower Gel,Personal Gadget,Shamrock Farms,0,976.4819145202637
+Dish Soap,Home Appliances,Shamrock Farms,0,255.56963682174683
+Towels,Home Supplies,Shamrock Farms,0,812.2277855873108
+Cutlery,Home Supplies,Shamrock Farms,0,614.1918897628784
+Sanitizer,Personal Gadget,Shamrock Farms,0,220.23123502731323
+Laundry Detergent,Food,Shamrock Farms,0,457.244873046875
+Fabric Softener,Home Supplies,Shamrock Farms,0,972.4884629249573
+Dishwasher,Office Supplies,Shamrock Farms,0,442.1159625053406
+Refrigerator,Food,Shamrock Farms,0,84.53547954559326
+TV,Food,Shamrock Farms,0,992.5538897514343
+Sound System,Home Supplies,Shamrock Farms,0,503.8137435913086
+Microwave,Home Supplies,Shamrock Farms,0,40.319979190826416
+Oven,Food,Shamrock Farms,0,655.2897095680237
+Electric Kettle,Personal Gadget,Shamrock Farms,0,819.0444707870483
+Coffee Maker,Personal Gadget,Shamrock Farms,0,331.62426948547363
+Heater,Home Supplies,Shamrock Farms,0,849.9574661254883
+Humidifier,Personal Gadget,Shamrock Farms,0,650.0670313835144
+Gaming Console,Office Supplies,Shamrock Farms,0,220.64250707626343
+Pen,Personal Gadget,Shamrock Farms,0,130.12105226516724
+Pencil,Food,Shamrock Farms,0,684.0924024581909
+Notepad,Office Supplies,Shamrock Farms,0,598.5060334205627
+Sticky Notes,Home Supplies,Shamrock Farms,0,977.5931239128113
+Calendar,Home Supplies,Shamrock Farms,0,152.809739112854
+Planner,Personal Gadget,Shamrock Farms,0,513.8769745826721
+Highlighter,Personal Gadget,Shamrock Farms,0,942.3349499702454
+Sharpener,Food,Shamrock Farms,0,368.27754974365234
+Notebook,Home Supplies,Shamrock Farms,0,12.035667896270752
+Journal,Personal Gadget,Shamrock Farms,0,366.0997748374939
+Diary,Home Supplies,Shamrock Farms,0,939.2181634902954
+Printer,Office Supplies,Shamrock Farms,0,358.0387234687805
+Trashcan,Office Supplies,Shamrock Farms,0,837.1244072914124
+Chair,Home Supplies,Shamrock Farms,0,205.30462265014648
+Tape,Food,Shamrock Farms,0,446.9943642616272
+Eraser,Personal Gadget,Shamrock Farms,0,30.344486236572266
+Iphone X,Home Supplies,Kraft,0,261.2319588661194
+Ipad Pro,Office Supplies,Kraft,0,326.99960470199585
+Macbook Pro,Home Supplies,Kraft,0,763.506293296814
+XPS 13,Home Appliances,Kraft,0,172.06144332885742
+Noise Cancelling Series 2,Home Appliances,Kraft,0,113.76583576202393
+Inspiron,Food,Kraft,0,98.04695844650269
+Macbook Air,Personal Gadget,Kraft,0,702.1083831787109
+Chips,Personal Gadget,Kraft,0,937.3087286949158
+Milk,Office Supplies,Kraft,0,528.2472968101501
+Yoghurt,Home Appliances,Kraft,0,846.142828464508
+Cheese,Office Supplies,Kraft,0,994.067132472992
+Chicken Breast,Personal Gadget,Kraft,0,683.3057999610901
+Frozen Pizza,Office Supplies,Kraft,0,414.7408604621887
+Bagels,Food,Kraft,0,322.3692774772644
+Bread,Office Supplies,Kraft,0,926.456093788147
+Cookies,Food,Kraft,0,396.8246579170227
+Sparkling Water,Office Supplies,Kraft,0,891.4868235588074
+Energy Drink,Personal Gadget,Kraft,0,439.1186237335205
+Soda,Home Appliances,Kraft,0,847.776472568512
+Root Beer,Food,Kraft,0,611.3001704216003
+Juice,Personal Gadget,Kraft,0,322.1290707588196
+Toilet Paper,Food,Kraft,0,920.2612638473511
+Tooth Brush,Food,Kraft,0,803.4197092056274
+Mouthwash,Personal Gadget,Kraft,0,352.34975814819336
+Toothpaste,Home Supplies,Kraft,0,62.93952465057373
+Soap,Personal Gadget,Kraft,0,91.24952554702759
+Shampoo,Home Supplies,Kraft,0,99.22069311141968
+Shower Gel,Food,Kraft,0,443.39752197265625
+Dish Soap,Food,Kraft,0,888.69708776474
+Towels,Home Supplies,Kraft,0,283.918559551239
+Cutlery,Food,Kraft,0,33.73122215270996
+Sanitizer,Personal Gadget,Kraft,0,453.2938599586487
+Laundry Detergent,Personal Gadget,Kraft,0,336.38709783554077
+Fabric Softener,Home Appliances,Kraft,0,234.06702280044556
+Dishwasher,Home Appliances,Kraft,0,388.4793519973755
+Refrigerator,Office Supplies,Kraft,0,674.2665767669678
+TV,Office Supplies,Kraft,0,882.6468586921692
+Sound System,Office Supplies,Kraft,0,409.47043895721436
+Microwave,Home Supplies,Kraft,0,520.3602313995361
+Oven,Home Supplies,Kraft,0,781.23539686203
+Electric Kettle,Office Supplies,Kraft,0,953.8865685462952
+Coffee Maker,Home Supplies,Kraft,0,421.7992424964905
+Heater,Office Supplies,Kraft,0,61.43850088119507
+Humidifier,Food,Kraft,0,242.46585369110107
+Gaming Console,Home Appliances,Kraft,0,257.2784423828125
+Pen,Personal Gadget,Kraft,0,547.9857325553894
+Pencil,Food,Kraft,0,298.8242506980896
+Notepad,Home Appliances,Kraft,0,126.7358660697937
+Sticky Notes,Food,Kraft,0,816.308319568634
+Calendar,Personal Gadget,Kraft,0,914.9026870727539
+Planner,Home Supplies,Kraft,0,280.9181213378906
+Highlighter,Personal Gadget,Kraft,0,683.6313605308533
+Sharpener,Food,Kraft,0,396.3482975959778
+Notebook,Office Supplies,Kraft,0,85.78777313232422
+Journal,Home Supplies,Kraft,0,576.2027502059937
+Diary,Home Appliances,Kraft,0,961.2840414047241
+Printer,Office Supplies,Kraft,0,713.710367679596
+Trashcan,Office Supplies,Kraft,0,627.6680827140808
+Chair,Office Supplies,Kraft,0,396.8929052352905
+Tape,Home Appliances,Kraft,0,769.8096632957458
+Eraser,Home Supplies,Kraft,0,935.9049201011658
+Iphone X,Food,DiGiorno,0,736.1091375350952
+Ipad Pro,Home Appliances,DiGiorno,0,492.13558435440063
+Macbook Pro,Office Supplies,DiGiorno,0,498.8998770713806
+XPS 13,Food,DiGiorno,0,501.3303756713867
+Noise Cancelling Series 2,Office Supplies,DiGiorno,0,146.93254232406616
+Inspiron,Home Appliances,DiGiorno,0,814.0890598297119
+Macbook Air,Personal Gadget,DiGiorno,0,654.466450214386
+Chips,Personal Gadget,DiGiorno,0,213.38260173797607
+Milk,Food,DiGiorno,0,374.11874532699585
+Yoghurt,Food,DiGiorno,0,465.0879502296448
+Cheese,Home Supplies,DiGiorno,0,491.9314384460449
+Chicken Breast,Home Appliances,DiGiorno,0,896.9766497612
+Frozen Pizza,Home Appliances,DiGiorno,0,778.9287567138672
+Bagels,Home Supplies,DiGiorno,0,845.2377319335938
+Bread,Personal Gadget,DiGiorno,0,792.7035093307495
+Cookies,Office Supplies,DiGiorno,0,644.7347402572632
+Sparkling Water,Office Supplies,DiGiorno,0,97.35143184661865
+Energy Drink,Personal Gadget,DiGiorno,0,237.16270923614502
+Soda,Office Supplies,DiGiorno,0,655.5740833282471
+Root Beer,Home Appliances,DiGiorno,0,825.5991339683533
+Juice,Home Supplies,DiGiorno,0,831.3026428222656
+Toilet Paper,Home Supplies,DiGiorno,0,288.26600313186646
+Tooth Brush,Office Supplies,DiGiorno,0,156.21381998062134
+Mouthwash,Personal Gadget,DiGiorno,0,580.3883075714111
+Toothpaste,Personal Gadget,DiGiorno,0,343.57136487960815
+Soap,Home Appliances,DiGiorno,0,980.7409644126892
+Shampoo,Home Supplies,DiGiorno,0,865.6445145606995
+Shower Gel,Office Supplies,DiGiorno,0,486.82212829589844
+Dish Soap,Home Supplies,DiGiorno,0,587.3309373855591
+Towels,Home Supplies,DiGiorno,0,715.7080769538879
+Cutlery,Personal Gadget,DiGiorno,0,512.5070214271545
+Sanitizer,Home Appliances,DiGiorno,0,440.7995343208313
+Laundry Detergent,Office Supplies,DiGiorno,0,148.10121059417725
+Fabric Softener,Office Supplies,DiGiorno,0,80.23303747177124
+Dishwasher,Home Supplies,DiGiorno,0,524.1405963897705
+Refrigerator,Office Supplies,DiGiorno,0,571.2193250656128
+TV,Home Appliances,DiGiorno,0,679.3694496154785
+Sound System,Food,DiGiorno,0,714.6156430244446
+Microwave,Personal Gadget,DiGiorno,0,787.9359126091003
+Oven,Food,DiGiorno,0,182.39402770996094
+Electric Kettle,Food,DiGiorno,0,872.6476430892944
+Coffee Maker,Home Supplies,DiGiorno,0,452.21996307373047
+Heater,Home Appliances,DiGiorno,0,737.1172904968262
+Humidifier,Food,DiGiorno,0,301.1130094528198
+Gaming Console,Home Supplies,DiGiorno,0,818.5635805130005
+Pen,Personal Gadget,DiGiorno,0,565.2514100074768
+Pencil,Personal Gadget,DiGiorno,0,784.0558290481567
+Notepad,Food,DiGiorno,0,394.670307636261
+Sticky Notes,Personal Gadget,DiGiorno,0,987.6547455787659
+Calendar,Food,DiGiorno,0,517.2677636146545
+Planner,Home Supplies,DiGiorno,0,199.41174983978271
+Highlighter,Home Appliances,DiGiorno,0,221.6784954071045
+Sharpener,Home Appliances,DiGiorno,0,87.85253763198853
+Notebook,Personal Gadget,DiGiorno,0,96.84425592422485
+Journal,Home Supplies,DiGiorno,0,766.8471932411194
+Diary,Office Supplies,DiGiorno,0,579.250156879425
+Printer,Home Supplies,DiGiorno,0,740.2166128158569
+Trashcan,Personal Gadget,DiGiorno,0,186.695396900177
+Chair,Office Supplies,DiGiorno,0,930.7472705841064
+Tape,Home Supplies,DiGiorno,0,918.1346297264099
+Eraser,Office Supplies,DiGiorno,0,255.29789924621582
+Iphone X,Home Supplies,Pepperidge Farm,0,708.6899280548096
+Ipad Pro,Home Supplies,Pepperidge Farm,0,698.3336806297302
+Macbook Pro,Office Supplies,Pepperidge Farm,0,411.6552472114563
+XPS 13,Food,Pepperidge Farm,0,789.5799279212952
+Noise Cancelling Series 2,Home Supplies,Pepperidge Farm,0,477.5770902633667
+Inspiron,Office Supplies,Pepperidge Farm,0,257.7475905418396
+Macbook Air,Food,Pepperidge Farm,0,84.80238914489746
+Chips,Food,Pepperidge Farm,0,814.768373966217
+Milk,Home Supplies,Pepperidge Farm,0,794.8758602142334
+Yoghurt,Office Supplies,Pepperidge Farm,0,130.12653589248657
+Cheese,Home Supplies,Pepperidge Farm,0,36.59236431121826
+Chicken Breast,Home Appliances,Pepperidge Farm,0,142.26853847503662
+Frozen Pizza,Food,Pepperidge Farm,0,619.2611455917358
+Bagels,Home Appliances,Pepperidge Farm,0,686.3939166069031
+Bread,Home Supplies,Pepperidge Farm,0,621.8122839927673
+Cookies,Home Appliances,Pepperidge Farm,0,711.0117673873901
+Sparkling Water,Office Supplies,Pepperidge Farm,0,60.91409921646118
+Energy Drink,Home Appliances,Pepperidge Farm,0,28.425872325897217
+Soda,Home Appliances,Pepperidge Farm,0,697.5283026695251
+Root Beer,Food,Pepperidge Farm,0,968.8606858253479
+Juice,Office Supplies,Pepperidge Farm,0,764.6864056587219
+Toilet Paper,Home Appliances,Pepperidge Farm,0,559.4542622566223
+Tooth Brush,Home Supplies,Pepperidge Farm,0,685.2416396141052
+Mouthwash,Office Supplies,Pepperidge Farm,0,956.1453461647034
+Toothpaste,Personal Gadget,Pepperidge Farm,0,470.5612063407898
+Soap,Food,Pepperidge Farm,0,50.011634826660156
+Shampoo,Office Supplies,Pepperidge Farm,0,251.33544206619263
+Shower Gel,Personal Gadget,Pepperidge Farm,0,134.4502568244934
+Dish Soap,Food,Pepperidge Farm,0,669.7763800621033
+Towels,Home Supplies,Pepperidge Farm,0,643.4177756309509
+Cutlery,Food,Pepperidge Farm,0,866.4636611938477
+Sanitizer,Food,Pepperidge Farm,0,594.595730304718
+Laundry Detergent,Food,Pepperidge Farm,0,811.1077547073364
+Fabric Softener,Home Supplies,Pepperidge Farm,0,38.75374794006348
+Dishwasher,Home Appliances,Pepperidge Farm,0,368.78931522369385
+Refrigerator,Home Appliances,Pepperidge Farm,0,524.8233675956726
+TV,Office Supplies,Pepperidge Farm,0,954.1943073272705
+Sound System,Home Appliances,Pepperidge Farm,0,39.46423530578613
+Microwave,Home Supplies,Pepperidge Farm,0,926.4892339706421
+Oven,Food,Pepperidge Farm,0,723.5201597213745
+Electric Kettle,Home Appliances,Pepperidge Farm,0,115.4184341430664
+Coffee Maker,Office Supplies,Pepperidge Farm,0,762.1740698814392
+Heater,Personal Gadget,Pepperidge Farm,0,471.69947624206543
+Humidifier,Home Appliances,Pepperidge Farm,0,500.38182735443115
+Gaming Console,Food,Pepperidge Farm,0,806.7386150360107
+Pen,Office Supplies,Pepperidge Farm,0,63.00091743469238
+Pencil,Office Supplies,Pepperidge Farm,0,761.0821723937988
+Notepad,Office Supplies,Pepperidge Farm,0,525.7396697998047
+Sticky Notes,Food,Pepperidge Farm,0,429.0037751197815
+Calendar,Personal Gadget,Pepperidge Farm,0,157.5905680656433
+Planner,Personal Gadget,Pepperidge Farm,0,707.4550986289978
+Highlighter,Home Appliances,Pepperidge Farm,0,59.84377861022949
+Sharpener,Home Appliances,Pepperidge Farm,0,248.66122007369995
+Notebook,Food,Pepperidge Farm,0,986.2972497940063
+Journal,Personal Gadget,Pepperidge Farm,0,522.4301218986511
+Diary,Personal Gadget,Pepperidge Farm,0,522.2155451774597
+Printer,Office Supplies,Pepperidge Farm,0,660.4047417640686
+Trashcan,Personal Gadget,Pepperidge Farm,0,607.3756814002991
+Chair,Office Supplies,Pepperidge Farm,0,511.76631450653076
+Tape,Home Supplies,Pepperidge Farm,0,545.7543134689331
+Eraser,Home Supplies,Pepperidge Farm,0,318.1888461112976
+Iphone X,Personal Gadget,Klarbrunn,0,788.7489199638367
+Ipad Pro,Office Supplies,Klarbrunn,0,73.1515884399414
+Macbook Pro,Home Supplies,Klarbrunn,0,501.10119581222534
+XPS 13,Food,Klarbrunn,0,503.17180156707764
+Noise Cancelling Series 2,Home Appliances,Klarbrunn,0,12.858867645263672
+Inspiron,Personal Gadget,Klarbrunn,0,560.3822469711304
+Macbook Air,Food,Klarbrunn,0,973.8356471061707
+Chips,Office Supplies,Klarbrunn,0,789.5298004150391
+Milk,Personal Gadget,Klarbrunn,0,309.3029260635376
+Yoghurt,Food,Klarbrunn,0,198.4209418296814
+Cheese,Personal Gadget,Klarbrunn,0,830.3989171981812
+Chicken Breast,Food,Klarbrunn,0,667.7193641662598
+Frozen Pizza,Home Appliances,Klarbrunn,0,686.4064931869507
+Bagels,Office Supplies,Klarbrunn,0,160.5679988861084
+Bread,Home Appliances,Klarbrunn,0,318.2092308998108
+Cookies,Office Supplies,Klarbrunn,0,289.6466851234436
+Sparkling Water,Office Supplies,Klarbrunn,0,445.57398557662964
+Energy Drink,Home Appliances,Klarbrunn,0,251.99204683303833
+Soda,Personal Gadget,Klarbrunn,0,111.2549901008606
+Root Beer,Food,Klarbrunn,0,911.3367795944214
+Juice,Food,Klarbrunn,0,331.2084674835205
+Toilet Paper,Home Appliances,Klarbrunn,0,383.120596408844
+Tooth Brush,Home Supplies,Klarbrunn,0,334.52069759368896
+Mouthwash,Personal Gadget,Klarbrunn,0,926.0761737823486
+Toothpaste,Personal Gadget,Klarbrunn,0,294.18450593948364
+Soap,Home Supplies,Klarbrunn,0,161.90212965011597
+Shampoo,Personal Gadget,Klarbrunn,0,378.92240285873413
+Shower Gel,Home Supplies,Klarbrunn,0,604.6378016471863
+Dish Soap,Home Appliances,Klarbrunn,0,628.3037662506104
+Towels,Home Supplies,Klarbrunn,0,485.70603132247925
+Cutlery,Home Appliances,Klarbrunn,0,752.9987096786499
+Sanitizer,Home Appliances,Klarbrunn,0,789.077877998352
+Laundry Detergent,Home Appliances,Klarbrunn,0,376.8588900566101
+Fabric Softener,Personal Gadget,Klarbrunn,0,971.6373085975647
+Dishwasher,Home Supplies,Klarbrunn,0,308.4236979484558
+Refrigerator,Home Appliances,Klarbrunn,0,822.7286338806152
+TV,Food,Klarbrunn,0,200.37633180618286
+Sound System,Home Supplies,Klarbrunn,0,428.29835414886475
+Microwave,Personal Gadget,Klarbrunn,0,923.4793782234192
+Oven,Office Supplies,Klarbrunn,0,941.3926005363464
+Electric Kettle,Office Supplies,Klarbrunn,0,346.8034267425537
+Coffee Maker,Food,Klarbrunn,0,342.5403833389282
+Heater,Food,Klarbrunn,0,131.944477558136
+Humidifier,Personal Gadget,Klarbrunn,0,199.37723875045776
+Gaming Console,Office Supplies,Klarbrunn,0,971.8518853187561
+Pen,Office Supplies,Klarbrunn,0,531.5019488334656
+Pencil,Office Supplies,Klarbrunn,0,244.42708492279053
+Notepad,Home Supplies,Klarbrunn,0,758.892297744751
+Sticky Notes,Personal Gadget,Klarbrunn,0,819.9029564857483
+Calendar,Home Appliances,Klarbrunn,0,693.2430863380432
+Planner,Home Appliances,Klarbrunn,0,224.98959302902222
+Highlighter,Home Appliances,Klarbrunn,0,32.46361017227173
+Sharpener,Home Appliances,Klarbrunn,0,194.8273777961731
+Notebook,Home Appliances,Klarbrunn,0,578.5384178161621
+Journal,Office Supplies,Klarbrunn,0,957.9833149909973
+Diary,Home Supplies,Klarbrunn,0,735.4015707969666
+Printer,Home Supplies,Klarbrunn,0,225.26592016220093
+Trashcan,Office Supplies,Klarbrunn,0,901.9028544425964
+Chair,Home Supplies,Klarbrunn,0,568.3322548866272
+Tape,Office Supplies,Klarbrunn,0,378.9935111999512
+Eraser,Food,Klarbrunn,0,660.3642702102661
+Iphone X,Home Supplies,La Croix,0,911.6792678833008
+Ipad Pro,Office Supplies,La Croix,0,143.0741548538208
+Macbook Pro,Food,La Croix,0,114.97366428375244
+XPS 13,Home Appliances,La Croix,0,819.6486830711365
+Noise Cancelling Series 2,Office Supplies,La Croix,0,747.026801109314
+Inspiron,Home Appliances,La Croix,0,542.7881479263306
+Macbook Air,Home Supplies,La Croix,0,127.9563307762146
+Chips,Office Supplies,La Croix,0,864.6766543388367
+Milk,Food,La Croix,0,323.9057660102844
+Yoghurt,Home Appliances,La Croix,0,988.608717918396
+Cheese,Home Supplies,La Croix,0,964.9006724357605
+Chicken Breast,Home Supplies,La Croix,0,260.290265083313
+Frozen Pizza,Food,La Croix,0,512.6625895500183
+Bagels,Office Supplies,La Croix,0,763.8455033302307
+Bread,Office Supplies,La Croix,0,289.3086075782776
+Cookies,Office Supplies,La Croix,0,149.7458815574646
+Sparkling Water,Personal Gadget,La Croix,0,796.5766787528992
+Energy Drink,Personal Gadget,La Croix,0,678.7988543510437
+Soda,Food,La Croix,0,552.7402758598328
+Root Beer,Home Appliances,La Croix,0,380.6896209716797
+Juice,Food,La Croix,0,433.738648891449
+Toilet Paper,Food,La Croix,0,913.1821990013123
+Tooth Brush,Home Supplies,La Croix,0,987.3638153076172
+Mouthwash,Food,La Croix,0,87.89259195327759
+Toothpaste,Home Supplies,La Croix,0,383.88627767562866
+Soap,Food,La Croix,0,472.6313352584839
+Shampoo,Food,La Croix,0,140.63942432403564
+Shower Gel,Personal Gadget,La Croix,0,63.85535001754761
+Dish Soap,Office Supplies,La Croix,0,907.3347449302673
+Towels,Office Supplies,La Croix,0,774.1016149520874
+Cutlery,Food,La Croix,0,896.8705534934998
+Sanitizer,Food,La Croix,0,629.8373341560364
+Laundry Detergent,Personal Gadget,La Croix,0,794.8923110961914
+Fabric Softener,Personal Gadget,La Croix,0,809.5249533653259
+Dishwasher,Food,La Croix,0,560.2371096611023
+Refrigerator,Personal Gadget,La Croix,0,357.5601577758789
+TV,Home Supplies,La Croix,0,645.6634998321533
+Sound System,Personal Gadget,La Croix,0,927.9178380966187
+Microwave,Personal Gadget,La Croix,0,110.05991697311401
+Oven,Home Supplies,La Croix,0,785.7816219329834
+Electric Kettle,Personal Gadget,La Croix,0,473.8968014717102
+Coffee Maker,Office Supplies,La Croix,0,523.2021808624268
+Heater,Personal Gadget,La Croix,0,181.4265251159668
+Humidifier,Food,La Croix,0,226.13084316253662
+Gaming Console,Personal Gadget,La Croix,0,196.54488563537598
+Pen,Office Supplies,La Croix,0,818.3220624923706
+Pencil,Home Appliances,La Croix,0,672.9432344436646
+Notepad,Food,La Croix,0,859.0399622917175
+Sticky Notes,Home Appliances,La Croix,0,229.95948791503906
+Calendar,Home Supplies,La Croix,0,495.80782651901245
+Planner,Home Supplies,La Croix,0,138.25887441635132
+Highlighter,Home Appliances,La Croix,0,583.3054780960083
+Sharpener,Personal Gadget,La Croix,0,507.15458393096924
+Notebook,Food,La Croix,0,140.76125621795654
+Journal,Home Appliances,La Croix,0,279.1416049003601
+Diary,Office Supplies,La Croix,0,501.7542839050293
+Printer,Food,La Croix,0,716.3262963294983
+Trashcan,Food,La Croix,0,334.30516719818115
+Chair,Food,La Croix,0,925.2690076828003
+Tape,Home Supplies,La Croix,0,500.6881356239319
+Eraser,Food,La Croix,0,456.82764053344727
+Iphone X,Home Appliances,Perrier,0,763.8599872589111
+Ipad Pro,Food,Perrier,0,859.5285415649414
+Macbook Pro,Office Supplies,Perrier,0,112.22255229949951
+XPS 13,Home Supplies,Perrier,0,310.5534315109253
+Noise Cancelling Series 2,Personal Gadget,Perrier,0,901.1818766593933
+Inspiron,Office Supplies,Perrier,0,727.5049686431885
+Macbook Air,Personal Gadget,Perrier,0,736.3337874412537
+Chips,Home Appliances,Perrier,0,534.6982479095459
+Milk,Office Supplies,Perrier,0,639.9171352386475
+Yoghurt,Personal Gadget,Perrier,0,55.96643686294556
+Cheese,Personal Gadget,Perrier,0,343.3719873428345
+Chicken Breast,Office Supplies,Perrier,0,196.10846042633057
+Frozen Pizza,Home Appliances,Perrier,0,781.4953923225403
+Bagels,Office Supplies,Perrier,0,97.54234552383423
+Bread,Personal Gadget,Perrier,0,977.9930710792542
+Cookies,Office Supplies,Perrier,0,87.95744180679321
+Sparkling Water,Home Appliances,Perrier,0,411.5087389945984
+Energy Drink,Home Appliances,Perrier,0,817.4192309379578
+Soda,Home Appliances,Perrier,0,741.9089078903198
+Root Beer,Home Appliances,Perrier,0,696.2296962738037
+Juice,Home Supplies,Perrier,0,18.290281295776367
+Toilet Paper,Personal Gadget,Perrier,0,842.7647948265076
+Tooth Brush,Office Supplies,Perrier,0,445.5493688583374
+Mouthwash,Personal Gadget,Perrier,0,816.5096640586853
+Toothpaste,Home Appliances,Perrier,0,671.2278127670288
+Soap,Office Supplies,Perrier,0,606.7209839820862
+Shampoo,Food,Perrier,0,787.675678730011
+Shower Gel,Home Appliances,Perrier,0,160.82537174224854
+Dish Soap,Personal Gadget,Perrier,0,698.4188556671143
+Towels,Home Appliances,Perrier,0,236.19180917739868
+Cutlery,Food,Perrier,0,747.1792101860046
+Sanitizer,Office Supplies,Perrier,0,439.80956077575684
+Laundry Detergent,Home Appliances,Perrier,0,81.59250020980835
+Fabric Softener,Home Appliances,Perrier,0,956.2832117080688
+Dishwasher,Personal Gadget,Perrier,0,852.746844291687
+Refrigerator,Home Supplies,Perrier,0,957.1932554244995
+TV,Personal Gadget,Perrier,0,220.7949161529541
+Sound System,Home Supplies,Perrier,0,914.135217666626
+Microwave,Office Supplies,Perrier,0,133.76659154891968
+Oven,Office Supplies,Perrier,0,711.6600871086121
+Electric Kettle,Food,Perrier,0,812.1543526649475
+Coffee Maker,Home Appliances,Perrier,0,361.0207438468933
+Heater,Home Supplies,Perrier,0,849.7951626777649
+Humidifier,Home Supplies,Perrier,0,365.3426170349121
+Gaming Console,Food,Perrier,0,329.1137218475342
+Pen,Food,Perrier,0,73.96537065505981
+Pencil,Home Appliances,Perrier,0,546.1032390594482
+Notepad,Personal Gadget,Perrier,0,208.75340700149536
+Sticky Notes,Personal Gadget,Perrier,0,0.8370876312255859
+Calendar,Home Supplies,Perrier,0,746.7787861824036
+Planner,Office Supplies,Perrier,0,589.2586708068848
+Highlighter,Office Supplies,Perrier,0,428.699254989624
+Sharpener,Personal Gadget,Perrier,0,241.06812477111816
+Notebook,Food,Perrier,0,835.2686166763306
+Journal,Home Appliances,Perrier,0,99.40570592880249
+Diary,Home Supplies,Perrier,0,568.7355399131775
+Printer,Personal Gadget,Perrier,0,196.53815031051636
+Trashcan,Office Supplies,Perrier,0,2.541184425354004
+Chair,Food,Perrier,0,114.84044790267944
+Tape,Food,Perrier,0,60.97537279129028
+Eraser,Food,Perrier,0,456.0925364494324
+Iphone X,Food,Red Bull,0,877.6771426200867
+Ipad Pro,Food,Red Bull,0,899.6807336807251
+Macbook Pro,Office Supplies,Red Bull,0,103.5764217376709
+XPS 13,Office Supplies,Red Bull,0,990.0229573249817
+Noise Cancelling Series 2,Food,Red Bull,0,314.70173597335815
+Inspiron,Home Supplies,Red Bull,0,536.8723273277283
+Macbook Air,Food,Red Bull,0,959.9848985671997
+Chips,Home Appliances,Red Bull,0,73.66591691970825
+Milk,Home Appliances,Red Bull,0,718.6524271965027
+Yoghurt,Food,Red Bull,0,336.4696502685547
+Cheese,Food,Red Bull,0,964.026153087616
+Chicken Breast,Personal Gadget,Red Bull,0,290.14456272125244
+Frozen Pizza,Home Appliances,Red Bull,0,291.6802167892456
+Bagels,Food,Red Bull,0,133.0733299255371
+Bread,Food,Red Bull,0,129.18621301651
+Cookies,Home Supplies,Red Bull,0,704.2055130004883
+Sparkling Water,Home Supplies,Red Bull,0,244.5032000541687
+Energy Drink,Home Supplies,Red Bull,0,246.5038299560547
+Soda,Office Supplies,Red Bull,0,280.9392809867859
+Root Beer,Personal Gadget,Red Bull,0,952.4187445640564
+Juice,Personal Gadget,Red Bull,0,117.16312170028687
+Toilet Paper,Food,Red Bull,0,736.2344264984131
+Tooth Brush,Home Supplies,Red Bull,0,57.73270130157471
+Mouthwash,Office Supplies,Red Bull,0,304.5816421508789
+Toothpaste,Home Appliances,Red Bull,0,357.9201102256775
+Soap,Personal Gadget,Red Bull,0,592.8019285202026
+Shampoo,Home Appliances,Red Bull,0,959.2474699020386
+Shower Gel,Home Supplies,Red Bull,0,716.986894607544
+Dish Soap,Home Supplies,Red Bull,0,220.25179862976074
+Towels,Home Supplies,Red Bull,0,678.3609986305237
+Cutlery,Office Supplies,Red Bull,0,859.8135113716125
+Sanitizer,Food,Red Bull,0,520.2856659889221
+Laundry Detergent,Home Appliances,Red Bull,0,855.3072810173035
+Fabric Softener,Home Appliances,Red Bull,0,553.7399053573608
+Dishwasher,Home Appliances,Red Bull,0,50.36282539367676
+Refrigerator,Office Supplies,Red Bull,0,662.9965305328369
+TV,Food,Red Bull,0,200.79833269119263
+Sound System,Home Appliances,Red Bull,0,810.804009437561
+Microwave,Home Supplies,Red Bull,0,924.064576625824
+Oven,Office Supplies,Red Bull,0,366.28180742263794
+Electric Kettle,Office Supplies,Red Bull,0,897.1929550170898
+Coffee Maker,Office Supplies,Red Bull,0,166.62615537643433
+Heater,Home Appliances,Red Bull,0,878.7923455238342
+Humidifier,Home Supplies,Red Bull,0,636.4324688911438
+Gaming Console,Home Supplies,Red Bull,0,998.210608959198
+Pen,Food,Red Bull,0,369.9108362197876
+Pencil,Home Supplies,Red Bull,0,873.8317489624023
+Notepad,Office Supplies,Red Bull,0,328.574538230896
+Sticky Notes,Personal Gadget,Red Bull,0,684.9991083145142
+Calendar,Personal Gadget,Red Bull,0,920.3113913536072
+Planner,Home Appliances,Red Bull,0,348.74534606933594
+Highlighter,Personal Gadget,Red Bull,0,358.42806100845337
+Sharpener,Home Supplies,Red Bull,0,542.0078635215759
+Notebook,Home Supplies,Red Bull,0,707.7279686927795
+Journal,Office Supplies,Red Bull,0,889.0677094459534
+Diary,Personal Gadget,Red Bull,0,218.52236986160278
+Printer,Office Supplies,Red Bull,0,207.45354890823364
+Trashcan,Home Supplies,Red Bull,0,941.36643409729
+Chair,Home Supplies,Red Bull,0,106.51445388793945
+Tape,Food,Red Bull,0,171.08941078186035
+Eraser,Home Supplies,Red Bull,0,372.40833044052124
+Iphone X,Home Supplies,Monster,0,157.2859287261963
+Ipad Pro,Office Supplies,Monster,0,690.6426548957825
+Macbook Pro,Home Appliances,Monster,0,361.92959547042847
+XPS 13,Home Supplies,Monster,0,169.92288827896118
+Noise Cancelling Series 2,Food,Monster,0,668.3570742607117
+Inspiron,Home Supplies,Monster,0,484.41213369369507
+Macbook Air,Home Appliances,Monster,0,627.8624534606934
+Chips,Office Supplies,Monster,0,969.2290425300598
+Milk,Home Appliances,Monster,0,551.9976019859314
+Yoghurt,Home Supplies,Monster,0,737.8515005111694
+Cheese,Home Appliances,Monster,0,954.9469947814941
+Chicken Breast,Office Supplies,Monster,0,469.95025873184204
+Frozen Pizza,Personal Gadget,Monster,0,158.74922275543213
+Bagels,Office Supplies,Monster,0,402.0432233810425
+Bread,Personal Gadget,Monster,0,385.4750394821167
+Cookies,Office Supplies,Monster,0,777.3809432983398
+Sparkling Water,Office Supplies,Monster,0,168.70242357254028
+Energy Drink,Food,Monster,0,439.89765644073486
+Soda,Food,Monster,0,668.8128709793091
+Root Beer,Personal Gadget,Monster,0,832.2774767875671
+Juice,Office Supplies,Monster,0,422.97428846359253
+Toilet Paper,Personal Gadget,Monster,0,650.6956219673157
+Tooth Brush,Food,Monster,0,104.48497533798218
+Mouthwash,Home Appliances,Monster,0,167.23859310150146
+Toothpaste,Home Appliances,Monster,0,113.88605833053589
+Soap,Home Appliances,Monster,0,432.1354031562805
+Shampoo,Home Appliances,Monster,0,835.4659080505371
+Shower Gel,Office Supplies,Monster,0,466.6330814361572
+Dish Soap,Home Supplies,Monster,0,430.18639087677
+Towels,Home Supplies,Monster,0,236.62948608398438
+Cutlery,Office Supplies,Monster,0,315.46515226364136
+Sanitizer,Food,Monster,0,818.1672692298889
+Laundry Detergent,Home Appliances,Monster,0,422.6078987121582
+Fabric Softener,Home Appliances,Monster,0,217.8516983985901
+Dishwasher,Home Supplies,Monster,0,796.0605025291443
+Refrigerator,Food,Monster,0,861.5680932998657
+TV,Office Supplies,Monster,0,680.2429556846619
+Sound System,Office Supplies,Monster,0,709.0469002723694
+Microwave,Home Supplies,Monster,0,457.85707235336304
+Oven,Home Appliances,Monster,0,263.48745822906494
+Electric Kettle,Personal Gadget,Monster,0,389.6675705909729
+Coffee Maker,Home Appliances,Monster,0,726.3686656951904
+Heater,Home Supplies,Monster,0,244.4164752960205
+Humidifier,Food,Monster,0,77.62044668197632
+Gaming Console,Home Supplies,Monster,0,486.4395260810852
+Pen,Home Supplies,Monster,0,648.5227942466736
+Pencil,Office Supplies,Monster,0,548.5246181488037
+Notepad,Home Appliances,Monster,0,585.1590633392334
+Sticky Notes,Home Appliances,Monster,0,902.5408625602722
+Calendar,Personal Gadget,Monster,0,588.2483124732971
+Planner,Office Supplies,Monster,0,647.4339365959167
+Highlighter,Food,Monster,0,153.0887484550476
+Sharpener,Home Appliances,Monster,0,363.53033781051636
+Notebook,Personal Gadget,Monster,0,741.6785955429077
+Journal,Personal Gadget,Monster,0,187.0378851890564
+Diary,Home Supplies,Monster,0,496.46586179733276
+Printer,Personal Gadget,Monster,0,795.6176400184631
+Trashcan,Home Appliances,Monster,0,178.38060855865479
+Chair,Home Appliances,Monster,0,74.5047926902771
+Tape,Personal Gadget,Monster,0,485.697865486145
+Eraser,Office Supplies,Monster,0,165.5656099319458
+Iphone X,Personal Gadget,Pepsi,0,117.87986755371094
+Ipad Pro,Office Supplies,Pepsi,0,854.7198176383972
+Macbook Pro,Food,Pepsi,0,300.9817600250244
+XPS 13,Home Appliances,Pepsi,0,495.2716827392578
+Noise Cancelling Series 2,Home Appliances,Pepsi,0,727.7357578277588
+Inspiron,Home Appliances,Pepsi,0,17.952144145965576
+Macbook Air,Personal Gadget,Pepsi,0,303.436279296875
+Chips,Home Supplies,Pepsi,0,868.0771589279175
+Milk,Office Supplies,Pepsi,0,873.7390041351318
+Yoghurt,Home Appliances,Pepsi,0,714.4865393638611
+Cheese,Home Appliances,Pepsi,0,466.1000370979309
+Chicken Breast,Home Appliances,Pepsi,0,475.2945899963379
+Frozen Pizza,Home Appliances,Pepsi,0,54.56274747848511
+Bagels,Home Appliances,Pepsi,0,36.52852773666382
+Bread,Personal Gadget,Pepsi,0,587.8472328186035
+Cookies,Food,Pepsi,0,139.14340734481812
+Sparkling Water,Home Supplies,Pepsi,0,961.2044095993042
+Energy Drink,Home Appliances,Pepsi,0,368.5113787651062
+Soda,Home Appliances,Pepsi,0,799.4070053100586
+Root Beer,Office Supplies,Pepsi,0,292.2247052192688
+Juice,Office Supplies,Pepsi,0,715.8146500587463
+Toilet Paper,Home Appliances,Pepsi,0,304.0050268173218
+Tooth Brush,Office Supplies,Pepsi,0,63.055217266082764
+Mouthwash,Office Supplies,Pepsi,0,93.8650369644165
+Toothpaste,Food,Pepsi,0,865.0173544883728
+Soap,Personal Gadget,Pepsi,0,280.7462811470032
+Shampoo,Office Supplies,Pepsi,0,466.18056297302246
+Shower Gel,Personal Gadget,Pepsi,0,220.1021909713745
+Dish Soap,Home Appliances,Pepsi,0,629.5819878578186
+Towels,Food,Pepsi,0,394.8811888694763
+Cutlery,Food,Pepsi,0,113.80767822265625
+Sanitizer,Food,Pepsi,0,876.7821788787842
+Laundry Detergent,Home Supplies,Pepsi,0,745.3177571296692
+Fabric Softener,Home Supplies,Pepsi,0,821.32887840271
+Dishwasher,Food,Pepsi,0,336.29631996154785
+Refrigerator,Home Supplies,Pepsi,0,754.1816234588623
+TV,Personal Gadget,Pepsi,0,469.3165421485901
+Sound System,Office Supplies,Pepsi,0,889.2484903335571
+Microwave,Home Supplies,Pepsi,0,745.8148002624512
+Oven,Home Appliances,Pepsi,0,966.7653441429138
+Electric Kettle,Personal Gadget,Pepsi,0,971.180260181427
+Coffee Maker,Home Supplies,Pepsi,0,139.90944623947144
+Heater,Office Supplies,Pepsi,0,398.8211154937744
+Humidifier,Home Appliances,Pepsi,0,503.1336545944214
+Gaming Console,Home Appliances,Pepsi,0,380.62477111816406
+Pen,Personal Gadget,Pepsi,0,628.8374066352844
+Pencil,Home Appliances,Pepsi,0,951.6676068305969
+Notepad,Home Supplies,Pepsi,0,348.910391330719
+Sticky Notes,Home Appliances,Pepsi,0,220.86137533187866
+Calendar,Office Supplies,Pepsi,0,324.9264359474182
+Planner,Home Supplies,Pepsi,0,232.57595300674438
+Highlighter,Home Supplies,Pepsi,0,239.26615715026855
+Sharpener,Office Supplies,Pepsi,0,821.4142322540283
+Notebook,Office Supplies,Pepsi,0,706.2801718711853
+Journal,Home Supplies,Pepsi,0,95.61598300933838
+Diary,Home Appliances,Pepsi,0,947.9690194129944
+Printer,Personal Gadget,Pepsi,0,574.5397806167603
+Trashcan,Office Supplies,Pepsi,0,555.8637976646423
+Chair,Office Supplies,Pepsi,0,770.9494233131409
+Tape,Office Supplies,Pepsi,0,126.29711627960205
+Eraser,Home Supplies,Pepsi,0,576.1728286743164
+Iphone X,Home Supplies,Coca Cola,0,519.6197628974915
+Ipad Pro,Office Supplies,Coca Cola,0,180.48787117004395
+Macbook Pro,Food,Coca Cola,0,967.8465127944946
+XPS 13,Home Appliances,Coca Cola,0,275.330126285553
+Noise Cancelling Series 2,Food,Coca Cola,0,205.51979541778564
+Inspiron,Home Appliances,Coca Cola,0,849.2428660392761
+Macbook Air,Office Supplies,Coca Cola,0,394.20974254608154
+Chips,Office Supplies,Coca Cola,0,245.16266584396362
+Milk,Home Supplies,Coca Cola,0,474.0968942642212
+Yoghurt,Office Supplies,Coca Cola,0,110.03077030181885
+Cheese,Food,Coca Cola,0,31.697571277618408
+Chicken Breast,Personal Gadget,Coca Cola,0,84.35237407684326
+Frozen Pizza,Office Supplies,Coca Cola,0,99.32005405426025
+Bagels,Office Supplies,Coca Cola,0,272.82851934432983
+Bread,Personal Gadget,Coca Cola,0,980.7217121124268
+Cookies,Home Appliances,Coca Cola,0,759.3100666999817
+Sparkling Water,Personal Gadget,Coca Cola,0,163.24639320373535
+Energy Drink,Personal Gadget,Coca Cola,0,309.95672941207886
+Soda,Home Appliances,Coca Cola,0,267.1510577201843
+Root Beer,Personal Gadget,Coca Cola,0,405.63708543777466
+Juice,Office Supplies,Coca Cola,0,388.70447874069214
+Toilet Paper,Home Appliances,Coca Cola,0,394.40202713012695
+Tooth Brush,Personal Gadget,Coca Cola,0,908.8988900184631
+Mouthwash,Personal Gadget,Coca Cola,0,721.5718030929565
+Toothpaste,Home Appliances,Coca Cola,0,111.33313179016113
+Soap,Home Supplies,Coca Cola,0,320.9723234176636
+Shampoo,Office Supplies,Coca Cola,0,731.1959266662598
+Shower Gel,Office Supplies,Coca Cola,0,606.6491007804871
+Dish Soap,Home Supplies,Coca Cola,0,745.620846748352
+Towels,Personal Gadget,Coca Cola,0,438.61013650894165
+Cutlery,Personal Gadget,Coca Cola,0,420.4457998275757
+Sanitizer,Home Supplies,Coca Cola,0,625.5607604980469
+Laundry Detergent,Personal Gadget,Coca Cola,0,409.1604948043823
+Fabric Softener,Home Appliances,Coca Cola,0,227.0749807357788
+Dishwasher,Personal Gadget,Coca Cola,0,819.2590475082397
+Refrigerator,Food,Coca Cola,0,210.20936965942383
+TV,Office Supplies,Coca Cola,0,835.155189037323
+Sound System,Home Appliances,Coca Cola,0,62.33537197113037
+Microwave,Home Appliances,Coca Cola,0,134.20337438583374
+Oven,Home Supplies,Coca Cola,0,252.21002101898193
+Electric Kettle,Home Supplies,Coca Cola,0,825.2807855606079
+Coffee Maker,Office Supplies,Coca Cola,0,32.39619731903076
+Heater,Food,Coca Cola,0,553.0057549476624
+Humidifier,Office Supplies,Coca Cola,0,883.5974931716919
+Gaming Console,Office Supplies,Coca Cola,0,273.3307480812073
+Pen,Home Appliances,Coca Cola,0,888.9186978340149
+Pencil,Food,Coca Cola,0,749.3855953216553
+Notepad,Home Supplies,Coca Cola,0,795.2588200569153
+Sticky Notes,Food,Coca Cola,0,224.64042901992798
+Calendar,Personal Gadget,Coca Cola,0,349.8736619949341
+Planner,Home Supplies,Coca Cola,0,891.3949728012085
+Highlighter,Home Appliances,Coca Cola,0,400.6154537200928
+Sharpener,Home Supplies,Coca Cola,0,527.1066427230835
+Notebook,Home Appliances,Coca Cola,0,4.601240158081055
+Journal,Home Appliances,Coca Cola,0,63.08591365814209
+Diary,Home Appliances,Coca Cola,0,516.3394808769226
+Printer,Personal Gadget,Coca Cola,0,376.6900897026062
+Trashcan,Food,Coca Cola,0,15.033245086669922
+Chair,Personal Gadget,Coca Cola,0,459.52045917510986
+Tape,Home Appliances,Coca Cola,0,2.39408016204834
+Eraser,Personal Gadget,Coca Cola,0,463.6075496673584
+Iphone X,Food,A & W,0,655.4667949676514
+Ipad Pro,Personal Gadget,A & W,0,321.585476398468
+Macbook Pro,Personal Gadget,A & W,0,980.4485440254211
+XPS 13,Personal Gadget,A & W,0,484.99149084091187
+Noise Cancelling Series 2,Office Supplies,A & W,0,488.1618618965149
+Inspiron,Home Supplies,A & W,0,339.7679328918457
+Macbook Air,Personal Gadget,A & W,0,832.7234387397766
+Chips,Home Supplies,A & W,0,505.6154131889343
+Milk,Personal Gadget,A & W,0,633.165717124939
+Yoghurt,Personal Gadget,A & W,0,174.99303817749023
+Cheese,Personal Gadget,A & W,0,172.5819706916809
+Chicken Breast,Personal Gadget,A & W,0,20.352184772491455
+Frozen Pizza,Home Appliances,A & W,0,158.153235912323
+Bagels,Food,A & W,0,819.8215365409851
+Bread,Home Supplies,A & W,0,373.68857860565186
+Cookies,Home Appliances,A & W,0,600.3549098968506
+Sparkling Water,Home Appliances,A & W,0,87.70209550857544
+Energy Drink,Home Supplies,A & W,0,754.749596118927
+Soda,Office Supplies,A & W,0,46.31638526916504
+Root Beer,Personal Gadget,A & W,0,689.518928527832
+Juice,Home Supplies,A & W,0,911.3065004348755
+Toilet Paper,Office Supplies,A & W,0,242.04856157302856
+Tooth Brush,Personal Gadget,A & W,0,57.39104747772217
+Mouthwash,Home Appliances,A & W,0,458.6033225059509
+Toothpaste,Office Supplies,A & W,0,755.5649280548096
+Soap,Home Supplies,A & W,0,643.5272693634033
+Shampoo,Home Appliances,A & W,0,305.1169514656067
+Shower Gel,Personal Gadget,A & W,0,621.462345123291
+Dish Soap,Home Supplies,A & W,0,578.360378742218
+Towels,Home Appliances,A & W,0,348.7958312034607
+Cutlery,Food,A & W,0,479.5392155647278
+Sanitizer,Home Appliances,A & W,0,771.156370639801
+Laundry Detergent,Food,A & W,0,841.4850831031799
+Fabric Softener,Home Appliances,A & W,0,757.0546865463257
+Dishwasher,Office Supplies,A & W,0,467.1541452407837
+Refrigerator,Personal Gadget,A & W,0,103.2819151878357
+TV,Food,A & W,0,123.04306030273438
+Sound System,Personal Gadget,A & W,0,768.1270837783813
+Microwave,Personal Gadget,A & W,0,890.6862735748291
+Oven,Personal Gadget,A & W,0,359.6816062927246
+Electric Kettle,Personal Gadget,A & W,0,42.09864139556885
+Coffee Maker,Home Supplies,A & W,0,407.40031003952026
+Heater,Personal Gadget,A & W,0,514.4097208976746
+Humidifier,Home Appliances,A & W,0,447.76493310928345
+Gaming Console,Home Supplies,A & W,0,685.419499874115
+Pen,Food,A & W,0,534.5342755317688
+Pencil,Home Appliances,A & W,0,890.8993601799011
+Notepad,Home Supplies,A & W,0,468.9900279045105
+Sticky Notes,Personal Gadget,A & W,0,449.79846477508545
+Calendar,Home Appliances,A & W,0,67.24375486373901
+Planner,Personal Gadget,A & W,0,676.8534183502197
+Highlighter,Office Supplies,A & W,0,824.6288895606995
+Sharpener,Food,A & W,0,843.3176279067993
+Notebook,Home Appliances,A & W,0,789.1526818275452
+Journal,Food,A & W,0,503.6396384239197
+Diary,Office Supplies,A & W,0,657.757043838501
+Printer,Personal Gadget,A & W,0,325.0550627708435
+Trashcan,Personal Gadget,A & W,0,604.6678423881531
+Chair,Office Supplies,A & W,0,152.47195959091187
+Tape,Office Supplies,A & W,0,137.47936487197876
+Eraser,Food,A & W,0,705.1138281822205
+Iphone X,Home Supplies,Tropicana,0,54.01188135147095
+Ipad Pro,Food,Tropicana,0,54.63522672653198
+Macbook Pro,Personal Gadget,Tropicana,0,994.7251677513123
+XPS 13,Home Appliances,Tropicana,0,975.4875898361206
+Noise Cancelling Series 2,Home Appliances,Tropicana,0,8.001565933227539
+Inspiron,Home Appliances,Tropicana,0,813.9311671257019
+Macbook Air,Food,Tropicana,0,278.51444482803345
+Chips,Personal Gadget,Tropicana,0,697.1601247787476
+Milk,Home Supplies,Tropicana,0,724.8538732528687
+Yoghurt,Office Supplies,Tropicana,0,531.5278768539429
+Cheese,Home Appliances,Tropicana,0,517.418384552002
+Chicken Breast,Home Supplies,Tropicana,0,229.9671173095703
+Frozen Pizza,Home Supplies,Tropicana,0,870.2454566955566
+Bagels,Home Supplies,Tropicana,0,202.65263319015503
+Bread,Home Appliances,Tropicana,0,343.00732612609863
+Cookies,Personal Gadget,Tropicana,0,159.13361310958862
+Sparkling Water,Food,Tropicana,0,677.0487427711487
+Energy Drink,Personal Gadget,Tropicana,0,350.0750660896301
+Soda,Food,Tropicana,0,160.3999137878418
+Root Beer,Home Appliances,Tropicana,0,246.0322380065918
+Juice,Food,Tropicana,0,152.61107683181763
+Toilet Paper,Home Supplies,Tropicana,0,361.08648777008057
+Tooth Brush,Personal Gadget,Tropicana,0,635.5971693992615
+Mouthwash,Food,Tropicana,0,110.58908700942993
+Toothpaste,Food,Tropicana,0,129.14049625396729
+Soap,Personal Gadget,Tropicana,0,702.6883363723755
+Shampoo,Food,Tropicana,0,610.1050972938538
+Shower Gel,Personal Gadget,Tropicana,0,638.899564743042
+Dish Soap,Personal Gadget,Tropicana,0,996.7054128646851
+Towels,Home Supplies,Tropicana,0,303.9606809616089
+Cutlery,Personal Gadget,Tropicana,0,550.4213571548462
+Sanitizer,Home Appliances,Tropicana,0,801.9968867301941
+Laundry Detergent,Home Appliances,Tropicana,0,158.55270624160767
+Fabric Softener,Home Appliances,Tropicana,0,915.0894284248352
+Dishwasher,Home Supplies,Tropicana,0,793.2798266410828
+Refrigerator,Home Appliances,Tropicana,0,170.3493595123291
+TV,Personal Gadget,Tropicana,0,604.8912405967712
+Sound System,Food,Tropicana,0,179.2890429496765
+Microwave,Home Supplies,Tropicana,0,657.118558883667
+Oven,Personal Gadget,Tropicana,0,913.5469794273376
+Electric Kettle,Office Supplies,Tropicana,0,513.9867663383484
+Coffee Maker,Home Appliances,Tropicana,0,486.8651032447815
+Heater,Personal Gadget,Tropicana,0,956.056535243988
+Humidifier,Office Supplies,Tropicana,0,485.7678413391113
+Gaming Console,Personal Gadget,Tropicana,0,458.35548639297485
+Pen,Home Supplies,Tropicana,0,419.91859674453735
+Pencil,Food,Tropicana,0,574.7348070144653
+Notepad,Office Supplies,Tropicana,0,515.0002241134644
+Sticky Notes,Personal Gadget,Tropicana,0,619.0428137779236
+Calendar,Home Appliances,Tropicana,0,741.7025566101074
+Planner,Personal Gadget,Tropicana,0,540.698230266571
+Highlighter,Personal Gadget,Tropicana,0,637.6276612281799
+Sharpener,Food,Tropicana,0,392.4158811569214
+Notebook,Home Appliances,Tropicana,0,436.39808893203735
+Journal,Home Supplies,Tropicana,0,465.5637741088867
+Diary,Office Supplies,Tropicana,0,149.86789226531982
+Printer,Personal Gadget,Tropicana,0,911.5954637527466
+Trashcan,Home Appliances,Tropicana,0,263.0860209465027
+Chair,Home Supplies,Tropicana,0,317.04264879226685
+Tape,Home Supplies,Tropicana,0,383.68767499923706
+Eraser,Home Supplies,Tropicana,0,298.59817028045654
+Iphone X,Office Supplies,Kimberley Clark,0,651.9477367401123
+Ipad Pro,Home Appliances,Kimberley Clark,0,230.95238208770752
+Macbook Pro,Office Supplies,Kimberley Clark,0,657.2018265724182
+XPS 13,Home Appliances,Kimberley Clark,0,913.454532623291
+Noise Cancelling Series 2,Home Supplies,Kimberley Clark,0,541.2356853485107
+Inspiron,Personal Gadget,Kimberley Clark,0,475.6771922111511
+Macbook Air,Personal Gadget,Kimberley Clark,0,498.19284677505493
+Chips,Food,Kimberley Clark,0,473.0139970779419
+Milk,Office Supplies,Kimberley Clark,0,930.3134083747864
+Yoghurt,Personal Gadget,Kimberley Clark,0,741.1029934883118
+Cheese,Office Supplies,Kimberley Clark,0,594.2751169204712
+Chicken Breast,Home Appliances,Kimberley Clark,0,674.8435497283936
+Frozen Pizza,Food,Kimberley Clark,0,507.0713758468628
+Bagels,Food,Kimberley Clark,0,639.8760676383972
+Bread,Home Appliances,Kimberley Clark,0,584.356427192688
+Cookies,Home Appliances,Kimberley Clark,0,880.5717825889587
+Sparkling Water,Personal Gadget,Kimberley Clark,0,697.2842216491699
+Energy Drink,Food,Kimberley Clark,0,680.9030175209045
+Soda,Food,Kimberley Clark,0,373.435378074646
+Root Beer,Office Supplies,Kimberley Clark,0,488.2255792617798
+Juice,Office Supplies,Kimberley Clark,0,878.9805769920349
+Toilet Paper,Home Supplies,Kimberley Clark,0,3.3306479454040527
+Tooth Brush,Home Appliances,Kimberley Clark,0,126.40440464019775
+Mouthwash,Home Supplies,Kimberley Clark,0,854.5512557029724
+Toothpaste,Personal Gadget,Kimberley Clark,0,306.65701627731323
+Soap,Office Supplies,Kimberley Clark,0,843.8144326210022
+Shampoo,Home Appliances,Kimberley Clark,0,476.4113426208496
+Shower Gel,Office Supplies,Kimberley Clark,0,16.008973121643066
+Dish Soap,Food,Kimberley Clark,0,498.17347526550293
+Towels,Personal Gadget,Kimberley Clark,0,50.7051944732666
+Cutlery,Home Appliances,Kimberley Clark,0,769.4651484489441
+Sanitizer,Home Supplies,Kimberley Clark,0,1.0725855827331543
+Laundry Detergent,Office Supplies,Kimberley Clark,0,451.42680406570435
+Fabric Softener,Home Supplies,Kimberley Clark,0,955.8528661727905
+Dishwasher,Home Appliances,Kimberley Clark,0,359.35497283935547
+Refrigerator,Office Supplies,Kimberley Clark,0,226.66358947753906
+TV,Personal Gadget,Kimberley Clark,0,78.40520143508911
+Sound System,Home Supplies,Kimberley Clark,0,568.0477619171143
+Microwave,Food,Kimberley Clark,0,65.58358669281006
+Oven,Personal Gadget,Kimberley Clark,0,327.99267768859863
+Electric Kettle,Home Appliances,Kimberley Clark,0,670.9864139556885
+Coffee Maker,Personal Gadget,Kimberley Clark,0,361.68861389160156
+Heater,Personal Gadget,Kimberley Clark,0,911.8989706039429
+Humidifier,Personal Gadget,Kimberley Clark,0,783.778727054596
+Gaming Console,Food,Kimberley Clark,0,45.847535133361816
+Pen,Office Supplies,Kimberley Clark,0,900.0887870788574
+Pencil,Office Supplies,Kimberley Clark,0,174.14259910583496
+Notepad,Office Supplies,Kimberley Clark,0,867.75803565979
+Sticky Notes,Personal Gadget,Kimberley Clark,0,255.11521100997925
+Calendar,Personal Gadget,Kimberley Clark,0,154.9004316329956
+Planner,Home Supplies,Kimberley Clark,0,583.512008190155
+Highlighter,Home Appliances,Kimberley Clark,0,782.5947403907776
+Sharpener,Personal Gadget,Kimberley Clark,0,394.8901295661926
+Notebook,Food,Kimberley Clark,0,661.4581942558289
+Journal,Home Supplies,Kimberley Clark,0,254.97251749038696
+Diary,Home Supplies,Kimberley Clark,0,313.7469291687012
+Printer,Food,Kimberley Clark,0,95.53885459899902
+Trashcan,Home Appliances,Kimberley Clark,0,584.4135284423828
+Chair,Personal Gadget,Kimberley Clark,0,540.4323935508728
+Tape,Food,Kimberley Clark,0,978.5382151603699
+Eraser,Office Supplies,Kimberley Clark,0,735.6539368629456
+Iphone X,Food,P & G,0,358.8516116142273
+Ipad Pro,Office Supplies,P & G,0,542.4296259880066
+Macbook Pro,Office Supplies,P & G,0,439.63146209716797
+XPS 13,Personal Gadget,P & G,0,285.8406901359558
+Noise Cancelling Series 2,Food,P & G,0,819.1524744033813
+Inspiron,Home Supplies,P & G,0,466.4621949195862
+Macbook Air,Home Supplies,P & G,0,902.2937417030334
+Chips,Home Appliances,P & G,0,958.9964747428894
+Milk,Home Supplies,P & G,0,631.1784982681274
+Yoghurt,Home Supplies,P & G,0,338.72509002685547
+Cheese,Office Supplies,P & G,0,321.2909698486328
+Chicken Breast,Personal Gadget,P & G,0,520.5070376396179
+Frozen Pizza,Food,P & G,0,402.94140577316284
+Bagels,Food,P & G,0,870.9012866020203
+Bread,Office Supplies,P & G,0,505.9416890144348
+Cookies,Home Supplies,P & G,0,194.7917342185974
+Sparkling Water,Home Appliances,P & G,0,64.72140550613403
+Energy Drink,Office Supplies,P & G,0,414.7857427597046
+Soda,Food,P & G,0,630.8078765869141
+Root Beer,Home Supplies,P & G,0,593.8867330551147
+Juice,Home Supplies,P & G,0,981.6812872886658
+Toilet Paper,Home Supplies,P & G,0,16.90506935119629
+Tooth Brush,Home Appliances,P & G,0,234.69489812850952
+Mouthwash,Home Appliances,P & G,0,989.2647862434387
+Toothpaste,Food,P & G,0,790.3396487236023
+Soap,Home Supplies,P & G,0,556.9280385971069
+Shampoo,Home Appliances,P & G,0,522.0772624015808
+Shower Gel,Home Supplies,P & G,0,549.8461127281189
+Dish Soap,Home Supplies,P & G,0,134.83673334121704
+Towels,Home Appliances,P & G,0,833.544909954071
+Cutlery,Home Appliances,P & G,0,668.7641143798828
+Sanitizer,Personal Gadget,P & G,0,877.1632313728333
+Laundry Detergent,Home Appliances,P & G,0,319.74703073501587
+Fabric Softener,Home Supplies,P & G,0,247.62600660324097
+Dishwasher,Personal Gadget,P & G,0,877.5613307952881
+Refrigerator,Home Supplies,P & G,0,282.9018831253052
+TV,Home Appliances,P & G,0,393.26316118240356
+Sound System,Office Supplies,P & G,0,424.8538613319397
+Microwave,Home Supplies,P & G,0,129.8845410346985
+Oven,Office Supplies,P & G,0,774.5456695556641
+Electric Kettle,Personal Gadget,P & G,0,327.8958797454834
+Coffee Maker,Home Appliances,P & G,0,718.6545729637146
+Heater,Food,P & G,0,935.7208609580994
+Humidifier,Office Supplies,P & G,0,641.6115164756775
+Gaming Console,Home Appliances,P & G,0,775.4051685333252
+Pen,Home Appliances,P & G,0,39.13825750350952
+Pencil,Food,P & G,0,897.0341682434082
+Notepad,Personal Gadget,P & G,0,867.9700493812561
+Sticky Notes,Food,P & G,0,338.498055934906
+Calendar,Home Supplies,P & G,0,864.8900389671326
+Planner,Food,P & G,0,568.6529874801636
+Highlighter,Office Supplies,P & G,0,335.0035548210144
+Sharpener,Home Appliances,P & G,0,423.89822006225586
+Notebook,Office Supplies,P & G,0,611.8369102478027
+Journal,Home Appliances,P & G,0,925.8749485015869
+Diary,Personal Gadget,P & G,0,925.8610606193542
+Printer,Office Supplies,P & G,0,519.7146534919739
+Trashcan,Food,P & G,0,757.0481300354004
+Chair,Home Appliances,P & G,0,729.4688820838928
+Tape,Food,P & G,0,192.82865524291992
+Eraser,Home Supplies,P & G,0,174.60405826568604
+Iphone X,Personal Gadget,Colgate,0,245.20879983901978
+Ipad Pro,Personal Gadget,Colgate,0,216.44878387451172
+Macbook Pro,Personal Gadget,Colgate,0,207.84014463424683
+XPS 13,Home Supplies,Colgate,0,47.045350074768066
+Noise Cancelling Series 2,Home Appliances,Colgate,0,741.6415810585022
+Inspiron,Personal Gadget,Colgate,0,838.9407992362976
+Macbook Air,Personal Gadget,Colgate,0,580.412745475769
+Chips,Home Appliances,Colgate,0,140.11156558990479
+Milk,Home Appliances,Colgate,0,238.1305694580078
+Yoghurt,Home Appliances,Colgate,0,223.65891933441162
+Cheese,Food,Colgate,0,397.797167301178
+Chicken Breast,Home Appliances,Colgate,0,740.4483556747437
+Frozen Pizza,Home Supplies,Colgate,0,366.438090801239
+Bagels,Food,Colgate,0,130.95051050186157
+Bread,Food,Colgate,0,18.89336109161377
+Cookies,Home Supplies,Colgate,0,639.7342085838318
+Sparkling Water,Office Supplies,Colgate,0,529.2850732803345
+Energy Drink,Personal Gadget,Colgate,0,955.0683498382568
+Soda,Personal Gadget,Colgate,0,236.486554145813
+Root Beer,Food,Colgate,0,932.7231645584106
+Juice,Office Supplies,Colgate,0,619.6998357772827
+Toilet Paper,Home Supplies,Colgate,0,226.27049684524536
+Tooth Brush,Home Appliances,Colgate,0,311.6205930709839
+Mouthwash,Personal Gadget,Colgate,0,58.03537368774414
+Toothpaste,Personal Gadget,Colgate,0,667.022705078125
+Soap,Home Appliances,Colgate,0,650.5461931228638
+Shampoo,Home Supplies,Colgate,0,779.4286012649536
+Shower Gel,Home Appliances,Colgate,0,776.1863470077515
+Dish Soap,Home Supplies,Colgate,0,221.4863896369934
+Towels,Home Supplies,Colgate,0,454.2086124420166
+Cutlery,Office Supplies,Colgate,0,727.5038361549377
+Sanitizer,Food,Colgate,0,463.9125466346741
+Laundry Detergent,Food,Colgate,0,669.1758036613464
+Fabric Softener,Home Appliances,Colgate,0,188.29375505447388
+Dishwasher,Home Supplies,Colgate,0,455.89679479599
+Refrigerator,Personal Gadget,Colgate,0,444.67228651046753
+TV,Home Supplies,Colgate,0,955.3015828132629
+Sound System,Office Supplies,Colgate,0,691.6477680206299
+Microwave,Personal Gadget,Colgate,0,42.08570718765259
+Oven,Home Appliances,Colgate,0,72.27236032485962
+Electric Kettle,Home Appliances,Colgate,0,386.1082196235657
+Coffee Maker,Food,Colgate,0,611.7808818817139
+Heater,Office Supplies,Colgate,0,354.77352142333984
+Humidifier,Home Supplies,Colgate,0,937.8893971443176
+Gaming Console,Personal Gadget,Colgate,0,278.36573123931885
+Pen,Food,Colgate,0,739.0123009681702
+Pencil,Home Appliances,Colgate,0,487.12390661239624
+Notepad,Personal Gadget,Colgate,0,880.3263902664185
+Sticky Notes,Food,Colgate,0,230.2810549736023
+Calendar,Home Supplies,Colgate,0,422.124445438385
+Planner,Food,Colgate,0,413.0539298057556
+Highlighter,Office Supplies,Colgate,0,445.16444206237793
+Sharpener,Office Supplies,Colgate,0,698.7950205802917
+Notebook,Office Supplies,Colgate,0,502.69126892089844
+Journal,Food,Colgate,0,909.4630479812622
+Diary,Home Appliances,Colgate,0,60.54079532623291
+Printer,Personal Gadget,Colgate,0,385.61540842056274
+Trashcan,Food,Colgate,0,530.4399728775024
+Chair,Food,Colgate,0,432.78050422668457
+Tape,Home Appliances,Colgate,0,475.6042957305908
+Eraser,Home Supplies,Colgate,0,657.9684615135193
+Iphone X,Office Supplies,Crest,0,503.4511089324951
+Ipad Pro,Home Supplies,Crest,0,689.9770498275757
+Macbook Pro,Office Supplies,Crest,0,942.268967628479
+XPS 13,Food,Crest,0,859.9341511726379
+Noise Cancelling Series 2,Office Supplies,Crest,0,14.697551727294922
+Inspiron,Food,Crest,0,102.1888256072998
+Macbook Air,Office Supplies,Crest,0,211.70812845230103
+Chips,Personal Gadget,Crest,0,906.3643217086792
+Milk,Home Supplies,Crest,0,480.3677201271057
+Yoghurt,Food,Crest,0,223.36381673812866
+Cheese,Home Appliances,Crest,0,664.1004085540771
+Chicken Breast,Home Appliances,Crest,0,993.7634468078613
+Frozen Pizza,Home Supplies,Crest,0,75.61349868774414
+Bagels,Personal Gadget,Crest,0,446.846067905426
+Bread,Home Appliances,Crest,0,793.4603691101074
+Cookies,Home Appliances,Crest,0,611.1472249031067
+Sparkling Water,Home Supplies,Crest,0,109.8102331161499
+Energy Drink,Home Supplies,Crest,0,9.57256555557251
+Soda,Food,Crest,0,828.9557695388794
+Root Beer,Home Appliances,Crest,0,288.7750267982483
+Juice,Home Supplies,Crest,0,836.1087441444397
+Toilet Paper,Personal Gadget,Crest,0,386.5634799003601
+Tooth Brush,Personal Gadget,Crest,0,489.9355173110962
+Mouthwash,Personal Gadget,Crest,0,683.786153793335
+Toothpaste,Home Appliances,Crest,0,109.00735855102539
+Soap,Home Supplies,Crest,0,657.6467752456665
+Shampoo,Food,Crest,0,743.9597249031067
+Shower Gel,Food,Crest,0,669.1514849662781
+Dish Soap,Food,Crest,0,878.8655996322632
+Towels,Home Appliances,Crest,0,323.8638639450073
+Cutlery,Food,Crest,0,965.4471278190613
+Sanitizer,Personal Gadget,Crest,0,65.9867525100708
+Laundry Detergent,Food,Crest,0,243.7269687652588
+Fabric Softener,Office Supplies,Crest,0,352.7619242668152
+Dishwasher,Home Supplies,Crest,0,77.12286710739136
+Refrigerator,Home Appliances,Crest,0,539.154589176178
+TV,Home Supplies,Crest,0,666.5136814117432
+Sound System,Home Appliances,Crest,0,939.7857785224915
+Microwave,Home Appliances,Crest,0,97.270667552948
+Oven,Personal Gadget,Crest,0,962.2166156768799
+Electric Kettle,Office Supplies,Crest,0,9.601294994354248
+Coffee Maker,Home Appliances,Crest,0,587.2408151626587
+Heater,Office Supplies,Crest,0,12.864291667938232
+Humidifier,Personal Gadget,Crest,0,250.17881393432617
+Gaming Console,Food,Crest,0,238.97677659988403
+Pen,Food,Crest,0,622.8050589561462
+Pencil,Home Supplies,Crest,0,51.97298526763916
+Notepad,Office Supplies,Crest,0,257.10684061050415
+Sticky Notes,Office Supplies,Crest,0,6.628274917602539
+Calendar,Food,Crest,0,206.3271999359131
+Planner,Home Supplies,Crest,0,238.4055256843567
+Highlighter,Food,Crest,0,840.5707478523254
+Sharpener,Home Appliances,Crest,0,832.511305809021
+Notebook,Food,Crest,0,206.65550231933594
+Journal,Food,Crest,0,577.3788690567017
+Diary,Personal Gadget,Crest,0,606.0100793838501
+Printer,Personal Gadget,Crest,0,276.37988328933716
+Trashcan,Home Appliances,Crest,0,69.49865818023682
+Chair,Home Appliances,Crest,0,343.0669903755188
+Tape,Office Supplies,Crest,0,161.49604320526123
+Eraser,Office Supplies,Crest,0,314.9679899215698
+Iphone X,Food,Oral B,0,942.8297877311707
+Ipad Pro,Personal Gadget,Oral B,0,717.2055244445801
+Macbook Pro,Personal Gadget,Oral B,0,936.9964599609375
+XPS 13,Home Appliances,Oral B,0,121.45012617111206
+Noise Cancelling Series 2,Personal Gadget,Oral B,0,878.1005144119263
+Inspiron,Home Appliances,Oral B,0,462.49914169311523
+Macbook Air,Personal Gadget,Oral B,0,752.135157585144
+Chips,Food,Oral B,0,581.8080902099609
+Milk,Personal Gadget,Oral B,0,883.5414052009583
+Yoghurt,Home Appliances,Oral B,0,405.3976535797119
+Cheese,Home Supplies,Oral B,0,352.56898403167725
+Chicken Breast,Personal Gadget,Oral B,0,176.67222023010254
+Frozen Pizza,Personal Gadget,Oral B,0,970.0817465782166
+Bagels,Personal Gadget,Oral B,0,249.87852573394775
+Bread,Food,Oral B,0,77.48818397521973
+Cookies,Food,Oral B,0,307.40517377853394
+Sparkling Water,Home Supplies,Oral B,0,100.93003511428833
+Energy Drink,Personal Gadget,Oral B,0,647.192656993866
+Soda,Personal Gadget,Oral B,0,669.3792343139648
+Root Beer,Home Appliances,Oral B,0,751.6375780105591
+Juice,Home Appliances,Oral B,0,132.6143741607666
+Toilet Paper,Food,Oral B,0,506.100594997406
+Tooth Brush,Food,Oral B,0,992.0718669891357
+Mouthwash,Home Supplies,Oral B,0,696.1636543273926
+Toothpaste,Home Appliances,Oral B,0,418.28978061676025
+Soap,Home Appliances,Oral B,0,243.94851922988892
+Shampoo,Office Supplies,Oral B,0,84.2248797416687
+Shower Gel,Personal Gadget,Oral B,0,714.0470743179321
+Dish Soap,Office Supplies,Oral B,0,733.3768010139465
+Towels,Personal Gadget,Oral B,0,51.000118255615234
+Cutlery,Food,Oral B,0,542.7880883216858
+Sanitizer,Office Supplies,Oral B,0,127.98571586608887
+Laundry Detergent,Office Supplies,Oral B,0,579.1037678718567
+Fabric Softener,Office Supplies,Oral B,0,268.76509189605713
+Dishwasher,Food,Oral B,0,704.610288143158
+Refrigerator,Home Supplies,Oral B,0,433.4262013435364
+TV,Personal Gadget,Oral B,0,721.2837934494019
+Sound System,Office Supplies,Oral B,0,667.6311492919922
+Microwave,Home Appliances,Oral B,0,474.2465615272522
+Oven,Office Supplies,Oral B,0,842.617392539978
+Electric Kettle,Home Supplies,Oral B,0,29.664039611816406
+Coffee Maker,Office Supplies,Oral B,0,749.9300837516785
+Heater,Office Supplies,Oral B,0,932.1509599685669
+Humidifier,Home Appliances,Oral B,0,554.735004901886
+Gaming Console,Food,Oral B,0,297.4429726600647
+Pen,Food,Oral B,0,201.63673162460327
+Pencil,Office Supplies,Oral B,0,49.82203245162964
+Notepad,Personal Gadget,Oral B,0,57.40565061569214
+Sticky Notes,Home Appliances,Oral B,0,741.0601377487183
+Calendar,Home Appliances,Oral B,0,269.22065019607544
+Planner,Home Appliances,Oral B,0,937.1041655540466
+Highlighter,Personal Gadget,Oral B,0,621.4048266410828
+Sharpener,Office Supplies,Oral B,0,307.1194887161255
+Notebook,Personal Gadget,Oral B,0,147.74072170257568
+Journal,Home Appliances,Oral B,0,51.72765254974365
+Diary,Office Supplies,Oral B,0,162.9968285560608
+Printer,Food,Oral B,0,746.3157773017883
+Trashcan,Food,Oral B,0,432.0928454399109
+Chair,Home Supplies,Oral B,0,712.30548620224
+Tape,Personal Gadget,Oral B,0,817.3317313194275
+Eraser,Home Appliances,Oral B,0,653.4909009933472
+Iphone X,Food,Old Spice,0,305.3920269012451
+Ipad Pro,Home Appliances,Old Spice,0,73.38589429855347
+Macbook Pro,Office Supplies,Old Spice,0,891.5086388587952
+XPS 13,Home Appliances,Old Spice,0,318.45617294311523
+Noise Cancelling Series 2,Food,Old Spice,0,416.78887605667114
+Inspiron,Personal Gadget,Old Spice,0,444.79405879974365
+Macbook Air,Personal Gadget,Old Spice,0,347.35971689224243
+Chips,Personal Gadget,Old Spice,0,283.97202491760254
+Milk,Office Supplies,Old Spice,0,335.59316396713257
+Yoghurt,Office Supplies,Old Spice,0,467.3779010772705
+Cheese,Personal Gadget,Old Spice,0,601.7065048217773
+Chicken Breast,Personal Gadget,Old Spice,0,965.2867913246155
+Frozen Pizza,Home Appliances,Old Spice,0,59.394657611846924
+Bagels,Personal Gadget,Old Spice,0,193.40664148330688
+Bread,Office Supplies,Old Spice,0,225.78281164169312
+Cookies,Office Supplies,Old Spice,0,549.8925447463989
+Sparkling Water,Food,Old Spice,0,300.9442687034607
+Energy Drink,Office Supplies,Old Spice,0,562.2528195381165
+Soda,Office Supplies,Old Spice,0,75.71548223495483
+Root Beer,Personal Gadget,Old Spice,0,666.6644811630249
+Juice,Personal Gadget,Old Spice,0,181.87761306762695
+Toilet Paper,Home Supplies,Old Spice,0,110.62228679656982
+Tooth Brush,Personal Gadget,Old Spice,0,492.39957332611084
+Mouthwash,Home Appliances,Old Spice,0,990.3075695037842
+Toothpaste,Personal Gadget,Old Spice,0,520.9330916404724
+Soap,Food,Old Spice,0,11.478066444396973
+Shampoo,Office Supplies,Old Spice,0,471.79901599884033
+Shower Gel,Food,Old Spice,0,30.042827129364014
+Dish Soap,Food,Old Spice,0,120.13763189315796
+Towels,Office Supplies,Old Spice,0,696.9387531280518
+Cutlery,Home Supplies,Old Spice,0,125.6493330001831
+Sanitizer,Food,Old Spice,0,840.7225608825684
+Laundry Detergent,Food,Old Spice,0,324.50371980667114
+Fabric Softener,Home Appliances,Old Spice,0,387.8122568130493
+Dishwasher,Food,Old Spice,0,327.7357816696167
+Refrigerator,Personal Gadget,Old Spice,0,290.0724411010742
+TV,Food,Old Spice,0,659.1004729270935
+Sound System,Home Supplies,Old Spice,0,826.0619640350342
+Microwave,Office Supplies,Old Spice,0,172.36238718032837
+Oven,Home Appliances,Old Spice,0,817.5147771835327
+Electric Kettle,Home Supplies,Old Spice,0,531.9334864616394
+Coffee Maker,Food,Old Spice,0,386.3813877105713
+Heater,Food,Old Spice,0,759.3263387680054
+Humidifier,Food,Old Spice,0,328.03791761398315
+Gaming Console,Personal Gadget,Old Spice,0,831.8866491317749
+Pen,Food,Old Spice,0,529.1895866394043
+Pencil,Home Appliances,Old Spice,0,863.6552691459656
+Notepad,Personal Gadget,Old Spice,0,978.8307547569275
+Sticky Notes,Food,Old Spice,0,748.0510473251343
+Calendar,Home Appliances,Old Spice,0,249.7401237487793
+Planner,Food,Old Spice,0,248.55995178222656
+Highlighter,Home Appliances,Old Spice,0,136.91234588623047
+Sharpener,Food,Old Spice,0,290.0857925415039
+Notebook,Office Supplies,Old Spice,0,776.6702175140381
+Journal,Home Appliances,Old Spice,0,736.5025877952576
+Diary,Personal Gadget,Old Spice,0,712.7429842948914
+Printer,Office Supplies,Old Spice,0,798.825204372406
+Trashcan,Personal Gadget,Old Spice,0,278.1992554664612
+Chair,Home Appliances,Old Spice,0,665.973424911499
+Tape,Food,Old Spice,0,407.81062841415405
+Eraser,Home Appliances,Old Spice,0,202.1685242652893
+Iphone X,Food,Dove,0,745.3190088272095
+Ipad Pro,Home Supplies,Dove,0,30.515670776367188
+Macbook Pro,Personal Gadget,Dove,0,153.44566106796265
+XPS 13,Home Appliances,Dove,0,893.3572769165039
+Noise Cancelling Series 2,Home Supplies,Dove,0,538.7001037597656
+Inspiron,Food,Dove,0,421.73320055007935
+Macbook Air,Home Supplies,Dove,0,163.62327337265015
+Chips,Office Supplies,Dove,0,887.0666027069092
+Milk,Personal Gadget,Dove,0,309.6719980239868
+Yoghurt,Home Supplies,Dove,0,879.4606924057007
+Cheese,Personal Gadget,Dove,0,576.2714743614197
+Chicken Breast,Home Appliances,Dove,0,343.3070778846741
+Frozen Pizza,Home Supplies,Dove,0,135.51819324493408
+Bagels,Office Supplies,Dove,0,889.971911907196
+Bread,Personal Gadget,Dove,0,615.6111359596252
+Cookies,Personal Gadget,Dove,0,639.9528980255127
+Sparkling Water,Home Appliances,Dove,0,745.4586625099182
+Energy Drink,Home Appliances,Dove,0,67.04634428024292
+Soda,Office Supplies,Dove,0,572.3100304603577
+Root Beer,Office Supplies,Dove,0,921.7845797538757
+Juice,Personal Gadget,Dove,0,656.0762524604797
+Toilet Paper,Home Appliances,Dove,0,500.910222530365
+Tooth Brush,Office Supplies,Dove,0,668.7435507774353
+Mouthwash,Personal Gadget,Dove,0,457.2521448135376
+Toothpaste,Home Supplies,Dove,0,883.5759162902832
+Soap,Home Appliances,Dove,0,366.51307344436646
+Shampoo,Home Appliances,Dove,0,53.410232067108154
+Shower Gel,Home Appliances,Dove,0,193.73774528503418
+Dish Soap,Home Appliances,Dove,0,655.1485061645508
+Towels,Personal Gadget,Dove,0,145.2960968017578
+Cutlery,Home Supplies,Dove,0,751.5596151351929
+Sanitizer,Personal Gadget,Dove,0,617.9141402244568
+Laundry Detergent,Office Supplies,Dove,0,202.84324884414673
+Fabric Softener,Home Appliances,Dove,0,733.5547208786011
+Dishwasher,Home Appliances,Dove,0,388.3465528488159
+Refrigerator,Personal Gadget,Dove,0,399.8686671257019
+TV,Food,Dove,0,290.7372713088989
+Sound System,Home Supplies,Dove,0,785.6916785240173
+Microwave,Personal Gadget,Dove,0,896.3351249694824
+Oven,Food,Dove,0,327.9802203178406
+Electric Kettle,Home Supplies,Dove,0,599.8209118843079
+Coffee Maker,Food,Dove,0,872.1038103103638
+Heater,Office Supplies,Dove,0,220.93170881271362
+Humidifier,Office Supplies,Dove,0,726.1084318161011
+Gaming Console,Home Supplies,Dove,0,474.9033451080322
+Pen,Office Supplies,Dove,0,419.1397428512573
+Pencil,Personal Gadget,Dove,0,245.33599615097046
+Notepad,Food,Dove,0,885.4745030403137
+Sticky Notes,Office Supplies,Dove,0,823.9728212356567
+Calendar,Home Supplies,Dove,0,942.5119757652283
+Planner,Food,Dove,0,770.855724811554
+Highlighter,Personal Gadget,Dove,0,40.682435035705566
+Sharpener,Office Supplies,Dove,0,152.83119678497314
+Notebook,Office Supplies,Dove,0,785.7412099838257
+Journal,Food,Dove,0,408.93876552581787
+Diary,Office Supplies,Dove,0,72.65114784240723
+Printer,Personal Gadget,Dove,0,816.4541125297546
+Trashcan,Personal Gadget,Dove,0,431.65701627731323
+Chair,Home Appliances,Dove,0,668.034017086029
+Tape,Home Supplies,Dove,0,430.797278881073
+Eraser,Home Appliances,Dove,0,573.4099745750427
+Iphone X,Home Supplies,Cetaphil,0,467.6738381385803
+Ipad Pro,Home Supplies,Cetaphil,0,351.4009714126587
+Macbook Pro,Home Appliances,Cetaphil,0,732.6287031173706
+XPS 13,Personal Gadget,Cetaphil,0,440.8063292503357
+Noise Cancelling Series 2,Home Supplies,Cetaphil,0,454.50645685195923
+Inspiron,Home Appliances,Cetaphil,0,621.2444305419922
+Macbook Air,Office Supplies,Cetaphil,0,120.98050117492676
+Chips,Home Supplies,Cetaphil,0,664.6122932434082
+Milk,Office Supplies,Cetaphil,0,273.184597492218
+Yoghurt,Home Appliances,Cetaphil,0,730.0605773925781
+Cheese,Home Supplies,Cetaphil,0,737.4429702758789
+Chicken Breast,Home Appliances,Cetaphil,0,343.84000301361084
+Frozen Pizza,Home Appliances,Cetaphil,0,6.671249866485596
+Bagels,Home Appliances,Cetaphil,0,471.8354344367981
+Bread,Office Supplies,Cetaphil,0,605.1044464111328
+Cookies,Home Appliances,Cetaphil,0,876.9513368606567
+Sparkling Water,Personal Gadget,Cetaphil,0,50.086140632629395
+Energy Drink,Personal Gadget,Cetaphil,0,863.7480139732361
+Soda,Personal Gadget,Cetaphil,0,804.5495748519897
+Root Beer,Home Appliances,Cetaphil,0,934.9866509437561
+Juice,Food,Cetaphil,0,937.4781847000122
+Toilet Paper,Food,Cetaphil,0,433.28607082366943
+Tooth Brush,Food,Cetaphil,0,74.12534952163696
+Mouthwash,Home Appliances,Cetaphil,0,108.29824209213257
+Toothpaste,Home Appliances,Cetaphil,0,323.2892155647278
+Soap,Office Supplies,Cetaphil,0,756.1898827552795
+Shampoo,Home Supplies,Cetaphil,0,868.8074946403503
+Shower Gel,Office Supplies,Cetaphil,0,722.4012613296509
+Dish Soap,Food,Cetaphil,0,663.0945801734924
+Towels,Home Appliances,Cetaphil,0,567.3996806144714
+Cutlery,Food,Cetaphil,0,471.5690612792969
+Sanitizer,Office Supplies,Cetaphil,0,573.3398199081421
+Laundry Detergent,Home Supplies,Cetaphil,0,400.9016752243042
+Fabric Softener,Home Supplies,Cetaphil,0,850.1871824264526
+Dishwasher,Food,Cetaphil,0,966.9749140739441
+Refrigerator,Home Supplies,Cetaphil,0,494.0965175628662
+TV,Food,Cetaphil,0,889.2347812652588
+Sound System,Personal Gadget,Cetaphil,0,797.9117035865784
+Microwave,Home Appliances,Cetaphil,0,758.7947249412537
+Oven,Home Appliances,Cetaphil,0,730.9594750404358
+Electric Kettle,Food,Cetaphil,0,843.4257507324219
+Coffee Maker,Personal Gadget,Cetaphil,0,438.34835290908813
+Heater,Home Supplies,Cetaphil,0,841.7482376098633
+Humidifier,Home Appliances,Cetaphil,0,82.39006996154785
+Gaming Console,Food,Cetaphil,0,862.9809021949768
+Pen,Office Supplies,Cetaphil,0,12.293338775634766
+Pencil,Home Supplies,Cetaphil,0,222.06705808639526
+Notepad,Home Appliances,Cetaphil,0,632.8213214874268
+Sticky Notes,Office Supplies,Cetaphil,0,440.584659576416
+Calendar,Food,Cetaphil,0,906.1592817306519
+Planner,Home Supplies,Cetaphil,0,722.3760485649109
+Highlighter,Home Supplies,Cetaphil,0,699.9459266662598
+Sharpener,Food,Cetaphil,0,923.2485294342041
+Notebook,Personal Gadget,Cetaphil,0,52.5326132774353
+Journal,Personal Gadget,Cetaphil,0,903.4698605537415
+Diary,Home Supplies,Cetaphil,0,306.43904209136963
+Printer,Food,Cetaphil,0,90.31003713607788
+Trashcan,Office Supplies,Cetaphil,0,233.17021131515503
+Chair,Home Appliances,Cetaphil,0,988.8789653778076
+Tape,Home Supplies,Cetaphil,0,85.69133281707764
+Eraser,Office Supplies,Cetaphil,0,369.4281578063965
+Iphone X,Office Supplies,Dawn,0,645.673394203186
+Ipad Pro,Home Supplies,Dawn,0,487.69015073776245
+Macbook Pro,Food,Dawn,0,36.01139783859253
+XPS 13,Office Supplies,Dawn,0,224.42114353179932
+Noise Cancelling Series 2,Home Appliances,Dawn,0,428.08234691619873
+Inspiron,Food,Dawn,0,676.9068241119385
+Macbook Air,Home Supplies,Dawn,0,948.8906264305115
+Chips,Personal Gadget,Dawn,0,917.7349805831909
+Milk,Personal Gadget,Dawn,0,574.89413022995
+Yoghurt,Office Supplies,Dawn,0,226.7056107521057
+Cheese,Office Supplies,Dawn,0,654.3042659759521
+Chicken Breast,Home Supplies,Dawn,0,675.5272150039673
+Frozen Pizza,Home Appliances,Dawn,0,823.513925075531
+Bagels,Home Supplies,Dawn,0,30.263960361480713
+Bread,Food,Dawn,0,449.6568441390991
+Cookies,Food,Dawn,0,264.7967338562012
+Sparkling Water,Food,Dawn,0,641.9071555137634
+Energy Drink,Home Supplies,Dawn,0,734.4062924385071
+Soda,Office Supplies,Dawn,0,208.86224508285522
+Root Beer,Home Supplies,Dawn,0,129.6839714050293
+Juice,Personal Gadget,Dawn,0,406.2284231185913
+Toilet Paper,Office Supplies,Dawn,0,558.1346750259399
+Tooth Brush,Food,Dawn,0,704.1823267936707
+Mouthwash,Personal Gadget,Dawn,0,528.0121564865112
+Toothpaste,Food,Dawn,0,221.4605212211609
+Soap,Office Supplies,Dawn,0,733.1811785697937
+Shampoo,Personal Gadget,Dawn,0,615.8292293548584
+Shower Gel,Food,Dawn,0,559.3363642692566
+Dish Soap,Office Supplies,Dawn,0,608.604907989502
+Towels,Personal Gadget,Dawn,0,304.0392994880676
+Cutlery,Home Supplies,Dawn,0,552.9707074165344
+Sanitizer,Home Appliances,Dawn,0,582.2101831436157
+Laundry Detergent,Home Supplies,Dawn,0,458.7225317955017
+Fabric Softener,Home Supplies,Dawn,0,84.50162410736084
+Dishwasher,Personal Gadget,Dawn,0,164.66081142425537
+Refrigerator,Home Appliances,Dawn,0,281.0777425765991
+TV,Food,Dawn,0,237.13237047195435
+Sound System,Office Supplies,Dawn,0,283.55246782302856
+Microwave,Office Supplies,Dawn,0,80.34944534301758
+Oven,Personal Gadget,Dawn,0,562.1419548988342
+Electric Kettle,Personal Gadget,Dawn,0,410.3313684463501
+Coffee Maker,Personal Gadget,Dawn,0,685.5325698852539
+Heater,Personal Gadget,Dawn,0,987.0086908340454
+Humidifier,Office Supplies,Dawn,0,532.7569842338562
+Gaming Console,Home Supplies,Dawn,0,463.70965242385864
+Pen,Personal Gadget,Dawn,0,297.81532287597656
+Pencil,Office Supplies,Dawn,0,623.5462427139282
+Notepad,Home Supplies,Dawn,0,50.336480140686035
+Sticky Notes,Home Appliances,Dawn,0,679.8900365829468
+Calendar,Personal Gadget,Dawn,0,63.80295753479004
+Planner,Personal Gadget,Dawn,0,853.0585765838623
+Highlighter,Personal Gadget,Dawn,0,714.465856552124
+Sharpener,Home Appliances,Dawn,0,55.531203746795654
+Notebook,Home Appliances,Dawn,0,579.8717141151428
+Journal,Food,Dawn,0,259.6094608306885
+Diary,Food,Dawn,0,719.8516726493835
+Printer,Home Supplies,Dawn,0,348.6889600753784
+Trashcan,Home Appliances,Dawn,0,751.9660592079163
+Chair,Home Supplies,Dawn,0,908.6033701896667
+Tape,Food,Dawn,0,687.9360675811768
+Eraser,Home Supplies,Dawn,0,269.34105157852173
+Iphone X,Home Appliances,Kirkland,0,980.8608293533325
+Ipad Pro,Food,Kirkland,0,8.453786373138428
+Macbook Pro,Home Supplies,Kirkland,0,451.4508843421936
+XPS 13,Home Supplies,Kirkland,0,252.43598222732544
+Noise Cancelling Series 2,Office Supplies,Kirkland,0,774.6821045875549
+Inspiron,Home Appliances,Kirkland,0,216.13210439682007
+Macbook Air,Home Appliances,Kirkland,0,778.8788080215454
+Chips,Home Appliances,Kirkland,0,85.83533763885498
+Milk,Food,Kirkland,0,653.0969738960266
+Yoghurt,Home Appliances,Kirkland,0,240.3128743171692
+Cheese,Home Supplies,Kirkland,0,194.73785161972046
+Chicken Breast,Office Supplies,Kirkland,0,904.7771096229553
+Frozen Pizza,Home Appliances,Kirkland,0,829.6529054641724
+Bagels,Home Supplies,Kirkland,0,213.21630477905273
+Bread,Home Appliances,Kirkland,0,376.797080039978
+Cookies,Personal Gadget,Kirkland,0,709.9950909614563
+Sparkling Water,Home Appliances,Kirkland,0,437.0676875114441
+Energy Drink,Home Supplies,Kirkland,0,25.87991952896118
+Soda,Food,Kirkland,0,92.77969598770142
+Root Beer,Home Supplies,Kirkland,0,618.3868050575256
+Juice,Food,Kirkland,0,994.8413372039795
+Toilet Paper,Personal Gadget,Kirkland,0,451.47520303726196
+Tooth Brush,Personal Gadget,Kirkland,0,276.8028974533081
+Mouthwash,Home Appliances,Kirkland,0,513.1306052207947
+Toothpaste,Food,Kirkland,0,409.381628036499
+Soap,Home Appliances,Kirkland,0,417.41758584976196
+Shampoo,Food,Kirkland,0,639.750599861145
+Shower Gel,Home Supplies,Kirkland,0,624.4112253189087
+Dish Soap,Personal Gadget,Kirkland,0,43.90549659729004
+Towels,Personal Gadget,Kirkland,0,229.40051555633545
+Cutlery,Food,Kirkland,0,157.9696536064148
+Sanitizer,Home Appliances,Kirkland,0,842.418372631073
+Laundry Detergent,Personal Gadget,Kirkland,0,298.6975312232971
+Fabric Softener,Personal Gadget,Kirkland,0,899.1181254386902
+Dishwasher,Personal Gadget,Kirkland,0,891.1259770393372
+Refrigerator,Home Appliances,Kirkland,0,241.0445213317871
+TV,Home Supplies,Kirkland,0,701.8799185752869
+Sound System,Food,Kirkland,0,982.3223948478699
+Microwave,Personal Gadget,Kirkland,0,842.7515029907227
+Oven,Home Appliances,Kirkland,0,373.71188402175903
+Electric Kettle,Office Supplies,Kirkland,0,726.6649603843689
+Coffee Maker,Food,Kirkland,0,494.9954152107239
+Heater,Home Supplies,Kirkland,0,995.9597587585449
+Humidifier,Office Supplies,Kirkland,0,392.01945066452026
+Gaming Console,Food,Kirkland,0,423.1345057487488
+Pen,Food,Kirkland,0,542.7979230880737
+Pencil,Personal Gadget,Kirkland,0,232.00100660324097
+Notepad,Food,Kirkland,0,933.4075450897217
+Sticky Notes,Food,Kirkland,0,480.90922832489014
+Calendar,Home Supplies,Kirkland,0,272.5902795791626
+Planner,Food,Kirkland,0,570.7753896713257
+Highlighter,Personal Gadget,Kirkland,0,25.79408884048462
+Sharpener,Personal Gadget,Kirkland,0,523.6421823501587
+Notebook,Food,Kirkland,0,634.7030997276306
+Journal,Home Supplies,Kirkland,0,60.1162314414978
+Diary,Home Supplies,Kirkland,0,965.1474356651306
+Printer,Home Appliances,Kirkland,0,277.0901918411255
+Trashcan,Office Supplies,Kirkland,0,230.76921701431274
+Chair,Personal Gadget,Kirkland,0,684.6016645431519
+Tape,Personal Gadget,Kirkland,0,236.21529340744019
+Eraser,Home Supplies,Kirkland,0,749.5875358581543
+Iphone X,Home Appliances,Tide,0,214.30957317352295
+Ipad Pro,Office Supplies,Tide,0,864.8481965065002
+Macbook Pro,Personal Gadget,Tide,0,67.13926792144775
+XPS 13,Home Appliances,Tide,0,717.0676589012146
+Noise Cancelling Series 2,Home Supplies,Tide,0,809.8998069763184
+Inspiron,Food,Tide,0,474.6846556663513
+Macbook Air,Personal Gadget,Tide,0,135.44100522994995
+Chips,Food,Tide,0,614.346444606781
+Milk,Personal Gadget,Tide,0,521.62766456604
+Yoghurt,Office Supplies,Tide,0,816.3004517555237
+Cheese,Home Supplies,Tide,0,275.8753299713135
+Chicken Breast,Home Supplies,Tide,0,400.2038240432739
+Frozen Pizza,Home Supplies,Tide,0,512.6815438270569
+Bagels,Home Supplies,Tide,0,662.4077558517456
+Bread,Personal Gadget,Tide,0,779.9012660980225
+Cookies,Home Appliances,Tide,0,85.86883544921875
+Sparkling Water,Home Supplies,Tide,0,955.2967548370361
+Energy Drink,Home Supplies,Tide,0,299.6518611907959
+Soda,Food,Tide,0,22.03202247619629
+Root Beer,Office Supplies,Tide,0,394.8339819908142
+Juice,Food,Tide,0,373.9158511161804
+Toilet Paper,Home Supplies,Tide,0,488.9499545097351
+Tooth Brush,Food,Tide,0,700.0810503959656
+Mouthwash,Home Appliances,Tide,0,456.49558305740356
+Toothpaste,Home Appliances,Tide,0,134.30428504943848
+Soap,Food,Tide,0,396.1334228515625
+Shampoo,Home Supplies,Tide,0,934.3302845954895
+Shower Gel,Personal Gadget,Tide,0,526.9368886947632
+Dish Soap,Home Appliances,Tide,0,267.4944996833801
+Towels,Home Appliances,Tide,0,840.214192867279
+Cutlery,Home Supplies,Tide,0,834.9040150642395
+Sanitizer,Personal Gadget,Tide,0,477.24032402038574
+Laundry Detergent,Personal Gadget,Tide,0,759.8142623901367
+Fabric Softener,Personal Gadget,Tide,0,656.7911505699158
+Dishwasher,Office Supplies,Tide,0,917.1389937400818
+Refrigerator,Home Supplies,Tide,0,193.03667545318604
+TV,Office Supplies,Tide,0,288.88875246047974
+Sound System,Home Supplies,Tide,0,580.5574059486389
+Microwave,Personal Gadget,Tide,0,921.5007424354553
+Oven,Home Supplies,Tide,0,88.5685682296753
+Electric Kettle,Personal Gadget,Tide,0,140.38747549057007
+Coffee Maker,Home Supplies,Tide,0,813.5656714439392
+Heater,Office Supplies,Tide,0,177.60223150253296
+Humidifier,Food,Tide,0,654.3661952018738
+Gaming Console,Home Appliances,Tide,0,701.4207243919373
+Pen,Home Supplies,Tide,0,364.8526072502136
+Pencil,Home Supplies,Tide,0,641.1404013633728
+Notepad,Home Appliances,Tide,0,329.70380783081055
+Sticky Notes,Office Supplies,Tide,0,493.873655796051
+Calendar,Office Supplies,Tide,0,322.2199082374573
+Planner,Personal Gadget,Tide,0,128.0718445777893
+Highlighter,Home Supplies,Tide,0,19.324421882629395
+Sharpener,Office Supplies,Tide,0,184.59683656692505
+Notebook,Personal Gadget,Tide,0,448.41474294662476
+Journal,Office Supplies,Tide,0,72.10928201675415
+Diary,Food,Tide,0,258.49342346191406
+Printer,Home Appliances,Tide,0,389.25737142562866
+Trashcan,Personal Gadget,Tide,0,881.6462159156799
+Chair,Food,Tide,0,339.62613344192505
+Tape,Food,Tide,0,371.2581992149353
+Eraser,Food,Tide,0,372.78610467910767
+Iphone X,Personal Gadget,Bosch,0,264.3222212791443
+Ipad Pro,Home Supplies,Bosch,0,250.31530857086182
+Macbook Pro,Office Supplies,Bosch,0,963.8645648956299
+XPS 13,Home Supplies,Bosch,0,941.7389035224915
+Noise Cancelling Series 2,Office Supplies,Bosch,0,324.08416271209717
+Inspiron,Personal Gadget,Bosch,0,972.4563956260681
+Macbook Air,Home Appliances,Bosch,0,748.5998868942261
+Chips,Personal Gadget,Bosch,0,922.5241541862488
+Milk,Personal Gadget,Bosch,0,787.6637578010559
+Yoghurt,Office Supplies,Bosch,0,888.4018063545227
+Cheese,Home Supplies,Bosch,0,2.9015541076660156
+Chicken Breast,Personal Gadget,Bosch,0,624.3307590484619
+Frozen Pizza,Home Appliances,Bosch,0,520.7802653312683
+Bagels,Personal Gadget,Bosch,0,358.90257358551025
+Bread,Home Appliances,Bosch,0,934.3928694725037
+Cookies,Home Supplies,Bosch,0,596.7230200767517
+Sparkling Water,Food,Bosch,0,956.2434554100037
+Energy Drink,Office Supplies,Bosch,0,554.1500449180603
+Soda,Personal Gadget,Bosch,0,844.5762395858765
+Root Beer,Personal Gadget,Bosch,0,809.2525005340576
+Juice,Personal Gadget,Bosch,0,197.620689868927
+Toilet Paper,Personal Gadget,Bosch,0,664.9187803268433
+Tooth Brush,Personal Gadget,Bosch,0,262.234628200531
+Mouthwash,Office Supplies,Bosch,0,104.07006740570068
+Toothpaste,Home Appliances,Bosch,0,667.2743558883667
+Soap,Food,Bosch,0,858.9534163475037
+Shampoo,Office Supplies,Bosch,0,152.16273069381714
+Shower Gel,Home Appliances,Bosch,0,402.40293741226196
+Dish Soap,Home Supplies,Bosch,0,805.2685856819153
+Towels,Home Appliances,Bosch,0,805.7504296302795
+Cutlery,Office Supplies,Bosch,0,895.6699967384338
+Sanitizer,Office Supplies,Bosch,0,681.8952560424805
+Laundry Detergent,Office Supplies,Bosch,0,119.59213018417358
+Fabric Softener,Home Supplies,Bosch,0,457.14271068573
+Dishwasher,Personal Gadget,Bosch,0,986.3666296005249
+Refrigerator,Home Appliances,Bosch,0,184.19331312179565
+TV,Home Supplies,Bosch,0,838.3369445800781
+Sound System,Home Supplies,Bosch,0,41.603803634643555
+Microwave,Home Supplies,Bosch,0,288.06549310684204
+Oven,Home Supplies,Bosch,0,660.789430141449
+Electric Kettle,Food,Bosch,0,520.9199786186218
+Coffee Maker,Personal Gadget,Bosch,0,906.9453477859497
+Heater,Office Supplies,Bosch,0,261.20203733444214
+Humidifier,Home Supplies,Bosch,0,720.0209498405457
+Gaming Console,Food,Bosch,0,248.12829494476318
+Pen,Home Appliances,Bosch,0,929.0899634361267
+Pencil,Office Supplies,Bosch,0,779.9956202507019
+Notepad,Home Appliances,Bosch,0,499.25416707992554
+Sticky Notes,Food,Bosch,0,429.7158122062683
+Calendar,Home Supplies,Bosch,0,693.8591003417969
+Planner,Home Supplies,Bosch,0,34.645140171051025
+Highlighter,Personal Gadget,Bosch,0,953.6654353141785
+Sharpener,Personal Gadget,Bosch,0,843.4724807739258
+Notebook,Personal Gadget,Bosch,0,554.2234778404236
+Journal,Food,Bosch,0,541.1725044250488
+Diary,Food,Bosch,0,26.664555072784424
+Printer,Personal Gadget,Bosch,0,251.13385915756226
+Trashcan,Office Supplies,Bosch,0,967.2213196754456
+Chair,Office Supplies,Bosch,0,466.0978317260742
+Tape,Home Supplies,Bosch,0,846.8884825706482
+Eraser,Office Supplies,Bosch,0,824.1942524909973
+Iphone X,Food,LG,0,222.75769710540771
+Ipad Pro,Food,LG,0,313.95065784454346
+Macbook Pro,Home Supplies,LG,0,882.8262090682983
+XPS 13,Personal Gadget,LG,0,656.6305756568909
+Noise Cancelling Series 2,Food,LG,0,790.7555103302002
+Inspiron,Home Appliances,LG,0,522.6912498474121
+Macbook Air,Personal Gadget,LG,0,678.5184144973755
+Chips,Home Supplies,LG,0,841.7410254478455
+Milk,Office Supplies,LG,0,33.6376428604126
+Yoghurt,Home Appliances,LG,0,665.4372811317444
+Cheese,Personal Gadget,LG,0,392.40801334381104
+Chicken Breast,Food,LG,0,946.7470645904541
+Frozen Pizza,Home Supplies,LG,0,957.8759670257568
+Bagels,Home Appliances,LG,0,766.4607167243958
+Bread,Home Supplies,LG,0,866.3012385368347
+Cookies,Office Supplies,LG,0,231.50259256362915
+Sparkling Water,Home Supplies,LG,0,11.352181434631348
+Energy Drink,Home Supplies,LG,0,705.2400708198547
+Soda,Home Appliances,LG,0,362.5311851501465
+Root Beer,Personal Gadget,LG,0,626.5994310379028
+Juice,Home Supplies,LG,0,672.532320022583
+Toilet Paper,Personal Gadget,LG,0,804.4241666793823
+Tooth Brush,Home Appliances,LG,0,424.79848861694336
+Mouthwash,Personal Gadget,LG,0,311.3543391227722
+Toothpaste,Office Supplies,LG,0,722.9655981063843
+Soap,Food,LG,0,475.8833050727844
+Shampoo,Home Supplies,LG,0,541.796863079071
+Shower Gel,Food,LG,0,713.607132434845
+Dish Soap,Home Supplies,LG,0,646.3742852210999
+Towels,Personal Gadget,LG,0,233.5938811302185
+Cutlery,Home Supplies,LG,0,422.6141571998596
+Sanitizer,Home Appliances,LG,0,890.9546136856079
+Laundry Detergent,Home Appliances,LG,0,555.6114315986633
+Fabric Softener,Home Supplies,LG,0,472.9236960411072
+Dishwasher,Personal Gadget,LG,0,729.0322780609131
+Refrigerator,Food,LG,0,546.9921231269836
+TV,Home Supplies,LG,0,413.0191206932068
+Sound System,Office Supplies,LG,0,162.9541516304016
+Microwave,Food,LG,0,52.23137140274048
+Oven,Office Supplies,LG,0,386.3273859024048
+Electric Kettle,Food,LG,0,80.22862672805786
+Coffee Maker,Personal Gadget,LG,0,1.797318458557129
+Heater,Home Appliances,LG,0,770.0382471084595
+Humidifier,Home Supplies,LG,0,118.57855319976807
+Gaming Console,Personal Gadget,LG,0,910.2019667625427
+Pen,Home Appliances,LG,0,644.4350481033325
+Pencil,Home Appliances,LG,0,175.73988437652588
+Notepad,Office Supplies,LG,0,184.26257371902466
+Sticky Notes,Personal Gadget,LG,0,177.32131481170654
+Calendar,Food,LG,0,328.42832803726196
+Planner,Personal Gadget,LG,0,930.6173324584961
+Highlighter,Home Supplies,LG,0,194.4257616996765
+Sharpener,Office Supplies,LG,0,630.5908560752869
+Notebook,Home Supplies,LG,0,594.9144959449768
+Journal,Office Supplies,LG,0,459.7363471984863
+Diary,Home Appliances,LG,0,151.0639786720276
+Printer,Home Supplies,LG,0,850.524365901947
+Trashcan,Home Appliances,LG,0,830.6317925453186
+Chair,Personal Gadget,LG,0,384.16606187820435
+Tape,Home Supplies,LG,0,746.8242645263672
+Eraser,Personal Gadget,LG,0,892.0475840568542
+Iphone X,Office Supplies,Phillips,0,41.27907752990723
+Ipad Pro,Food,Phillips,0,462.67789602279663
+Macbook Pro,Personal Gadget,Phillips,0,430.1764965057373
+XPS 13,Home Appliances,Phillips,0,903.7549495697021
+Noise Cancelling Series 2,Home Appliances,Phillips,0,607.3406934738159
+Inspiron,Home Appliances,Phillips,0,802.1107912063599
+Macbook Air,Personal Gadget,Phillips,0,466.1872386932373
+Chips,Personal Gadget,Phillips,0,28.115451335906982
+Milk,Home Appliances,Phillips,0,770.5752849578857
+Yoghurt,Food,Phillips,0,287.97101974487305
+Cheese,Home Supplies,Phillips,0,923.224687576294
+Chicken Breast,Home Appliances,Phillips,0,907.7319502830505
+Frozen Pizza,Home Supplies,Phillips,0,252.6889443397522
+Bagels,Food,Phillips,0,285.4689955711365
+Bread,Personal Gadget,Phillips,0,372.3682761192322
+Cookies,Food,Phillips,0,549.5155453681946
+Sparkling Water,Personal Gadget,Phillips,0,717.2822952270508
+Energy Drink,Home Supplies,Phillips,0,666.0757660865784
+Soda,Personal Gadget,Phillips,0,98.99216890335083
+Root Beer,Office Supplies,Phillips,0,131.6441297531128
+Juice,Personal Gadget,Phillips,0,751.9820332527161
+Toilet Paper,Personal Gadget,Phillips,0,125.81765651702881
+Tooth Brush,Personal Gadget,Phillips,0,794.9362397193909
+Mouthwash,Home Appliances,Phillips,0,577.43239402771
+Toothpaste,Home Appliances,Phillips,0,669.7378754615784
+Soap,Food,Phillips,0,578.9081454277039
+Shampoo,Personal Gadget,Phillips,0,24.875223636627197
+Shower Gel,Home Appliances,Phillips,0,365.74864387512207
+Dish Soap,Personal Gadget,Phillips,0,706.5855860710144
+Towels,Personal Gadget,Phillips,0,133.94951820373535
+Cutlery,Personal Gadget,Phillips,0,241.93966388702393
+Sanitizer,Home Appliances,Phillips,0,99.37053918838501
+Laundry Detergent,Office Supplies,Phillips,0,127.74783372879028
+Fabric Softener,Personal Gadget,Phillips,0,789.820671081543
+Dishwasher,Office Supplies,Phillips,0,765.340268611908
+Refrigerator,Office Supplies,Phillips,0,810.6811046600342
+TV,Personal Gadget,Phillips,0,344.76393461227417
+Sound System,Home Appliances,Phillips,0,524.4982838630676
+Microwave,Food,Phillips,0,926.6901612281799
+Oven,Home Supplies,Phillips,0,848.3630418777466
+Electric Kettle,Office Supplies,Phillips,0,393.41121912002563
+Coffee Maker,Food,Phillips,0,892.4430012702942
+Heater,Office Supplies,Phillips,0,541.9166684150696
+Humidifier,Food,Phillips,0,459.2577815055847
+Gaming Console,Home Appliances,Phillips,0,25.49964189529419
+Pen,Food,Phillips,0,594.8147177696228
+Pencil,Personal Gadget,Phillips,0,972.0979928970337
+Notepad,Office Supplies,Phillips,0,856.3132882118225
+Sticky Notes,Personal Gadget,Phillips,0,227.19216346740723
+Calendar,Home Appliances,Phillips,0,741.6633367538452
+Planner,Personal Gadget,Phillips,0,299.2572784423828
+Highlighter,Personal Gadget,Phillips,0,646.5523838996887
+Sharpener,Food,Phillips,0,192.32505559921265
+Notebook,Home Supplies,Phillips,0,686.374306678772
+Journal,Home Supplies,Phillips,0,562.089741230011
+Diary,Home Supplies,Phillips,0,982.2515845298767
+Printer,Office Supplies,Phillips,0,651.2690782546997
+Trashcan,Home Supplies,Phillips,0,380.0325393676758
+Chair,Home Appliances,Phillips,0,571.7962980270386
+Tape,Personal Gadget,Phillips,0,694.0275430679321
+Eraser,Food,Phillips,0,984.1975569725037
+Iphone X,Food,Samsung,0,166.9977903366089
+Ipad Pro,Food,Samsung,0,559.6396923065186
+Macbook Pro,Personal Gadget,Samsung,0,966.2871360778809
+XPS 13,Home Appliances,Samsung,0,732.1933507919312
+Noise Cancelling Series 2,Food,Samsung,0,822.8718638420105
+Inspiron,Personal Gadget,Samsung,0,795.5371141433716
+Macbook Air,Office Supplies,Samsung,0,823.5031366348267
+Chips,Home Appliances,Samsung,0,960.4494571685791
+Milk,Home Supplies,Samsung,0,422.16622829437256
+Yoghurt,Home Supplies,Samsung,0,360.9464168548584
+Cheese,Office Supplies,Samsung,0,810.0376129150391
+Chicken Breast,Personal Gadget,Samsung,0,424.8883128166199
+Frozen Pizza,Food,Samsung,0,315.3653144836426
+Bagels,Food,Samsung,0,459.5003128051758
+Bread,Home Appliances,Samsung,0,766.7416334152222
+Cookies,Personal Gadget,Samsung,0,646.8434929847717
+Sparkling Water,Food,Samsung,0,93.71107816696167
+Energy Drink,Home Appliances,Samsung,0,5.285680294036865
+Soda,Food,Samsung,0,534.3164801597595
+Root Beer,Home Supplies,Samsung,0,810.0197315216064
+Juice,Personal Gadget,Samsung,0,924.9181747436523
+Toilet Paper,Home Appliances,Samsung,0,741.364061832428
+Tooth Brush,Food,Samsung,0,746.4331984519958
+Mouthwash,Home Supplies,Samsung,0,859.7661852836609
+Toothpaste,Office Supplies,Samsung,0,54.16172742843628
+Soap,Home Supplies,Samsung,0,810.0705146789551
+Shampoo,Personal Gadget,Samsung,0,614.8601770401001
+Shower Gel,Food,Samsung,0,306.7690134048462
+Dish Soap,Home Supplies,Samsung,0,582.0630788803101
+Towels,Personal Gadget,Samsung,0,521.8272805213928
+Cutlery,Home Appliances,Samsung,0,754.3604373931885
+Sanitizer,Home Supplies,Samsung,0,15.588998794555664
+Laundry Detergent,Home Appliances,Samsung,0,855.0302982330322
+Fabric Softener,Personal Gadget,Samsung,0,50.65053701400757
+Dishwasher,Home Appliances,Samsung,0,646.8760371208191
+Refrigerator,Food,Samsung,0,693.040668964386
+TV,Home Appliances,Samsung,0,933.1945776939392
+Sound System,Food,Samsung,0,922.2272634506226
+Microwave,Home Appliances,Samsung,0,302.52450704574585
+Oven,Office Supplies,Samsung,0,882.2296857833862
+Electric Kettle,Food,Samsung,0,637.3159289360046
+Coffee Maker,Food,Samsung,0,454.38092947006226
+Heater,Home Appliances,Samsung,0,39.192259311676025
+Humidifier,Home Appliances,Samsung,0,15.13516902923584
+Gaming Console,Home Appliances,Samsung,0,618.4134483337402
+Pen,Office Supplies,Samsung,0,759.9432468414307
+Pencil,Personal Gadget,Samsung,0,73.01431894302368
+Notepad,Home Appliances,Samsung,0,479.94446754455566
+Sticky Notes,Food,Samsung,0,742.5099611282349
+Calendar,Food,Samsung,0,528.4927487373352
+Planner,Office Supplies,Samsung,0,788.791298866272
+Highlighter,Home Supplies,Samsung,0,718.9180850982666
+Sharpener,Home Supplies,Samsung,0,837.7623558044434
+Notebook,Home Appliances,Samsung,0,566.1163330078125
+Journal,Home Appliances,Samsung,0,142.39925146102905
+Diary,Office Supplies,Samsung,0,88.38212490081787
+Printer,Food,Samsung,0,512.3820900917053
+Trashcan,Food,Samsung,0,991.2959933280945
+Chair,Home Appliances,Samsung,0,636.5075707435608
+Tape,Food,Samsung,0,584.5173001289368
+Eraser,Home Appliances,Samsung,0,319.1336393356323
+Iphone X,Food,Bose,0,60.217976570129395
+Ipad Pro,Office Supplies,Bose,0,706.4273357391357
+Macbook Pro,Food,Bose,0,566.9320225715637
+XPS 13,Personal Gadget,Bose,0,15.83021879196167
+Noise Cancelling Series 2,Home Appliances,Bose,0,826.2460827827454
+Inspiron,Home Appliances,Bose,0,154.67089414596558
+Macbook Air,Home Supplies,Bose,0,296.5793013572693
+Chips,Home Appliances,Bose,0,51.13101005554199
+Milk,Home Supplies,Bose,0,225.99780559539795
+Yoghurt,Personal Gadget,Bose,0,480.80974817276
+Cheese,Food,Bose,0,445.396363735199
+Chicken Breast,Personal Gadget,Bose,0,691.0741925239563
+Frozen Pizza,Office Supplies,Bose,0,728.4055948257446
+Bagels,Home Supplies,Bose,0,567.4776434898376
+Bread,Food,Bose,0,732.1156859397888
+Cookies,Food,Bose,0,394.1657543182373
+Sparkling Water,Personal Gadget,Bose,0,383.34202766418457
+Energy Drink,Personal Gadget,Bose,0,203.87274026870728
+Soda,Home Appliances,Bose,0,492.0188784599304
+Root Beer,Office Supplies,Bose,0,141.47484302520752
+Juice,Home Appliances,Bose,0,962.8323912620544
+Toilet Paper,Food,Bose,0,354.8692464828491
+Tooth Brush,Home Appliances,Bose,0,297.97136783599854
+Mouthwash,Personal Gadget,Bose,0,433.0694079399109
+Toothpaste,Home Supplies,Bose,0,900.5736708641052
+Soap,Office Supplies,Bose,0,916.8592095375061
+Shampoo,Home Appliances,Bose,0,715.9003615379333
+Shower Gel,Food,Bose,0,573.2604265213013
+Dish Soap,Home Appliances,Bose,0,904.4246077537537
+Towels,Office Supplies,Bose,0,940.7009482383728
+Cutlery,Home Appliances,Bose,0,899.9453783035278
+Sanitizer,Home Supplies,Bose,0,684.5033764839172
+Laundry Detergent,Personal Gadget,Bose,0,441.7259097099304
+Fabric Softener,Home Supplies,Bose,0,947.659432888031
+Dishwasher,Home Appliances,Bose,0,10.832786560058594
+Refrigerator,Office Supplies,Bose,0,613.4402751922607
+TV,Home Supplies,Bose,0,778.7555456161499
+Sound System,Home Supplies,Bose,0,15.981078147888184
+Microwave,Office Supplies,Bose,0,375.59616565704346
+Oven,Office Supplies,Bose,0,522.4475860595703
+Electric Kettle,Food,Bose,0,893.3202028274536
+Coffee Maker,Home Appliances,Bose,0,773.7541794776917
+Heater,Office Supplies,Bose,0,897.5831866264343
+Humidifier,Office Supplies,Bose,0,496.188223361969
+Gaming Console,Home Supplies,Bose,0,373.4273910522461
+Pen,Home Supplies,Bose,0,297.9625463485718
+Pencil,Food,Bose,0,472.76192903518677
+Notepad,Food,Bose,0,935.0488185882568
+Sticky Notes,Personal Gadget,Bose,0,365.1795983314514
+Calendar,Food,Bose,0,190.14984369277954
+Planner,Food,Bose,0,71.65825366973877
+Highlighter,Home Appliances,Bose,0,855.9762835502625
+Sharpener,Office Supplies,Bose,0,739.4769191741943
+Notebook,Food,Bose,0,775.8672833442688
+Journal,Personal Gadget,Bose,0,705.8274149894714
+Diary,Home Appliances,Bose,0,476.1101007461548
+Printer,Food,Bose,0,909.8090529441833
+Trashcan,Home Appliances,Bose,0,458.08786153793335
+Chair,Personal Gadget,Bose,0,713.5816812515259
+Tape,Office Supplies,Bose,0,615.740180015564
+Eraser,Food,Bose,0,152.36365795135498
+Iphone X,Food,Kenmore,0,744.0256476402283
+Ipad Pro,Personal Gadget,Kenmore,0,671.7689633369446
+Macbook Pro,Home Supplies,Kenmore,0,524.5024561882019
+XPS 13,Office Supplies,Kenmore,0,854.8740148544312
+Noise Cancelling Series 2,Office Supplies,Kenmore,0,360.30906438827515
+Inspiron,Office Supplies,Kenmore,0,768.7141299247742
+Macbook Air,Personal Gadget,Kenmore,0,708.3576917648315
+Chips,Office Supplies,Kenmore,0,852.0715832710266
+Milk,Food,Kenmore,0,173.21151494979858
+Yoghurt,Food,Kenmore,0,658.0082774162292
+Cheese,Home Supplies,Kenmore,0,214.7805690765381
+Chicken Breast,Office Supplies,Kenmore,0,893.3084011077881
+Frozen Pizza,Home Appliances,Kenmore,0,338.65469694137573
+Bagels,Food,Kenmore,0,653.648853302002
+Bread,Personal Gadget,Kenmore,0,619.7214126586914
+Cookies,Home Supplies,Kenmore,0,331.855833530426
+Sparkling Water,Office Supplies,Kenmore,0,220.95400094985962
+Energy Drink,Personal Gadget,Kenmore,0,624.1065859794617
+Soda,Office Supplies,Kenmore,0,652.2826552391052
+Root Beer,Home Appliances,Kenmore,0,325.58321952819824
+Juice,Office Supplies,Kenmore,0,139.78499174118042
+Toilet Paper,Home Appliances,Kenmore,0,96.21238708496094
+Tooth Brush,Home Supplies,Kenmore,0,991.6871190071106
+Mouthwash,Personal Gadget,Kenmore,0,195.16611099243164
+Toothpaste,Home Appliances,Kenmore,0,931.6083788871765
+Soap,Personal Gadget,Kenmore,0,889.3306255340576
+Shampoo,Personal Gadget,Kenmore,0,275.9974002838135
+Shower Gel,Home Supplies,Kenmore,0,98.6667275428772
+Dish Soap,Home Appliances,Kenmore,0,644.79660987854
+Towels,Home Supplies,Kenmore,0,66.10321998596191
+Cutlery,Personal Gadget,Kenmore,0,773.1783390045166
+Sanitizer,Personal Gadget,Kenmore,0,850.2770066261292
+Laundry Detergent,Personal Gadget,Kenmore,0,426.965594291687
+Fabric Softener,Home Appliances,Kenmore,0,108.12115669250488
+Dishwasher,Office Supplies,Kenmore,0,482.47718811035156
+Refrigerator,Home Supplies,Kenmore,0,536.2083315849304
+TV,Home Supplies,Kenmore,0,808.520257472992
+Sound System,Office Supplies,Kenmore,0,3.1983256340026855
+Microwave,Food,Kenmore,0,657.7295660972595
+Oven,Home Appliances,Kenmore,0,562.1576905250549
+Electric Kettle,Home Appliances,Kenmore,0,138.18305730819702
+Coffee Maker,Home Supplies,Kenmore,0,365.49556255340576
+Heater,Food,Kenmore,0,874.0809559822083
+Humidifier,Personal Gadget,Kenmore,0,904.4764637947083
+Gaming Console,Office Supplies,Kenmore,0,884.2799067497253
+Pen,Food,Kenmore,0,800.5596995353699
+Pencil,Food,Kenmore,0,795.7482933998108
+Notepad,Office Supplies,Kenmore,0,631.1110258102417
+Sticky Notes,Office Supplies,Kenmore,0,879.8176646232605
+Calendar,Home Appliances,Kenmore,0,474.41619634628296
+Planner,Personal Gadget,Kenmore,0,744.826078414917
+Highlighter,Home Appliances,Kenmore,0,208.58228206634521
+Sharpener,Office Supplies,Kenmore,0,359.8945140838623
+Notebook,Home Appliances,Kenmore,0,249.17179346084595
+Journal,Personal Gadget,Kenmore,0,19.777655601501465
+Diary,Home Appliances,Kenmore,0,717.7144289016724
+Printer,Food,Kenmore,0,816.7416453361511
+Trashcan,Home Appliances,Kenmore,0,807.1548342704773
+Chair,Office Supplies,Kenmore,0,667.1318411827087
+Tape,Home Supplies,Kenmore,0,863.520085811615
+Eraser,Office Supplies,Kenmore,0,280.7038426399231
+Iphone X,Home Appliances,Panasonic,0,901.4412760734558
+Ipad Pro,Food,Panasonic,0,71.0408091545105
+Macbook Pro,Home Supplies,Panasonic,0,583.5930109024048
+XPS 13,Office Supplies,Panasonic,0,624.7232556343079
+Noise Cancelling Series 2,Home Appliances,Panasonic,0,242.68501996994019
+Inspiron,Home Appliances,Panasonic,0,292.7352786064148
+Macbook Air,Home Appliances,Panasonic,0,134.55605506896973
+Chips,Personal Gadget,Panasonic,0,885.3990435600281
+Milk,Office Supplies,Panasonic,0,560.4899525642395
+Yoghurt,Home Appliances,Panasonic,0,565.5483603477478
+Cheese,Office Supplies,Panasonic,0,767.5565481185913
+Chicken Breast,Home Appliances,Panasonic,0,395.45315504074097
+Frozen Pizza,Home Appliances,Panasonic,0,62.13390827178955
+Bagels,Food,Panasonic,0,731.0603260993958
+Bread,Home Supplies,Panasonic,0,491.4964437484741
+Cookies,Home Appliances,Panasonic,0,730.4403185844421
+Sparkling Water,Home Supplies,Panasonic,0,852.2725701332092
+Energy Drink,Food,Panasonic,0,688.0499124526978
+Soda,Personal Gadget,Panasonic,0,966.6315317153931
+Root Beer,Personal Gadget,Panasonic,0,86.79819107055664
+Juice,Home Appliances,Panasonic,0,874.3237853050232
+Toilet Paper,Office Supplies,Panasonic,0,118.32201480865479
+Tooth Brush,Home Appliances,Panasonic,0,271.3661789894104
+Mouthwash,Office Supplies,Panasonic,0,728.8416624069214
+Toothpaste,Personal Gadget,Panasonic,0,587.5508189201355
+Soap,Home Supplies,Panasonic,0,852.1111607551575
+Shampoo,Food,Panasonic,0,141.51930809020996
+Shower Gel,Office Supplies,Panasonic,0,569.0627098083496
+Dish Soap,Personal Gadget,Panasonic,0,903.436005115509
+Towels,Office Supplies,Panasonic,0,240.6470775604248
+Cutlery,Home Appliances,Panasonic,0,294.0292954444885
+Sanitizer,Home Supplies,Panasonic,0,779.1048884391785
+Laundry Detergent,Home Supplies,Panasonic,0,870.754063129425
+Fabric Softener,Food,Panasonic,0,814.5977854728699
+Dishwasher,Home Appliances,Panasonic,0,616.0120964050293
+Refrigerator,Home Appliances,Panasonic,0,568.0403709411621
+TV,Office Supplies,Panasonic,0,220.82668542861938
+Sound System,Personal Gadget,Panasonic,0,324.4912028312683
+Microwave,Home Appliances,Panasonic,0,325.2831697463989
+Oven,Personal Gadget,Panasonic,0,910.0836515426636
+Electric Kettle,Food,Panasonic,0,162.7587080001831
+Coffee Maker,Food,Panasonic,0,982.8470945358276
+Heater,Home Appliances,Panasonic,0,689.8972392082214
+Humidifier,Food,Panasonic,0,55.63586950302124
+Gaming Console,Food,Panasonic,0,753.027617931366
+Pen,Office Supplies,Panasonic,0,357.6355576515198
+Pencil,Food,Panasonic,0,531.9562554359436
+Notepad,Food,Panasonic,0,117.55889654159546
+Sticky Notes,Food,Panasonic,0,754.6176910400391
+Calendar,Office Supplies,Panasonic,0,902.8093814849854
+Planner,Office Supplies,Panasonic,0,534.8818302154541
+Highlighter,Food,Panasonic,0,888.8393640518188
+Sharpener,Home Appliances,Panasonic,0,147.96161651611328
+Notebook,Office Supplies,Panasonic,0,554.0428757667542
+Journal,Home Appliances,Panasonic,0,323.54193925857544
+Diary,Home Supplies,Panasonic,0,318.30722093582153
+Printer,Home Supplies,Panasonic,0,359.27027463912964
+Trashcan,Food,Panasonic,0,166.4392352104187
+Chair,Home Supplies,Panasonic,0,393.068790435791
+Tape,Personal Gadget,Panasonic,0,747.8340864181519
+Eraser,Office Supplies,Panasonic,0,831.4050436019897
+Iphone X,Office Supplies,Keurig,0,825.8548378944397
+Ipad Pro,Home Appliances,Keurig,0,224.89941120147705
+Macbook Pro,Personal Gadget,Keurig,0,97.4428653717041
+XPS 13,Personal Gadget,Keurig,0,778.2643437385559
+Noise Cancelling Series 2,Office Supplies,Keurig,0,226.61888599395752
+Inspiron,Office Supplies,Keurig,0,347.5150465965271
+Macbook Air,Home Appliances,Keurig,0,674.0180253982544
+Chips,Personal Gadget,Keurig,0,835.7278108596802
+Milk,Home Appliances,Keurig,0,375.81145763397217
+Yoghurt,Food,Keurig,0,674.5523810386658
+Cheese,Food,Keurig,0,174.8148798942566
+Chicken Breast,Home Appliances,Keurig,0,850.5222797393799
+Frozen Pizza,Home Supplies,Keurig,0,857.8945994377136
+Bagels,Office Supplies,Keurig,0,184.40347909927368
+Bread,Personal Gadget,Keurig,0,758.7220668792725
+Cookies,Food,Keurig,0,232.94246196746826
+Sparkling Water,Home Appliances,Keurig,0,773.374617099762
+Energy Drink,Personal Gadget,Keurig,0,893.1173086166382
+Soda,Personal Gadget,Keurig,0,766.241192817688
+Root Beer,Food,Keurig,0,140.18136262893677
+Juice,Home Appliances,Keurig,0,251.30683183670044
+Toilet Paper,Office Supplies,Keurig,0,116.360604763031
+Tooth Brush,Office Supplies,Keurig,0,783.4047079086304
+Mouthwash,Office Supplies,Keurig,0,254.09406423568726
+Toothpaste,Food,Keurig,0,127.83575057983398
+Soap,Personal Gadget,Keurig,0,216.39227867126465
+Shampoo,Food,Keurig,0,265.35964012145996
+Shower Gel,Personal Gadget,Keurig,0,70.54030895233154
+Dish Soap,Home Supplies,Keurig,0,981.596827507019
+Towels,Food,Keurig,0,386.44927740097046
+Cutlery,Home Supplies,Keurig,0,862.1053695678711
+Sanitizer,Food,Keurig,0,427.0208477973938
+Laundry Detergent,Food,Keurig,0,221.69053554534912
+Fabric Softener,Personal Gadget,Keurig,0,537.6378297805786
+Dishwasher,Home Supplies,Keurig,0,921.8783974647522
+Refrigerator,Food,Keurig,0,461.1426591873169
+TV,Personal Gadget,Keurig,0,335.0687623023987
+Sound System,Office Supplies,Keurig,0,22.370219230651855
+Microwave,Home Appliances,Keurig,0,386.93708181381226
+Oven,Home Appliances,Keurig,0,314.51869010925293
+Electric Kettle,Home Supplies,Keurig,0,717.5601720809937
+Coffee Maker,Food,Keurig,0,753.5807490348816
+Heater,Home Appliances,Keurig,0,442.0064687728882
+Humidifier,Personal Gadget,Keurig,0,675.0289797782898
+Gaming Console,Home Supplies,Keurig,0,736.3908290863037
+Pen,Home Supplies,Keurig,0,260.40148735046387
+Pencil,Food,Keurig,0,827.4001479148865
+Notepad,Home Appliances,Keurig,0,684.9385499954224
+Sticky Notes,Food,Keurig,0,801.9416332244873
+Calendar,Office Supplies,Keurig,0,358.672559261322
+Planner,Home Supplies,Keurig,0,686.8457794189453
+Highlighter,Personal Gadget,Keurig,0,833.1888318061829
+Sharpener,Office Supplies,Keurig,0,262.61502504348755
+Notebook,Home Appliances,Keurig,0,408.6081385612488
+Journal,Home Supplies,Keurig,0,184.29744243621826
+Diary,Personal Gadget,Keurig,0,197.25042581558228
+Printer,Food,Keurig,0,879.0677189826965
+Trashcan,Home Appliances,Keurig,0,582.1332335472107
+Chair,Personal Gadget,Keurig,0,894.525408744812
+Tape,Office Supplies,Keurig,0,803.2432198524475
+Eraser,Office Supplies,Keurig,0,482.69784450531006
+Iphone X,Home Supplies,Black & Decker,0,168.85334253311157
+Ipad Pro,Office Supplies,Black & Decker,0,149.03360605239868
+Macbook Pro,Home Supplies,Black & Decker,0,932.6028227806091
+XPS 13,Food,Black & Decker,0,178.15834283828735
+Noise Cancelling Series 2,Personal Gadget,Black & Decker,0,712.3123407363892
+Inspiron,Food,Black & Decker,0,101.8604040145874
+Macbook Air,Office Supplies,Black & Decker,0,919.3897247314453
+Chips,Home Appliances,Black & Decker,0,110.8020544052124
+Milk,Personal Gadget,Black & Decker,0,687.1418356895447
+Yoghurt,Home Appliances,Black & Decker,0,269.0783739089966
+Cheese,Office Supplies,Black & Decker,0,354.4108271598816
+Chicken Breast,Food,Black & Decker,0,387.3438835144043
+Frozen Pizza,Food,Black & Decker,0,502.8977394104004
+Bagels,Home Appliances,Black & Decker,0,691.3152933120728
+Bread,Office Supplies,Black & Decker,0,640.6408548355103
+Cookies,Home Supplies,Black & Decker,0,211.66235208511353
+Sparkling Water,Home Supplies,Black & Decker,0,851.8272638320923
+Energy Drink,Food,Black & Decker,0,670.3759431838989
+Soda,Office Supplies,Black & Decker,0,529.002845287323
+Root Beer,Home Supplies,Black & Decker,0,677.5423288345337
+Juice,Food,Black & Decker,0,805.5041432380676
+Toilet Paper,Home Supplies,Black & Decker,0,239.0543818473816
+Tooth Brush,Personal Gadget,Black & Decker,0,604.3871641159058
+Mouthwash,Food,Black & Decker,0,946.2944865226746
+Toothpaste,Home Supplies,Black & Decker,0,609.2144250869751
+Soap,Office Supplies,Black & Decker,0,137.48103380203247
+Shampoo,Personal Gadget,Black & Decker,0,688.8577342033386
+Shower Gel,Office Supplies,Black & Decker,0,729.5714020729065
+Dish Soap,Personal Gadget,Black & Decker,0,823.1720924377441
+Towels,Personal Gadget,Black & Decker,0,89.85936641693115
+Cutlery,Office Supplies,Black & Decker,0,782.3163270950317
+Sanitizer,Personal Gadget,Black & Decker,0,96.33022546768188
+Laundry Detergent,Home Appliances,Black & Decker,0,316.0877227783203
+Fabric Softener,Office Supplies,Black & Decker,0,602.2036075592041
+Dishwasher,Food,Black & Decker,0,470.4638123512268
+Refrigerator,Home Supplies,Black & Decker,0,627.7768015861511
+TV,Personal Gadget,Black & Decker,0,629.3089389801025
+Sound System,Home Supplies,Black & Decker,0,334.6961736679077
+Microwave,Personal Gadget,Black & Decker,0,695.7195997238159
+Oven,Home Appliances,Black & Decker,0,855.2589416503906
+Electric Kettle,Personal Gadget,Black & Decker,0,398.6976146697998
+Coffee Maker,Office Supplies,Black & Decker,0,341.54313802719116
+Heater,Food,Black & Decker,0,408.83004665374756
+Humidifier,Home Supplies,Black & Decker,0,733.4573268890381
+Gaming Console,Home Supplies,Black & Decker,0,846.6028571128845
+Pen,Personal Gadget,Black & Decker,0,116.71173572540283
+Pencil,Personal Gadget,Black & Decker,0,897.2161412239075
+Notepad,Office Supplies,Black & Decker,0,624.8575448989868
+Sticky Notes,Personal Gadget,Black & Decker,0,837.735116481781
+Calendar,Home Supplies,Black & Decker,0,435.6933832168579
+Planner,Office Supplies,Black & Decker,0,520.6822156906128
+Highlighter,Personal Gadget,Black & Decker,0,901.3691544532776
+Sharpener,Home Appliances,Black & Decker,0,630.4412484169006
+Notebook,Home Appliances,Black & Decker,0,441.44243001937866
+Journal,Home Supplies,Black & Decker,0,175.92787742614746
+Diary,Office Supplies,Black & Decker,0,805.0888776779175
+Printer,Personal Gadget,Black & Decker,0,248.826801776886
+Trashcan,Office Supplies,Black & Decker,0,286.89950704574585
+Chair,Home Appliances,Black & Decker,0,58.37368965148926
+Tape,Office Supplies,Black & Decker,0,652.5899767875671
+Eraser,Office Supplies,Black & Decker,0,351.3650894165039
+Iphone X,Personal Gadget,Playstation,0,917.0150756835938
+Ipad Pro,Food,Playstation,0,193.13466548919678
+Macbook Pro,Home Supplies,Playstation,0,815.7514929771423
+XPS 13,Home Appliances,Playstation,0,578.0810117721558
+Noise Cancelling Series 2,Home Appliances,Playstation,0,249.94826316833496
+Inspiron,Home Supplies,Playstation,0,766.5428519248962
+Macbook Air,Home Appliances,Playstation,0,167.02377796173096
+Chips,Office Supplies,Playstation,0,621.0895776748657
+Milk,Food,Playstation,0,100.12173652648926
+Yoghurt,Office Supplies,Playstation,0,505.4420828819275
+Cheese,Home Supplies,Playstation,0,838.160514831543
+Chicken Breast,Food,Playstation,0,682.2165250778198
+Frozen Pizza,Home Appliances,Playstation,0,675.0730872154236
+Bagels,Personal Gadget,Playstation,0,223.54894876480103
+Bread,Office Supplies,Playstation,0,208.82850885391235
+Cookies,Food,Playstation,0,556.6235184669495
+Sparkling Water,Office Supplies,Playstation,0,373.5499978065491
+Energy Drink,Food,Playstation,0,182.49231576919556
+Soda,Home Supplies,Playstation,0,15.141785144805908
+Root Beer,Food,Playstation,0,312.80481815338135
+Juice,Personal Gadget,Playstation,0,914.0543937683105
+Toilet Paper,Home Supplies,Playstation,0,99.71624612808228
+Tooth Brush,Home Supplies,Playstation,0,348.0468988418579
+Mouthwash,Home Appliances,Playstation,0,427.01804637908936
+Toothpaste,Office Supplies,Playstation,0,531.0491919517517
+Soap,Food,Playstation,0,476.2499928474426
+Shampoo,Food,Playstation,0,97.62030839920044
+Shower Gel,Food,Playstation,0,274.1578221321106
+Dish Soap,Food,Playstation,0,90.2976393699646
+Towels,Office Supplies,Playstation,0,414.41911458969116
+Cutlery,Food,Playstation,0,91.72260761260986
+Sanitizer,Office Supplies,Playstation,0,77.27521657943726
+Laundry Detergent,Home Appliances,Playstation,0,495.3150153160095
+Fabric Softener,Food,Playstation,0,248.89391660690308
+Dishwasher,Personal Gadget,Playstation,0,776.0838866233826
+Refrigerator,Food,Playstation,0,774.3913531303406
+TV,Food,Playstation,0,683.6689710617065
+Sound System,Home Supplies,Playstation,0,124.0382194519043
+Microwave,Food,Playstation,0,787.7820730209351
+Oven,Food,Playstation,0,773.9498019218445
+Electric Kettle,Home Appliances,Playstation,0,844.8722958564758
+Coffee Maker,Food,Playstation,0,116.34606122970581
+Heater,Food,Playstation,0,185.20373106002808
+Humidifier,Home Supplies,Playstation,0,239.19659852981567
+Gaming Console,Personal Gadget,Playstation,0,230.87114095687866
+Pen,Personal Gadget,Playstation,0,622.8200197219849
+Pencil,Office Supplies,Playstation,0,414.96407985687256
+Notepad,Home Appliances,Playstation,0,366.9729232788086
+Sticky Notes,Personal Gadget,Playstation,0,75.63841342926025
+Calendar,Home Supplies,Playstation,0,514.4689083099365
+Planner,Office Supplies,Playstation,0,319.8930621147156
+Highlighter,Home Appliances,Playstation,0,107.84995555877686
+Sharpener,Office Supplies,Playstation,0,692.1396851539612
+Notebook,Food,Playstation,0,988.6699914932251
+Journal,Home Supplies,Playstation,0,622.0776438713074
+Diary,Personal Gadget,Playstation,0,912.2311472892761
+Printer,Home Appliances,Playstation,0,772.9482054710388
+Trashcan,Home Supplies,Playstation,0,144.96266841888428
+Chair,Food,Playstation,0,351.08476877212524
+Tape,Home Appliances,Playstation,0,380.993127822876
+Eraser,Office Supplies,Playstation,0,285.04133224487305
+Iphone X,Office Supplies,Microsoft,0,55.911242961883545
+Ipad Pro,Food,Microsoft,0,629.8696994781494
+Macbook Pro,Food,Microsoft,0,149.4302749633789
+XPS 13,Home Appliances,Microsoft,0,119.82095241546631
+Noise Cancelling Series 2,Personal Gadget,Microsoft,0,507.9929828643799
+Inspiron,Home Appliances,Microsoft,0,79.50979471206665
+Macbook Air,Personal Gadget,Microsoft,0,939.7145509719849
+Chips,Office Supplies,Microsoft,0,836.1555933952332
+Milk,Personal Gadget,Microsoft,0,647.0399498939514
+Yoghurt,Home Appliances,Microsoft,0,858.784556388855
+Cheese,Home Appliances,Microsoft,0,479.7769784927368
+Chicken Breast,Office Supplies,Microsoft,0,417.25218296051025
+Frozen Pizza,Personal Gadget,Microsoft,0,478.5817265510559
+Bagels,Personal Gadget,Microsoft,0,15.757203102111816
+Bread,Home Appliances,Microsoft,0,905.4629802703857
+Cookies,Office Supplies,Microsoft,0,951.4213800430298
+Sparkling Water,Office Supplies,Microsoft,0,545.5082654953003
+Energy Drink,Office Supplies,Microsoft,0,395.89476585388184
+Soda,Personal Gadget,Microsoft,0,338.00774812698364
+Root Beer,Office Supplies,Microsoft,0,542.3098802566528
+Juice,Office Supplies,Microsoft,0,133.79019498825073
+Toilet Paper,Home Supplies,Microsoft,0,824.8968720436096
+Tooth Brush,Home Appliances,Microsoft,0,560.3253245353699
+Mouthwash,Office Supplies,Microsoft,0,555.9287071228027
+Toothpaste,Home Appliances,Microsoft,0,41.56661033630371
+Soap,Home Supplies,Microsoft,0,664.2863154411316
+Shampoo,Home Appliances,Microsoft,0,103.29782962799072
+Shower Gel,Home Appliances,Microsoft,0,519.8174118995667
+Dish Soap,Food,Microsoft,0,287.72807121276855
+Towels,Home Supplies,Microsoft,0,123.94708395004272
+Cutlery,Home Appliances,Microsoft,0,597.1991419792175
+Sanitizer,Personal Gadget,Microsoft,0,603.9379835128784
+Laundry Detergent,Food,Microsoft,0,133.1961154937744
+Fabric Softener,Office Supplies,Microsoft,0,908.178448677063
+Dishwasher,Office Supplies,Microsoft,0,943.5803294181824
+Refrigerator,Food,Microsoft,0,633.4042549133301
+TV,Home Supplies,Microsoft,0,441.4172172546387
+Sound System,Home Appliances,Microsoft,0,870.466947555542
+Microwave,Office Supplies,Microsoft,0,719.3914651870728
+Oven,Office Supplies,Microsoft,0,9.907245635986328
+Electric Kettle,Home Appliances,Microsoft,0,714.1627073287964
+Coffee Maker,Office Supplies,Microsoft,0,357.0595383644104
+Heater,Personal Gadget,Microsoft,0,237.8077507019043
+Humidifier,Home Supplies,Microsoft,0,751.7056465148926
+Gaming Console,Home Supplies,Microsoft,0,104.54386472702026
+Pen,Home Appliances,Microsoft,0,830.5560946464539
+Pencil,Food,Microsoft,0,859.1753840446472
+Notepad,Home Supplies,Microsoft,0,101.30953788757324
+Sticky Notes,Food,Microsoft,0,331.2240242958069
+Calendar,Home Appliances,Microsoft,0,182.12032318115234
+Planner,Home Appliances,Microsoft,0,470.68601846694946
+Highlighter,Food,Microsoft,0,795.4918146133423
+Sharpener,Office Supplies,Microsoft,0,696.1281299591064
+Notebook,Food,Microsoft,0,864.5420074462891
+Journal,Personal Gadget,Microsoft,0,534.8350405693054
+Diary,Home Appliances,Microsoft,0,144.02008056640625
+Printer,Personal Gadget,Microsoft,0,342.520534992218
+Trashcan,Office Supplies,Microsoft,0,608.2659959793091
+Chair,Office Supplies,Microsoft,0,744.4136738777161
+Tape,Personal Gadget,Microsoft,0,521.5097069740295
+Eraser,Home Supplies,Microsoft,0,481.1442494392395
+Iphone X,Home Appliances,Staedtler,0,18.636643886566162
+Ipad Pro,Office Supplies,Staedtler,0,115.730881690979
+Macbook Pro,Personal Gadget,Staedtler,0,741.0566210746765
+XPS 13,Home Supplies,Staedtler,0,559.1816902160645
+Noise Cancelling Series 2,Personal Gadget,Staedtler,0,794.9877977371216
+Inspiron,Food,Staedtler,0,301.95581912994385
+Macbook Air,Food,Staedtler,0,48.81632328033447
+Chips,Food,Staedtler,0,250.1208782196045
+Milk,Food,Staedtler,0,660.8437299728394
+Yoghurt,Office Supplies,Staedtler,0,14.916300773620605
+Cheese,Personal Gadget,Staedtler,0,155.45225143432617
+Chicken Breast,Food,Staedtler,0,702.1787762641907
+Frozen Pizza,Office Supplies,Staedtler,0,349.3760824203491
+Bagels,Office Supplies,Staedtler,0,706.3859701156616
+Bread,Food,Staedtler,0,803.3867478370667
+Cookies,Personal Gadget,Staedtler,0,698.7544298171997
+Sparkling Water,Home Supplies,Staedtler,0,149.39773082733154
+Energy Drink,Food,Staedtler,0,78.83620262145996
+Soda,Personal Gadget,Staedtler,0,858.0430746078491
+Root Beer,Personal Gadget,Staedtler,0,256.45607709884644
+Juice,Home Supplies,Staedtler,0,584.5552682876587
+Toilet Paper,Home Supplies,Staedtler,0,570.824921131134
+Tooth Brush,Home Appliances,Staedtler,0,806.7769408226013
+Mouthwash,Home Appliances,Staedtler,0,714.5649790763855
+Toothpaste,Food,Staedtler,0,772.0154523849487
+Soap,Food,Staedtler,0,693.6401724815369
+Shampoo,Personal Gadget,Staedtler,0,850.9519100189209
+Shower Gel,Food,Staedtler,0,554.3701648712158
+Dish Soap,Home Appliances,Staedtler,0,886.8231177330017
+Towels,Home Supplies,Staedtler,0,983.5102558135986
+Cutlery,Home Appliances,Staedtler,0,484.6230745315552
+Sanitizer,Office Supplies,Staedtler,0,27.627766132354736
+Laundry Detergent,Food,Staedtler,0,944.2424774169922
+Fabric Softener,Food,Staedtler,0,377.6400685310364
+Dishwasher,Personal Gadget,Staedtler,0,567.5485134124756
+Refrigerator,Food,Staedtler,0,170.47041654586792
+TV,Home Appliances,Staedtler,0,804.7741055488586
+Sound System,Home Supplies,Staedtler,0,22.52519130706787
+Microwave,Food,Staedtler,0,420.75854539871216
+Oven,Home Appliances,Staedtler,0,932.4101209640503
+Electric Kettle,Food,Staedtler,0,905.174732208252
+Coffee Maker,Personal Gadget,Staedtler,0,879.4440031051636
+Heater,Office Supplies,Staedtler,0,399.66851472854614
+Humidifier,Home Appliances,Staedtler,0,959.6507549285889
+Gaming Console,Home Supplies,Staedtler,0,723.6893773078918
+Pen,Office Supplies,Staedtler,0,4.720509052276611
+Pencil,Office Supplies,Staedtler,0,732.7299118041992
+Notepad,Home Supplies,Staedtler,0,37.74541616439819
+Sticky Notes,Personal Gadget,Staedtler,0,398.83673191070557
+Calendar,Office Supplies,Staedtler,0,51.29808187484741
+Planner,Home Supplies,Staedtler,0,152.87190675735474
+Highlighter,Home Appliances,Staedtler,0,320.70392370224
+Sharpener,Home Supplies,Staedtler,0,238.4740114212036
+Notebook,Personal Gadget,Staedtler,0,363.35867643356323
+Journal,Home Supplies,Staedtler,0,994.4931864738464
+Diary,Home Appliances,Staedtler,0,251.9763708114624
+Printer,Home Supplies,Staedtler,0,79.49799299240112
+Trashcan,Food,Staedtler,0,17.166614532470703
+Chair,Home Appliances,Staedtler,0,980.522096157074
+Tape,Personal Gadget,Staedtler,0,517.310380935669
+Eraser,Home Appliances,Staedtler,0,588.4228944778442
+Iphone X,Home Appliances,Faber Castell,0,299.0131974220276
+Ipad Pro,Office Supplies,Faber Castell,0,882.0709586143494
+Macbook Pro,Home Appliances,Faber Castell,0,460.2968096733093
+XPS 13,Office Supplies,Faber Castell,0,629.2087435722351
+Noise Cancelling Series 2,Home Appliances,Faber Castell,0,405.0823450088501
+Inspiron,Office Supplies,Faber Castell,0,597.4670648574829
+Macbook Air,Food,Faber Castell,0,138.4924054145813
+Chips,Home Appliances,Faber Castell,0,767.0960426330566
+Milk,Home Supplies,Faber Castell,0,598.2527732849121
+Yoghurt,Personal Gadget,Faber Castell,0,967.9530262947083
+Cheese,Office Supplies,Faber Castell,0,601.3255715370178
+Chicken Breast,Office Supplies,Faber Castell,0,825.8357644081116
+Frozen Pizza,Food,Faber Castell,0,663.2983684539795
+Bagels,Home Supplies,Faber Castell,0,824.1040110588074
+Bread,Home Supplies,Faber Castell,0,30.56424856185913
+Cookies,Food,Faber Castell,0,170.58593034744263
+Sparkling Water,Food,Faber Castell,0,264.6430730819702
+Energy Drink,Home Supplies,Faber Castell,0,340.0202989578247
+Soda,Office Supplies,Faber Castell,0,99.94179010391235
+Root Beer,Office Supplies,Faber Castell,0,49.880385398864746
+Juice,Personal Gadget,Faber Castell,0,729.7720313072205
+Toilet Paper,Office Supplies,Faber Castell,0,761.608362197876
+Tooth Brush,Home Appliances,Faber Castell,0,282.61101245880127
+Mouthwash,Food,Faber Castell,0,897.4561095237732
+Toothpaste,Home Supplies,Faber Castell,0,856.5962314605713
+Soap,Food,Faber Castell,0,970.7742929458618
+Shampoo,Personal Gadget,Faber Castell,0,863.41392993927
+Shower Gel,Home Supplies,Faber Castell,0,968.3593511581421
+Dish Soap,Personal Gadget,Faber Castell,0,574.5129585266113
+Towels,Personal Gadget,Faber Castell,0,149.10870790481567
+Cutlery,Personal Gadget,Faber Castell,0,97.52583503723145
+Sanitizer,Home Supplies,Faber Castell,0,63.63445520401001
+Laundry Detergent,Office Supplies,Faber Castell,0,676.5998005867004
+Fabric Softener,Personal Gadget,Faber Castell,0,12.65263557434082
+Dishwasher,Home Supplies,Faber Castell,0,297.8537082672119
+Refrigerator,Office Supplies,Faber Castell,0,384.02968645095825
+TV,Food,Faber Castell,0,384.3258023262024
+Sound System,Home Supplies,Faber Castell,0,703.588604927063
+Microwave,Home Supplies,Faber Castell,0,630.6376457214355
+Oven,Food,Faber Castell,0,745.5403804779053
+Electric Kettle,Personal Gadget,Faber Castell,0,206.35664463043213
+Coffee Maker,Personal Gadget,Faber Castell,0,445.2126622200012
+Heater,Personal Gadget,Faber Castell,0,52.02561616897583
+Humidifier,Office Supplies,Faber Castell,0,488.23922872543335
+Gaming Console,Food,Faber Castell,0,409.4797372817993
+Pen,Personal Gadget,Faber Castell,0,493.2969808578491
+Pencil,Home Appliances,Faber Castell,0,127.9609203338623
+Notepad,Personal Gadget,Faber Castell,0,414.72893953323364
+Sticky Notes,Office Supplies,Faber Castell,0,432.36613273620605
+Calendar,Office Supplies,Faber Castell,0,749.9638199806213
+Planner,Home Appliances,Faber Castell,0,445.54394483566284
+Highlighter,Home Appliances,Faber Castell,0,5.684018135070801
+Sharpener,Personal Gadget,Faber Castell,0,741.8349385261536
+Notebook,Home Supplies,Faber Castell,0,645.4476714134216
+Journal,Home Supplies,Faber Castell,0,946.0975527763367
+Diary,Food,Faber Castell,0,977.3316383361816
+Printer,Food,Faber Castell,0,956.4791321754456
+Trashcan,Personal Gadget,Faber Castell,0,538.629949092865
+Chair,Food,Faber Castell,0,788.4881496429443
+Tape,Home Supplies,Faber Castell,0,969.3536162376404
+Eraser,Office Supplies,Faber Castell,0,543.9581274986267
+Iphone X,Personal Gadget,KOKUYO,0,938.9901757240295
+Ipad Pro,Home Supplies,KOKUYO,0,285.8233451843262
+Macbook Pro,Home Appliances,KOKUYO,0,781.5763354301453
+XPS 13,Food,KOKUYO,0,35.9569787979126
+Noise Cancelling Series 2,Office Supplies,KOKUYO,0,310.6234073638916
+Inspiron,Office Supplies,KOKUYO,0,49.46774244308472
+Macbook Air,Food,KOKUYO,0,113.9453649520874
+Chips,Office Supplies,KOKUYO,0,498.75813722610474
+Milk,Home Supplies,KOKUYO,0,83.2323431968689
+Yoghurt,Home Appliances,KOKUYO,0,721.3895320892334
+Cheese,Home Appliances,KOKUYO,0,206.66688680648804
+Chicken Breast,Home Supplies,KOKUYO,0,947.5662708282471
+Frozen Pizza,Home Appliances,KOKUYO,0,765.5116319656372
+Bagels,Personal Gadget,KOKUYO,0,579.1686177253723
+Bread,Food,KOKUYO,0,126.0296106338501
+Cookies,Home Appliances,KOKUYO,0,499.1726279258728
+Sparkling Water,Food,KOKUYO,0,733.0961227416992
+Energy Drink,Office Supplies,KOKUYO,0,857.5711250305176
+Soda,Personal Gadget,KOKUYO,0,696.3036060333252
+Root Beer,Personal Gadget,KOKUYO,0,320.2403783798218
+Juice,Office Supplies,KOKUYO,0,346.257746219635
+Toilet Paper,Personal Gadget,KOKUYO,0,846.4109897613525
+Tooth Brush,Home Appliances,KOKUYO,0,239.2461895942688
+Mouthwash,Home Supplies,KOKUYO,0,847.4374413490295
+Toothpaste,Home Supplies,KOKUYO,0,541.7880415916443
+Soap,Office Supplies,KOKUYO,0,696.4930295944214
+Shampoo,Office Supplies,KOKUYO,0,350.1264452934265
+Shower Gel,Office Supplies,KOKUYO,0,330.8393359184265
+Dish Soap,Home Appliances,KOKUYO,0,939.0161633491516
+Towels,Food,KOKUYO,0,393.75126361846924
+Cutlery,Personal Gadget,KOKUYO,0,912.8143787384033
+Sanitizer,Home Supplies,KOKUYO,0,483.4694266319275
+Laundry Detergent,Home Supplies,KOKUYO,0,801.665723323822
+Fabric Softener,Food,KOKUYO,0,546.2649464607239
+Dishwasher,Personal Gadget,KOKUYO,0,436.3618493080139
+Refrigerator,Personal Gadget,KOKUYO,0,907.5389504432678
+TV,Home Supplies,KOKUYO,0,905.2649140357971
+Sound System,Home Supplies,KOKUYO,0,469.65837478637695
+Microwave,Home Appliances,KOKUYO,0,581.6367864608765
+Oven,Home Appliances,KOKUYO,0,11.89500093460083
+Electric Kettle,Food,KOKUYO,0,474.08080101013184
+Coffee Maker,Home Supplies,KOKUYO,0,553.4570217132568
+Heater,Home Supplies,KOKUYO,0,438.9539361000061
+Humidifier,Office Supplies,KOKUYO,0,335.38055419921875
+Gaming Console,Home Appliances,KOKUYO,0,872.0553517341614
+Pen,Office Supplies,KOKUYO,0,44.2962646484375
+Pencil,Home Appliances,KOKUYO,0,716.278612613678
+Notepad,Food,KOKUYO,0,547.2540259361267
+Sticky Notes,Home Supplies,KOKUYO,0,658.9811444282532
+Calendar,Home Supplies,KOKUYO,0,191.44684076309204
+Planner,Office Supplies,KOKUYO,0,502.4625062942505
+Highlighter,Office Supplies,KOKUYO,0,908.5130095481873
+Sharpener,Home Supplies,KOKUYO,0,956.1607837677002
+Notebook,Personal Gadget,KOKUYO,0,165.94314575195312
+Journal,Home Supplies,KOKUYO,0,681.1040639877319
+Diary,Home Supplies,KOKUYO,0,646.9119191169739
+Printer,Food,KOKUYO,0,805.0513863563538
+Trashcan,Office Supplies,KOKUYO,0,286.6693139076233
+Chair,Food,KOKUYO,0,388.0077600479126
+Tape,Food,KOKUYO,0,523.6570835113525
+Eraser,Food,KOKUYO,0,347.90563583374023
+Iphone X,Home Supplies,Canson,0,865.0798797607422
+Ipad Pro,Personal Gadget,Canson,0,128.85034084320068
+Macbook Pro,Home Appliances,Canson,0,851.2102365493774
+XPS 13,Home Appliances,Canson,0,211.17544174194336
+Noise Cancelling Series 2,Personal Gadget,Canson,0,414.800763130188
+Inspiron,Food,Canson,0,303.5441040992737
+Macbook Air,Office Supplies,Canson,0,359.3250513076782
+Chips,Office Supplies,Canson,0,430.45574426651
+Milk,Food,Canson,0,63.177525997161865
+Yoghurt,Food,Canson,0,919.9211597442627
+Cheese,Home Appliances,Canson,0,600.3873944282532
+Chicken Breast,Home Appliances,Canson,0,620.0001835823059
+Frozen Pizza,Office Supplies,Canson,0,748.9079833030701
+Bagels,Office Supplies,Canson,0,221.74370288848877
+Bread,Personal Gadget,Canson,0,35.32552719116211
+Cookies,Home Appliances,Canson,0,860.3512048721313
+Sparkling Water,Food,Canson,0,193.21590662002563
+Energy Drink,Personal Gadget,Canson,0,804.680585861206
+Soda,Personal Gadget,Canson,0,547.800600528717
+Root Beer,Home Supplies,Canson,0,954.3828964233398
+Juice,Personal Gadget,Canson,0,691.5943026542664
+Toilet Paper,Home Supplies,Canson,0,548.7707853317261
+Tooth Brush,Food,Canson,0,897.0851302146912
+Mouthwash,Home Supplies,Canson,0,285.06362438201904
+Toothpaste,Home Appliances,Canson,0,488.96485567092896
+Soap,Personal Gadget,Canson,0,357.0287227630615
+Shampoo,Office Supplies,Canson,0,538.9801263809204
+Shower Gel,Home Appliances,Canson,0,497.5033402442932
+Dish Soap,Food,Canson,0,873.1732964515686
+Towels,Food,Canson,0,257.2289705276489
+Cutlery,Food,Canson,0,319.3185329437256
+Sanitizer,Home Appliances,Canson,0,623.3579516410828
+Laundry Detergent,Office Supplies,Canson,0,150.0580906867981
+Fabric Softener,Personal Gadget,Canson,0,897.5402116775513
+Dishwasher,Home Appliances,Canson,0,776.0477066040039
+Refrigerator,Home Supplies,Canson,0,67.42101907730103
+TV,Personal Gadget,Canson,0,347.90152311325073
+Sound System,Office Supplies,Canson,0,846.5616106987
+Microwave,Office Supplies,Canson,0,173.57772588729858
+Oven,Home Supplies,Canson,0,84.24121141433716
+Electric Kettle,Home Appliances,Canson,0,839.8926854133606
+Coffee Maker,Office Supplies,Canson,0,394.4472074508667
+Heater,Home Appliances,Canson,0,937.0298385620117
+Humidifier,Personal Gadget,Canson,0,986.860454082489
+Gaming Console,Home Supplies,Canson,0,70.3015923500061
+Pen,Food,Canson,0,744.1872954368591
+Pencil,Home Appliances,Canson,0,854.2120456695557
+Notepad,Food,Canson,0,350.27867555618286
+Sticky Notes,Food,Canson,0,223.38390350341797
+Calendar,Home Appliances,Canson,0,580.747663974762
+Planner,Home Appliances,Canson,0,269.59699392318726
+Highlighter,Home Appliances,Canson,0,899.003803730011
+Sharpener,Home Supplies,Canson,0,983.6070537567139
+Notebook,Home Supplies,Canson,0,10.65152883529663
+Journal,Food,Canson,0,507.26985931396484
+Diary,Office Supplies,Canson,0,601.059079170227
+Printer,Office Supplies,Canson,0,501.60741806030273
+Trashcan,Food,Canson,0,775.720477104187
+Chair,Home Appliances,Canson,0,928.7610650062561
+Tape,Home Supplies,Canson,0,730.0734519958496
+Eraser,Home Supplies,Canson,0,302.35975980758667
+Iphone X,Office Supplies,Bic,0,462.075412273407
+Ipad Pro,Office Supplies,Bic,0,356.87386989593506
+Macbook Pro,Food,Bic,0,302.58989334106445
+XPS 13,Office Supplies,Bic,0,150.35992860794067
+Noise Cancelling Series 2,Office Supplies,Bic,0,149.12843704223633
+Inspiron,Home Supplies,Bic,0,78.0608057975769
+Macbook Air,Food,Bic,0,349.48575496673584
+Chips,Home Supplies,Bic,0,821.1916089057922
+Milk,Office Supplies,Bic,0,573.1833577156067
+Yoghurt,Office Supplies,Bic,0,273.6002206802368
+Cheese,Food,Bic,0,938.4040832519531
+Chicken Breast,Food,Bic,0,319.6697235107422
+Frozen Pizza,Home Supplies,Bic,0,416.39071702957153
+Bagels,Home Supplies,Bic,0,523.7677693367004
+Bread,Home Supplies,Bic,0,728.356122970581
+Cookies,Home Appliances,Bic,0,331.8214416503906
+Sparkling Water,Home Supplies,Bic,0,774.1904854774475
+Energy Drink,Home Supplies,Bic,0,979.3938398361206
+Soda,Home Appliances,Bic,0,108.15954208374023
+Root Beer,Office Supplies,Bic,0,601.287841796875
+Juice,Home Supplies,Bic,0,203.0053734779358
+Toilet Paper,Home Appliances,Bic,0,901.6434550285339
+Tooth Brush,Home Supplies,Bic,0,647.1379399299622
+Mouthwash,Home Appliances,Bic,0,480.29857873916626
+Toothpaste,Home Appliances,Bic,0,4.831075668334961
+Soap,Food,Bic,0,533.549964427948
+Shampoo,Home Supplies,Bic,0,669.5125102996826
+Shower Gel,Personal Gadget,Bic,0,121.1918592453003
+Dish Soap,Home Appliances,Bic,0,566.5042996406555
+Towels,Office Supplies,Bic,0,685.7789158821106
+Cutlery,Personal Gadget,Bic,0,253.17585468292236
+Sanitizer,Personal Gadget,Bic,0,646.52419090271
+Laundry Detergent,Office Supplies,Bic,0,638.8094425201416
+Fabric Softener,Personal Gadget,Bic,0,994.2947626113892
+Dishwasher,Home Supplies,Bic,0,849.045991897583
+Refrigerator,Personal Gadget,Bic,0,164.13241624832153
+TV,Home Appliances,Bic,0,414.22039270401
+Sound System,Food,Bic,0,539.0479564666748
+Microwave,Office Supplies,Bic,0,18.954753875732422
+Oven,Home Supplies,Bic,0,678.0818700790405
+Electric Kettle,Home Appliances,Bic,0,141.95436239242554
+Coffee Maker,Food,Bic,0,400.4943370819092
+Heater,Personal Gadget,Bic,0,498.03489446640015
+Humidifier,Food,Bic,0,787.2555255889893
+Gaming Console,Home Appliances,Bic,0,805.149495601654
+Pen,Home Supplies,Bic,0,774.7057676315308
+Pencil,Food,Bic,0,901.826024055481
+Notepad,Food,Bic,0,560.4081749916077
+Sticky Notes,Home Supplies,Bic,0,77.3586630821228
+Calendar,Food,Bic,0,468.0250883102417
+Planner,Home Supplies,Bic,0,918.8284873962402
+Highlighter,Home Appliances,Bic,0,129.82988357543945
+Sharpener,Office Supplies,Bic,0,374.1875886917114
+Notebook,Home Supplies,Bic,0,948.6635327339172
+Journal,Office Supplies,Bic,0,755.9918165206909
+Diary,Home Supplies,Bic,0,355.33517599105835
+Printer,Home Supplies,Bic,0,320.78438997268677
+Trashcan,Food,Bic,0,645.3357338905334
+Chair,Home Appliances,Bic,0,937.6320242881775
+Tape,Home Appliances,Bic,0,376.1117458343506
+Eraser,Office Supplies,Bic,0,367.0247793197632
+Iphone X,Food,Durian,0,851.9704937934875
+Ipad Pro,Home Appliances,Durian,0,297.5294589996338
+Macbook Pro,Food,Durian,0,990.0356531143188
+XPS 13,Food,Durian,0,599.6158123016357
+Noise Cancelling Series 2,Home Supplies,Durian,0,422.732412815094
+Inspiron,Home Supplies,Durian,0,149.4685411453247
+Macbook Air,Personal Gadget,Durian,0,578.3783793449402
+Chips,Office Supplies,Durian,0,23.97739887237549
+Milk,Personal Gadget,Durian,0,423.0349063873291
+Yoghurt,Personal Gadget,Durian,0,173.23565483093262
+Cheese,Office Supplies,Durian,0,728.402316570282
+Chicken Breast,Personal Gadget,Durian,0,718.6408638954163
+Frozen Pizza,Home Appliances,Durian,0,39.91824388504028
+Bagels,Home Supplies,Durian,0,511.10196113586426
+Bread,Office Supplies,Durian,0,797.1611022949219
+Cookies,Home Appliances,Durian,0,301.038920879364
+Sparkling Water,Office Supplies,Durian,0,349.115252494812
+Energy Drink,Home Supplies,Durian,0,934.0738654136658
+Soda,Food,Durian,0,406.8923592567444
+Root Beer,Food,Durian,0,85.94226837158203
+Juice,Personal Gadget,Durian,0,986.3185286521912
+Toilet Paper,Home Appliances,Durian,0,707.7029943466187
+Tooth Brush,Food,Durian,0,265.70916175842285
+Mouthwash,Office Supplies,Durian,0,166.43208265304565
+Toothpaste,Food,Durian,0,376.61218643188477
+Soap,Food,Durian,0,964.0041589736938
+Shampoo,Office Supplies,Durian,0,766.8688297271729
+Shower Gel,Home Appliances,Durian,0,402.1802544593811
+Dish Soap,Home Supplies,Durian,0,938.7228488922119
+Towels,Home Supplies,Durian,0,969.0387845039368
+Cutlery,Home Appliances,Durian,0,535.7160568237305
+Sanitizer,Food,Durian,0,960.9419107437134
+Laundry Detergent,Office Supplies,Durian,0,599.6934771537781
+Fabric Softener,Food,Durian,0,664.9779677391052
+Dishwasher,Home Appliances,Durian,0,465.46947956085205
+Refrigerator,Home Supplies,Durian,0,626.54709815979
+TV,Personal Gadget,Durian,0,30.77542781829834
+Sound System,Office Supplies,Durian,0,260.9679698944092
+Microwave,Home Supplies,Durian,0,811.3391995429993
+Oven,Personal Gadget,Durian,0,560.3124499320984
+Electric Kettle,Home Appliances,Durian,0,246.7826008796692
+Coffee Maker,Office Supplies,Durian,0,448.87858629226685
+Heater,Home Supplies,Durian,0,597.0349907875061
+Humidifier,Personal Gadget,Durian,0,582.6755166053772
+Gaming Console,Home Appliances,Durian,0,598.8445281982422
+Pen,Home Appliances,Durian,0,28.02199125289917
+Pencil,Office Supplies,Durian,0,928.5440444946289
+Notepad,Food,Durian,0,327.98731327056885
+Sticky Notes,Office Supplies,Durian,0,734.4419956207275
+Calendar,Personal Gadget,Durian,0,337.1887803077698
+Planner,Office Supplies,Durian,0,807.1273565292358
+Highlighter,Personal Gadget,Durian,0,817.7821636199951
+Sharpener,Food,Durian,0,798.80291223526
+Notebook,Personal Gadget,Durian,0,912.8541350364685
+Journal,Office Supplies,Durian,0,686.8048906326294
+Diary,Home Appliances,Durian,0,96.47583961486816
+Printer,Food,Durian,0,8.183181285858154
+Trashcan,Food,Durian,0,219.16651725769043
+Chair,Food,Durian,0,331.16990327835083
+Tape,Food,Durian,0,578.3266425132751
+Eraser,Office Supplies,Durian,0,738.2500767707825
+Iphone X,Office Supplies,Wipro,0,128.337562084198
+Ipad Pro,Home Supplies,Wipro,0,490.1919364929199
+Macbook Pro,Office Supplies,Wipro,0,665.6259894371033
+XPS 13,Home Appliances,Wipro,0,439.7340416908264
+Noise Cancelling Series 2,Food,Wipro,0,69.31060552597046
+Inspiron,Office Supplies,Wipro,0,539.7401452064514
+Macbook Air,Personal Gadget,Wipro,0,15.46865701675415
+Chips,Personal Gadget,Wipro,0,18.707275390625
+Milk,Personal Gadget,Wipro,0,408.09333324432373
+Yoghurt,Personal Gadget,Wipro,0,504.8774480819702
+Cheese,Food,Wipro,0,556.0853481292725
+Chicken Breast,Home Supplies,Wipro,0,800.294816493988
+Frozen Pizza,Food,Wipro,0,674.8965382575989
+Bagels,Home Supplies,Wipro,0,822.5468397140503
+Bread,Home Appliances,Wipro,0,983.6029410362244
+Cookies,Office Supplies,Wipro,0,832.3176503181458
+Sparkling Water,Office Supplies,Wipro,0,711.2301588058472
+Energy Drink,Food,Wipro,0,790.0916337966919
+Soda,Personal Gadget,Wipro,0,6.230950355529785
+Root Beer,Home Supplies,Wipro,0,79.31435108184814
+Juice,Office Supplies,Wipro,0,674.3651032447815
+Toilet Paper,Personal Gadget,Wipro,0,893.1219577789307
+Tooth Brush,Personal Gadget,Wipro,0,45.25476694107056
+Mouthwash,Home Supplies,Wipro,0,7.581114768981934
+Toothpaste,Office Supplies,Wipro,0,107.07646608352661
+Soap,Home Supplies,Wipro,0,109.55899953842163
+Shampoo,Home Appliances,Wipro,0,450.850248336792
+Shower Gel,Home Supplies,Wipro,0,168.31737756729126
+Dish Soap,Office Supplies,Wipro,0,957.343578338623
+Towels,Food,Wipro,0,846.2599515914917
+Cutlery,Personal Gadget,Wipro,0,545.616090297699
+Sanitizer,Home Supplies,Wipro,0,648.6571431159973
+Laundry Detergent,Home Appliances,Wipro,0,515.6866908073425
+Fabric Softener,Office Supplies,Wipro,0,380.4473280906677
+Dishwasher,Office Supplies,Wipro,0,969.8532223701477
+Refrigerator,Personal Gadget,Wipro,0,679.3145537376404
+TV,Personal Gadget,Wipro,0,727.0822525024414
+Sound System,Home Supplies,Wipro,0,550.2340793609619
+Microwave,Home Appliances,Wipro,0,870.0043559074402
+Oven,Personal Gadget,Wipro,0,262.764573097229
+Electric Kettle,Personal Gadget,Wipro,0,229.9025058746338
+Coffee Maker,Office Supplies,Wipro,0,966.8601155281067
+Heater,Home Appliances,Wipro,0,445.29789686203003
+Humidifier,Personal Gadget,Wipro,0,417.3262119293213
+Gaming Console,Home Supplies,Wipro,0,776.0859131813049
+Pen,Home Appliances,Wipro,0,205.82234859466553
+Pencil,Home Appliances,Wipro,0,247.52485752105713
+Notepad,Home Appliances,Wipro,0,520.2119946479797
+Sticky Notes,Office Supplies,Wipro,0,394.750714302063
+Calendar,Personal Gadget,Wipro,0,274.90341663360596
+Planner,Home Appliances,Wipro,0,415.00961780548096
+Highlighter,Personal Gadget,Wipro,0,276.550829410553
+Sharpener,Office Supplies,Wipro,0,775.7231593132019
+Notebook,Food,Wipro,0,154.17349338531494
+Journal,Home Supplies,Wipro,0,714.2175436019897
+Diary,Home Supplies,Wipro,0,41.587769985198975
+Printer,Home Supplies,Wipro,0,869.9586987495422
+Trashcan,Personal Gadget,Wipro,0,356.35894536972046
+Chair,Home Supplies,Wipro,0,861.0764741897583
+Tape,Home Supplies,Wipro,0,579.7101259231567
+Eraser,Personal Gadget,Wipro,0,630.5933594703674
