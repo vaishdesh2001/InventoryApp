@@ -156,7 +156,7 @@ public class UserInterface {
    */
   public static void userPromptLoadFile(HashTableMap<Long, Product> productMap) {
     File file = new File("src/listProducts.txt");
-
+    int count = 0;
     try (Scanner sc = new Scanner(file)) {
 
       if (sc.nextLine().equals("name, type, manufacturer, barcode, price")) {
@@ -167,15 +167,17 @@ public class UserInterface {
           String manufacturer = allData[2];
           Long barcode = Long.parseLong(allData[3]);
           Double price = Double.parseDouble(allData[4]);
-          System.out.println(barcode);
           if (productMap.put(barcode, new Product(name, type, manufacturer, barcode, price))) {
+            count++;
             continue;
           } else {
             System.out.println("Some products were not added");
           }
         }
       }
-    } catch (IOException e) {
+      System.out.println(count+ " Products were loaded! ");
+    } 
+    catch (IOException e) {
       e.printStackTrace();
     }
   }
