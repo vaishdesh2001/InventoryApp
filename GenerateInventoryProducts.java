@@ -1,11 +1,13 @@
+
 // --== CS400 File Header Information ==--
 // Name: Sneha Tripathi
 // Email: stripathi3@wisc.edu
 // Team: LB
-// Role: data Wrangler
+// Role: data Wrangler 1
 // TA: Divyanshu Saxena
 // Lecturer: Florian Heimerl
-// Notes to Grader: I was helped by Uday Malhotra (umalhotra@wisc.edu)
+// Notes to Grader: The loop code for writing the products into a
+//                  file was originally written by Vaishnavi Deshpande (Backened dev-2)
 import java.util.Random;
 import java.io.FileWriter;
 
@@ -75,24 +77,21 @@ public class GenerateInventoryProducts {
 				nm = foodNames[rand.nextInt(foodNames.length)];
 			}
 			manu = manufacturerNames[c][rand.nextInt(manufacturerNames[c].length)];
-			products[i]= new InventoryProduct(nm, ty,rand.nextFloat()*1000, manu, code);
+			products[i] = new InventoryProduct(nm, ty, rand.nextFloat() * 1000, manu, code);
 		}
 		try {
-		      FileWriter fw = new FileWriter("src/InventoryProductsList.txt");
-		      // comma separated file!!!
-		      fw.write("name, type, manufacturer, barcode, price\n");
-		      for (int i = 0; i < products.length; i++) {
-		        fw.write(products[i].getName() + "," + products[i].getType() + ","
-		            + products[i].getManufacturer() + "," + products[i].getBarcode() + ","
-		            + products[i].getPrice() + "\n");
-		      }
-		      fw.close();
-		    } catch (Exception e) {
-		      System.out.println(e);
-		    }
-		    System.out.println("wrote!");
-		  }
-	
+			FileWriter fw = new FileWriter("src/listProducts.txt");
+			// comma separated file!!!
+			fw.write("name, type, manufacturer, barcode, price\n");
+			for (int i = 0; i < products.length; i++) {
+				fw.write(products[i].getName() + "," + products[i].getType() + "," + products[i].getManufacturer() + ","
+						+ products[i].getBarcode() + "," + products[i].getPrice() + "\n");
+			}
+			fw.close();
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+	}
 
 	/**
 	 * main method used to call CreateProducts()
@@ -100,6 +99,5 @@ public class GenerateInventoryProducts {
 	public static void main(String[] args) {
 		CreateProducts();
 	}
-	
 
 }
