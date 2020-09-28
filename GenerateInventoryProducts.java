@@ -92,7 +92,6 @@ public class GenerateInventoryProducts {
 			System.out.println(e);
 		}
 	}
-
 	/**
 	 * main method used to call CreateProducts()
 	 */
