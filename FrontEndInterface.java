@@ -115,9 +115,14 @@ public class FrontEndInterface {
     Long barcode = barcodeHelper();
     
     Product userProd = createProduct(name, type, manufacturer, barcode, price);
-    inventory.put(barcode, userProd);
+    if(inventory.put(barcode, userProd)) {
     System.out.println("The product was stored successfully.");
     System.out.println();
+    }
+    else {
+      System.out.println("The product was not stored.");
+      System.out.println();
+    }
   }
 
   /**
