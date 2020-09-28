@@ -208,7 +208,7 @@ public class UserInterface {
         System.out.println("Enter the last three digits of the required barcode: ");
         lastThree = scnr.nextInt();
         if (String.valueOf(firstThree).length() == 3 && String.valueOf(lastThree).length() == 3) {
-          happened = false; // ensures correct length of inputs 
+          happened = true; // ensures correct length of inputs 
         } 
         else {
           System.out.println("Please enter the first and last digits of the barcode correctly.");
