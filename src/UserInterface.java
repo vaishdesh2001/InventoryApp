@@ -251,7 +251,7 @@ public class UserInterface {
       try {
         barcode = scnr.nextLong();
         if (barcode.toString().length() == 10) { // ensures correct length of input 
-          happened = false;
+          happened = true;
         }
         else {
           System.out.println("Please enter the 10-digit barcode correctly!");
