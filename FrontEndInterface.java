@@ -167,9 +167,13 @@ public class FrontEndInterface {
       return;
     }
 
-    inventory.remove(barcode);
+    if(inventory.remove(barcode) != null) {
     System.out.println("The product was removed successfully.");
     System.out.println();
+    }
+    else {
+      System.out.println("The product you were trying to remove did not exist in the inventory.");
+    }
   }
 
   /**
