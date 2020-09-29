@@ -1,11 +1,12 @@
 // --== CS400 File Header Information ==--
-// Name: Uday Malhotra
-// Email: umalhotra@wisc.edu
+// Name: Vaishnavi Deshpande
+// Email: vvdeshpande@wisc.edu
 // Team: LB
-// Role: Data Wrangler
+// Role: Backend Developer 2
 // TA: Divyanshu Saxena
 // Lecturer: Gary Dahl
-// Notes to Grader: Aid from Vaishnavi Deshpande for writing to a file.
+// Notes to Grader: <optional extra notes>
+
 import java.util.Random;
 import java.io.FileWriter;
 
@@ -43,9 +44,7 @@ public class Generation {
       "Panasonic", "Keurig", "Black & Decker", "Playstation", "Microsoft", "Staedtler",
       "Faber Castell", "KOKUYO", "Canson", "Bic", "Durian", "Wipro"};
 
-  /*
-   * This method fills an array of random product, and writes to a file.
-   */
+  // this method generates random products and adds it to the hash table
   public static void generateFile() {
     rand = new Random();
     products = new Product[3050];
@@ -54,13 +53,13 @@ public class Generation {
     for (int i = 0; i < manufacturers.length; i++) {
       for (int m = 0; m < names.length; m++) {
         products[j] = new Product(names[m], types[rand.nextInt(5)], manufacturers[i],
-            (long) ((long)(Math.random()*1000000000)+1000000000L), rand.nextFloat() * 1000.0);
+            (long) ((long) (Math.random() * 1000000000) + 1000000000L), rand.nextFloat() * 1000.0);
         j++;
       }
     }
     // writing to a file
     try {
-      FileWriter fw = new FileWriter(".\\Proj1CS400");
+      FileWriter fw = new FileWriter("listProducts.txt");
       // comma separated file
       fw.write("name, type, manufacturer, barcode, price\n");
       for (int i = 0; i < products.length; i++) {

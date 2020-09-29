@@ -18,37 +18,41 @@ import java.util.LinkedList;
 public class InventorySystem {
 
   /**
-   * CHECK IF SIZE = 0, IN ALL METHODS
+   * a method that finds all those products' whose barcodes match the given first three digits and
+   * the given last three digits
    * 
    * @param first3
    * @param lastDigit
-   * @return
+   * @return a linked list of all the products found with the given specifications
    */
   public static LinkedList<Product> findPartialMatches(int first3, int lastDigits,
       HashTableMap<Long, Product> productMap) {
-    // oversized array
-    LinkedList<HashTableMap<Long, Product>.StoredObject>[] productArray = productMap.dataMap;
+    String checkBarcodeStr = "";
     LinkedList<Product> toReturn = new LinkedList<Product>();
-    for (int findIndex = 0; findIndex < productArray.length; findIndex++) {
-      // skips if the data at findIndex is null
-      if (productArray[findIndex] == null) {
-        continue;
+    // loop running through all possible combinations of four digit numbers
+    for (int i = 0; i < 10000; i++) {
+      // adds appropriate number of zeroes according to the number of digits
+      if (("" + i).length() == 1) {
+        checkBarcodeStr = "000" + i + lastDigits;
+      } else if (("" + i).length() == 2) {
+        checkBarcodeStr = "00" + i + lastDigits;
+      } else if (("" + i).length() == 3) {
+        checkBarcodeStr = "0" + i + lastDigits;
+      } else if (("" + i).length() == 4) {
+        checkBarcodeStr = "" + i + lastDigits;
       }
-      // iterates through the linked list
-      for (int i = 0; i < productArray[findIndex].size(); i++) {
-        // checks if the object to be removed is the same as the one being checked in the loop
-        long checkBarcode = (long) productArray[findIndex].get(i).getKey();
-        int calcFirstThree = 0;
-        String strThree = checkBarcode + "";
-        calcFirstThree = Integer.parseInt(strThree.substring(0, 3));
-        if (calcFirstThree == first3 && checkBarcode % 1000 == lastDigits) {
-          toReturn.add((Product) productMap.get(checkBarcode));
-        }
+      checkBarcodeStr = ("" + first3 + checkBarcodeStr);
+      if (productMap.containsKey(Long.parseLong(checkBarcodeStr))) {
+        toReturn.add(productMap.get(Long.parseLong(checkBarcodeStr)));
       }
     }
     return toReturn;
   }
-  
+
+  /**
+   * Method that displays the fields of the product that was returned
+   * @param returnedProduct the product whose attributes are to be displayed
+   */
   public static void displayGet(Product returnedProduct) {
     System.out.println("Barcode:      " + returnedProduct.getBarcode());
     System.out.println("Name:         " + returnedProduct.getName());
@@ -57,12 +61,14 @@ public class InventorySystem {
     System.out.println("Price:        " + returnedProduct.getPrice());
   }
 
+  /**
+   * the method that calls the runProgram method from UserInterface class
+   * @param args
+   */
   public static void main(String args[]) {
-    // front end
-    // USe YOUR hash table map implementation!!
+    // generates a file of random data
     Generation.generateFile();
     HashTableMap<Long, Product> productMap = new HashTableMap<>();
     UserInterface.runProgram(productMap);
   }
-
 }
