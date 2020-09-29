@@ -5,8 +5,8 @@
 // Role: Frontend Developer 2
 // TA: Divyanshu Saxena
 // Lecturer: Gary Dahl
-// Notes to Grader: Method loadFromFile() originally written by Vaishnavi Deshpande (Back End Dev 2)
-// changes and modifications for it to work with this file, done by me.
+// Notes to Grader: Method loadFromFile() originally written by Vaishnavi Deshpande (Back End Dev 2) 
+// for UserInterface. Changes and modifications for it to work with this class, done by me.
 
 import java.io.File;
 import java.io.IOException;
@@ -14,6 +14,13 @@ import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+/**
+ * Class that provides the Front end interface that the user interacts with, implmentation done 
+ * for it to work best with my HashTableMap which uses a Pair Object.
+ * 
+ * @author Rahul S
+ *
+ */
 public class FrontEndInterface {
   static Scanner sc = new Scanner(System.in);
 
@@ -54,6 +61,7 @@ public class FrontEndInterface {
         case "M":
         case "m":
           partialMatch(inventory);
+          break;
         case "C":
         case "c":
           menu();
@@ -221,7 +229,7 @@ public class FrontEndInterface {
    * @param inventory
    */
   public static void loadFromFile(HashTableMap<Long, Product> inventory) {
-    File file = new File("src/listProducts.txt");
+    File file = new File("src/listProduct.txt");
 
     try (Scanner sc = new Scanner(file)) {
 
