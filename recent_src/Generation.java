@@ -1,3 +1,11 @@
+// --== CS400 File Header Information ==--
+// Name: Uday Malhotra
+// Email: umalhotra@wisc.edu
+// Team: LB
+// Role: Data Wrangler
+// TA: Divyanshu Saxena
+// Lecturer: Gary Dahl
+// Notes to Grader: Aid from Vaishnavi Deshpande for writing to a file.
 import java.util.Random;
 import java.io.FileWriter;
 
@@ -6,10 +14,11 @@ import java.io.FileWriter;
  * 
  * It generates and calls the put method to do the same.
  * 
+ * @author Uday Malhotra
  */
 public class Generation {
   private static Random rand;
-  private static Product[] products;
+  public static Product[] products;
   // array of random product names to store initially
   public static String[] names = {"Iphone X", "Ipad Pro", "Macbook Pro", "XPS 13",
       "Noise Cancelling Series 2", "Inspiron", "Macbook Air", "Chips", "Milk", "Yoghurt", "Cheese",
@@ -35,7 +44,12 @@ public class Generation {
       "Panasonic", "Keurig", "Black & Decker", "Playstation", "Microsoft", "Staedtler",
       "Faber Castell", "KOKUYO", "Canson", "Bic", "Durian", "Wipro"};
 
-  // this method generates random products and adds it to the hash table
+  /*
+   * This method fills an array with all possible combinations of products
+   *  using the names and
+   * manufacturers in the above arrays, and writes them to a file.
+   * 
+   */
   public static void generateFile() {
     rand = new Random();
     products = new Product[3050];
@@ -44,13 +58,14 @@ public class Generation {
     for (int i = 0; i < manufacturers.length; i++) {
       for (int m = 0; m < names.length; m++) {
         products[j] = new Product(names[m], types[rand.nextInt(5)], manufacturers[i],
-            (long) ((long) (Math.random() * 1000000000) + 1000000000L), rand.nextFloat() * 1000.0);
+            (long) ((long) (Math.random() * 1000000000) + 1000000000L),
+            rand.nextFloat() * 1000.0);
         j++;
       }
     }
     // writing to a file
     try {
-      FileWriter fw = new FileWriter("src/listProducts.txt");
+      FileWriter fw = new FileWriter(".\\Proj1CS400");
       // comma separated file
       fw.write("name, type, manufacturer, barcode, price\n");
       for (int i = 0; i < products.length; i++) {
